@@ -10,4 +10,9 @@ Repo de estudio de la materia Agricultura Digital (CEIA, FIUBA). Todo en españo
 
 ## Resúmenes
 
-Estructura de `resumen.md`: datos de la clase (docente, fecha, grabación) → ideas clave → desarrollo por tema siguiendo las slides, enriquecido con lo dicho en la transcripción (ejemplos, herramientas, cifras) → relevancia para IA / ideas de TP → glosario → posibles preguntas del multiple choice. Usar timestamps de la transcripción `(hh:mm:ss)` en los puntos importantes para poder ir a la grabación.
+Cada clase tiene un multiple choice al inicio de la siguiente: el resumen tiene que cubrir **todos** los temas de la clase.
+
+- Fuentes: leer la **transcripción completa** (no alcanza con las notas de Gemini, que omiten detalles) y las slides **como imágenes** (pdftotext pierde gráficos, mapas y diagramas).
+- Estructura de `resumen.md`: datos de la clase → repaso rápido para el examen → desarrollo por tema en el orden de la clase (slides + todo lo dicho: ejemplos, cifras, herramientas) → tabla de correcciones de la transcripción automática → ✎ relevancia para IA / ideas de TP → ✎ glosario → ✎ preguntas de práctica con respuestas en `<details>`.
+- Timestamps `(hh:mm:ss)` de la transcripción al inicio de cada tema.
+- Marcar con ✎ todo lo que sea elaboración propia y no se dijo en clase.

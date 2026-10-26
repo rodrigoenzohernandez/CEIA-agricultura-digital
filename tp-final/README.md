@@ -20,4 +20,5 @@
 
 <!-- Anotar acá ideas que surjan en cada clase, con referencia a la clase -->
 
-- (Clase 1) Alertas agroclimáticas, NDVI/aplicación diferenciada, chatbots de recomendación con datos robustos, interoperabilidad de datos, estimación de materia seca, modelos predictivos para feedlots.
+- (Clase 1, sugeridas por la docente) Monitoreo de humedad de granos en cosecha/almacenamiento; predicción de materia seca para ajustar carga; aplicación selectiva de insumos; alertas asociadas a medidas de manejo; chatbots con datos robustos para productores sin asesor; integración/interoperabilidad de datos prediales.
+- (Clase 1, propias) NDVI/anomalías para zonas de manejo; pronóstico de heladas/estrés térmico; modelos predictivos para feedlots.
