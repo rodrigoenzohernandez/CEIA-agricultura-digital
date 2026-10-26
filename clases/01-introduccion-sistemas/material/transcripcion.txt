@@ -1,0 +1,2459 @@
+
+00:00:54
+
+Tomas Moretti: Hola, buenas tardes.
+
+lse posgrados: Hola, ¿cómo están?
+
+Tomas Moretti: Bien, bien.
+
+lse posgrados: Bienvenidos.
+
+Tomas Moretti: Gracias. Aprovechar hacerme el mate mientras. M.
+
+lse posgrados: Vale, somos unos cuantos, así Ok.
+
+Gabriel Quiroga: ¿Qué tal?
+
+lse posgrados: Hola, ¿cómo están? Bienvenidos. Ya somos siete, falta el
+doble, así que a ver quién quiere entrar. Hola, Lucas,
+
+Lucas Didone: Buenas. ¿Cómo va?
+
+lse posgrados: ¿cómo te va? La otra vez me pasó lo mismo. Muchos de
+medicina digital los vi. en agricultura. Hola, Martín.
+
+Martin Horn: Buenas tardes. ¿Cómo también?
+
+lse posgrados: Hola.
+
+Martin Horn: ¿Todo bien?
+
+lse posgrados: Hola, Martín. Gracias por venir. Lucas, ¿ya viste la nota
+del trabajo de medicina?
+
+Lucas Didone: Eh, es la que está en el en el sheet, ¿no es cierto?
+Partido en la última columna.
+
+lse posgrados: Sí.
+
+Lucas Didone: Eh, creo que sí.
+
+lse posgrados: Ah,
+
+Lucas Didone: Sí, muy bien, por suerte.
+
+lse posgrados: sí, fuiste uno de los de más alto rango.
+
+Lucas Didone: Qué bueno, qué bueno.
+
+lse posgrados: Sí. Hola, Guada,
+
+00:05:20
+
+Guadalupe Tiscornia: Hola,
+
+lse posgrados: bienvenida.
+
+Guadalupe Tiscornia: ¿cómo andan?
+
+lse posgrados: Estamos esperando. Faltan eh ponerle tres alumnos para
+
+Guadalupe Tiscornia: Dale, genial.
+
+lse posgrados: arrancar. Guadaes nuestra docente y bueno y Martín que
+los voy a presentar ahora en un ratito, es el mentor de los trabajos
+prácticos.
+
+Guadalupe Tiscornia: Ah, buenísimo.
+
+lse posgrados: Sí, Martín ya está fijo como mentor.
+
+Guadalupe Tiscornia: Qué bueno. ¿Cómo estás, Martín? Un gusto.
+
+Martin Horn: Creo que hizo una de las cosas que dice alguna clase.
+
+Guadalupe Tiscornia: Ah, mirá.
+
+lse posgrados: Claro. ¿Quién fue alumno de esta materia?
+
+Guadalupe Tiscornia: Claro, claro. Está bien.
+
+lse posgrados: Bueno, y cinco empezamos porque no quiero robarle mucho
+más tiempo a Guada porque su clase es larga. Nunca sé cómo haces para
+aguantarte toda. Por más que acordate que vamos a hacer un recreo.
+
+Guadalupe Tiscornia: Sí,
+
+lse posgrados: Yo voy a estar atenta, tipo 8:30.
+
+Guadalupe Tiscornia: ahí va. Sí,
+
+lse posgrados: Te freno porque vos venís embalada y va.
+
+Guadalupe Tiscornia: sí, sí, sí. Y sigo yo. Agarro en vi así que si
+avisame porque si no los tengo ahí a
+
+00:06:44
+
+lse posgrados: Sí, sí, sí. Para que tengan un recreo.
+
+Guadalupe Tiscornia: Dale, genial. M.
+
+lse posgrados: Así que sí, me voy a, de hecho, me voy a poner ahora una
+alarma. Bueno, Sony 5. Eh, esperemos que los otros vayan entrando.
+Bueno, bienvenidos a todos al curso de agricultura digital. eh una
+materia que ya está como re instalada eh como optativa para ustedes. Eh
+yo soy la coordinadora la que les escribió la otra vez. Espero que todos
+hayan visto el mail que hicimos este intercambio por única vez.
+Recuerden que son los martes nuestras clases y e ahora les voy a Bueno,
+Guadalupe, que ahí la ven, es la docente de hoy que eh hace toda la
+clase entera. Martín H es el mentor que van a tener ustedes para los
+trabajos prácticos que ahora les voy a explicar y siempre lo convoco y
+le pido que si puede que venga para que nada diga dos palabras, le vean
+la cara. Para mí es importante, al menos en la primer clase, vernos las
+caras y saber que hay humanos detrás de la tecnología, que está todo
+bien,
+
+00:08:15
+
+Martin Horn: No soy una agenda. M.
+
+lse posgrados: pero hay humanos, no es ninguna gente y es un eh humano
+mentor groso. Y ya les empiezo a decir que aprovechen su feedback porque
+es reafilado y hay un tu tu que está buenísimo. Sí, sí. Él fue alumno de
+esta clase, así que bueno, vamos a arrancar que les voy a presentar la
+materia en general. Sí, voy a compartir. No. Em, lo primero que les
+quiero contar es que siempre así fue como me formaron a mí o me formó a
+mí Ariel Lutenberg, el director, que estas materias, por más que son
+optativas, que es muy importante que ustedes participen, eh, que haya
+preguntas o comentarios o lo que sea con los docentes, eh, es como muy
+importante y resulta muy enriquecedor. Esta es como la séptima corte que
+estoy haciendo entre las dos materias y me doy cuenta, eh, yo no soy del
+palo de la tecnología ni de agricultura ni de medicina, pero me doy
+cuenta lo que enriquece las preguntas de ustedes o mismo comentarios,
+porque nos ha pasado que en agricultura digital había alumnos que tenían
+este venían de una familia de campo o Martín que es agrónomo, por eso es
+que Martín es mentor porque tiene las dos patas de las áreas y entonces
+sucede otra cosa.
+
+00:10:08
+
+lse posgrados: O las preguntas, hay preguntas básicas, no básicas, pero
+que por favor participen, es muy importante y está realmente buenísimo.
+Ese es como el el mood que ponemos a estas materias. Bueno, la modalidad
+virtual sincrónico los martes de 19 a 22. A veces tal vez va a ser un
+poquito menos. A veces cuando vienen expositores que se embalan mucho, a
+veces un poquito más, pero es más o menos en ese horario. Eh, termina,
+bueno, arrancamos hoy como excepción, pero termina el 8 de diciembre.
+Eh, tenemos un poco de teoría y tenemos también eh prácticas. Ahora les
+voy a contar un poco de eso. Eh, las disertaciones son en forma como de
+de teoría para ustedes y todas esas presentaciones yo se las voy a
+mandar por mail. Em, y tienen las eh los datos de los profesores por si
+quieren e conectarlos, que en general todos tienen muy buena onda y se
+ofrecen. Bueno, son ocho módulos intensivos. Ariel Lutenberg es el
+director académico. Acá tienen eh las materias cómo van a ser.
+
+00:11:21
+
+lse posgrados: Tenemos hoy introducción a los sistemas. Por eso Guada
+hace una clase larga porque es como introducir en 2 horas como un
+pequeño resumen de lo que es agricultura para que ustedes vayan entrando
+en el mundo. Después tenemos vegetal intensivo fruticultura. Después
+vegetal intensivo horticultura. vegetal extensivo forestal, vegetal
+extensivo anual, lechería, ganadería. Y con esto ustedes van a tener un
+super pantallazo de lo que es eh agricultura. Los docentes son
+buenísimos.
+
+Pablo's Notetaker: Yeah.
+
+lse posgrados: y vienen expositores que también están muy buenos. Bueno,
+esta es nuestra primer clase que yo les estoy presentando acá la
+modalidad y e como les dije, hoy es introducción a los sistemas. Les
+cuento que la manera que diseñó Ariel con Pablo esto de estas materias
+es eh que se da una clase y a la siguiente clase, al comienzo de la
+clase, se hace un pequeño examen de multiple choice, que suelen ser
+entre cinco y siete preguntas. fácil para ver cuánto entendieron de eh
+la clase. Después de ese examen eh hay una encuesta de terminología de
+la materia o de la especialidad que se va a dar, por ejemplo, si viene
+ganadería, para que tanto ustedes como el docente vean más o menos cómo
+vienen de información acerca de esa e de ese área.
+
+00:12:57
+
+lse posgrados: Bueno, y acá esto les puse la conversación abierta entre
+los entre los alumnos. Yo también a veces pregunto porque me interesa o
+si me surge algo. También interactuo. Bueno, y después hay un e trabajo
+final integrador eh que es un proyecto aplicando los conocimientos de
+tecnología, que ustedes son los expertos, pero que sea para el mundo de
+la agricultura. Martin H, que está acá presente, que hoy vino a
+saludarlos e es el mentor Martínez e también agrónomo, por eso es muy
+interesante que puede dar eh feedback de ambos temas. para para eh la
+nota se evalúan también eh las evaluaciones de los exámenes que les
+comenté antes. Eh y también el tema de las asistencias que está acá
+abajo, eh tienen que estar regularizadas, ¿no? O sea, entendemos que
+alguna vez pueden faltar y lo ven, eh, ven la grabación, pero bueno,
+ideal que estén la mayor cantidad de e clases posibles. Entonces, el
+trabajo integrativo es eh una presentación que ustedes la hacen el
+último día con la cámara prendida como si fuera esto, una disertación.
+
+00:14:22
+
+lse posgrados: Ese puede hacer individual o de a dos alumnos. Eh, la
+propuesta es un problema del sector de la agricultura que pueda, estoy
+leyendo, resolverse con las herramientas aprendidas en el posgrado.
+Entonces, justo a que acabamos de terminar medicina, muchos alumnos
+preguntaban, "¿Tenemos que tener todos los datos? ¿Tiene que ser real?"
+Okay. A ver, puede ser como en un mundo eh de ideal de innovación,
+entonces pueden hacerlo sin los datos.
+
+Pablo's Notetaker: Vamos.
+
+lse posgrados: pueden hacerlo. A veces lo hacen como trabajo final para
+la tesis. A veces lo hacen lo suficientemente porque vienen porque como
+les decía, vienen ya o porque les encanta un tema o porque conocen a
+alguien que les pidió hacer una app o hacer algo y entonces esto no como
+aprovechar que el trabajo integrativo eh tal vez puede ser para algo
+real de verdad que nos pasó eh ahora cuando terminamos en medicina. Así
+que lo ideal es que sea coherente, ¿no? Sea coherente con lo que ustedes
+van a aprender de agricultura, pero coherente con lo que ustedes saben
+de tecnología.
+
+00:15:43
+
+lse posgrados: Em, bueno, y acá les puse hay todo. Después yo cuando
+llegue el momento les voy a explicar bien, pero siempre acá en la
+presentación lo pongo un poco para aclarar que es un documento que tiene
+un ida y vuelta con Martín porque Martín va a ir muy al punto y les va a
+hacer e preguntas y les va a dar feedback para mejorar lo más posible eh
+con su con su otra mirada, ¿no?, que está bueno tener la mirada de
+alguien más, eh, sus propuestas y han salido trabajos superlindos con
+Martín. Bueno, este es mi email mail, yo estoy disponible para lo que
+sea, me escriben cuando sea. De hecho, ella me escribió uno de de
+ustedes para hacerme una pregunta en particular. E, así que todo lo que
+necesiten, cuenten conmigo. Como les dije, yo les voy a mandar las
+presentaciones para que tengan. Eh, de hecho, esta presentación se las
+voy a mandar para que tengan. Acá termino yo rápidamente queremos hacer
+como la presentación. Primero, si querés, Martín, presentate vos, eh,
+Guada, vos al final antes de arrancar, ¿te parece?
+
+00:16:56
+
+Guadalupe Tiscornia: Sí, genial.
+
+lse posgrados: Bueno, presentate vos, Martín, y después se presentan los
+alumnos. Así nos vemos las caras. Primer clase no vemos la cara. Última
+clase en la presentación no vemos las caras porque después la mayoría
+apagan. Así que arrancamos así. Okay. Dale, Martín.
+
+Martin Horn: Eh, ¿cómo están? Un gusto. Eh, yo soy Martín y voy a estar
+eh haciendo de mentor para sus trabajos. Eh, sí quería aprovechar hacer
+unos comentarios que un poco sirve de la experiencia de de cortes
+anteriores. La idea del trabajo es tratar de tener la mayor cantidad de
+interacciones eh o ida y vuelta eh entre cada uno de ustedes y conmigo,
+más que nada porque generalmente la metodología de trabajo o a lo que
+apuntamos es tratar de llegar con el mejor trabajo posible a la última
+clase. nos ha pasado en cortes anteriores, que capaz que llegamos a
+tener cuatro o cinco ideas muy vueltas. E como también nos ha pasado
+caso, que capaz que tuvimos una sobra Eh,
+
+Pablo's Notetaker: segundos.
+
+00:17:59
+
+Martin Horn: lo ideal sería que ese trabajo puedan empezar a encararlo
+lo antes posible. Eh, no necesita hacer algo que ustedes sea exactamente
+lo que van a terminar presentando. Inicialmente pueden llegar incluso a
+presentar propuestas de cuáles son los temas que le gustan eh qué temas
+les gustaría encarar. Eh, y en ese de vuelta podríamos ir refinando
+cuáles serían los mejores alcances con los cuales podrían llegar ese
+trabajo. Más que nada, o sea, podrían iniciar con una imagen mucho más
+grande de lo que quieren hacer y terminar con algo un poco más acotado,
+eh, que queda mejor definido y nada, llega a una mejor versión para para
+presentar en la última clase. Así que nada, un poco que quería
+aprovechar hacer esa mención antes de que comenzaran la cursada. E y
+creo que nada más. Eh, si no tienen ninguna pregunta.
+
+lse posgrados: Gracias, Martín. Bueno, no sé si quieren hacerle una
+pregunta porque Martín se va, eh, ahora no se queda las 2 horas. ya hizo
+la materia.
+
+Guadalupe Tiscornia: No queres escucharlo de vuelta, Martín.
+
+00:19:09
+
+lse posgrados: Eh, bueno, ahí Tomás tiene una pregunta, pero antes de de
+ir a vos, Tomás, les quería decir esto de de que hoy con Wada ustedes
+van a tener como este primer pantallazo general y tal vez, no sé, tal
+vez intuitivamente o como fuera, hay algo de lo que ella habla que
+dicen, "Uy, es copa eso o no sé algo, ¿no? Eh, y tal vez ir por ahí."
+Muchas veces pasa, yo lo que les recomiendo es que no esperen a más de
+la mitad de la materia, o sea, ya la clase cuatro es, por más que
+entendemos que hay otras e digamos clases que están buenas, pero que
+vayan viendo. Hay de todo. Hay alumnos que prefieren ver todo y medio
+que último momento lo hacen, otros que no, otros que ya saben, otros que
+tienen tal persona que les pidió ya algo relacionado a agricultura, lo
+que fuera, pero que no se cuelguen por no perderse todo el feedback.
+Martín es muy eh puntilloso y manda unos mails así explicando todo y
+hace que los e que lo que los proyectos de ustedes realmente den como
+saltos.
+
+00:20:19
+
+lse posgrados: Así que yo lo lo aprovecharía. E de verdad se se ven
+cosas increíbles las últimas clases, así que aprovéchenlo. Ahora sí,
+Tomás,
+
+Tomas Moretti: Eh, no, no me respondiste recién. era la consulta era
+cuando se recomendaba arrancar el trabajo, básicamente, pero bueno, más
+o menos tercer,
+
+lse posgrados: más o menos por la mitad.
+
+Tomas Moretti: cuarta clase.
+
+lse posgrados: Pero bueno,
+
+Tomas Moretti: Salud.
+
+lse posgrados: nos pasó en medicina. En medicina casi me agarró un
+ataque porque era como que no subían los trabajos, no subían los
+trabajos y estábamos teníamos dos mentores qué está pasando y pensamos
+que iba a ser todo un caos o que hicieron No. trabajos increíbles, pero
+no, la verdad es que no aprovecharon mucho los ideas y vuelta,
+
+Martin Horn: Yeah.
+
+lse posgrados: pero bueno, eh, qué sé yo, son cada corte es un misterio.
+Yo siempre recomiendo el feedback y es la manera que también yo me
+preparé cuando fui a la universidad, ¿no? Yo a mis los exprimía así y si
+había uno que tenía como habilitaba esto como Martín que dice, habilito
+y estoy disponible e a full.
+
+00:21:29
+
+lse posgrados: Así que cuando llegue el momento, más o menos ahí en la
+mitad, yo le voy les voy a pasar un Google Forms donde ustedes los van a
+subir para que quede todo prolijo, estar adentro de tu un sistema. E y
+bueno, eso, ¿alguna pregunta más relacionado a esto? No. Bueno,
+entonces, Martín, gracias que te vieron, que sos un humano y bueno, te
+liberamos. Gracias, Martín. Nos vemos. Gracias.
+
+Guadalupe Tiscornia: Cha, cha.
+
+lse posgrados: Bueno, entonces ahora sí e les presento a Guadalupe
+Tiscornia,
+
+Guadalupe Tiscornia: Ellos se iban a presentar,
+
+lse posgrados: que es nuestra primer docente.
+
+Guadalupe Tiscornia: ¿no, Lola, que creo que
+
+lse posgrados: ¿Cierto? Ya me estoy ya yo ya pensando en todo lo que te
+falta.
+
+Guadalupe Tiscornia: Sí,
+
+lse posgrados: Tenés razón.
+
+Guadalupe Tiscornia: sí, yo sé que sabes que me envaló,
+
+lse posgrados: Te lo dije y siempre, viste, me pasa lo mismo. Te dije,
+"No, para, entra más tarde que los saludos no se tienen que presentar."
+Bueno, hacemos eso. Cada uno prende un toque la cámara más allá de los
+acá.
+
+00:22:34
+
+lse posgrados: Por suerte vemos tres que están ahí. Eh, se presenta como
+les había puesto ahí en de dónde vienen, que están cursando y que les
+llamó la atención de de la materia y eso. Así rapidito un salpicado y
+vamos a Guadalupe. vayan arrancando.
+
+Luis Ali: M.
+
+Gabriel Quiroga: Buenas, arranco sin problema. Eh, soy Gabriel Quiroga,
+soy de Mendoza en estoy cursando la la especialización, inteligencia
+artificial. Ya terminé con todas las materias obligatorias. Eh, estoy
+cursando estava y una más. Me queda tarde el trabajo final. Eh, ahí ves
+para terminar. No, no tuve una muy buena elección de trabajo final y
+estoy armando el dataset, así que complicado por ese lado. Es
+relacionado con drones, así quizás agarre algo de drones también para
+para el trabajo de este materia.
+
+lse posgrados: Buenísimo. Gracias.
+
+Rodrigo Hernández: Hola, ¿cómo andan?
+
+lse posgrados: Hola, Yeah.
+
+Rodrigo Hernández: Yo soy Rodri y también estoy cursando la
+especialización. Estoy por terminar todas las obligatorias, pero no
+empecé gestión de proyecto y me anoté en esta optativa como para buscar
+ideas.
+
+00:23:59
+
+Rodrigo Hernández: También quizás encuentro en esta materia una idea
+para el trabajo final.
+
+lse posgrados: Sí, saben que muchos, de hecho, a raíz de esto, yo hablé
+con Ariel hace 2 años, un año, eh, diciendo que ponga estas materias,
+este medicina, eh, que la pongan antes, porque nos pasaba que muchos les
+daba bronca de no haber usado eh estos esto que vos decís, uno se
+inspira y era algo que le divierto o le gusta como trabajo final.
+Entonces, por eso están empezando a hacerlo de manera diferente porque
+salen cosas realmente increíblemente buenas. Así que bien.
+
+Rodrigo Hernández: Gracias.
+
+Gonzalo Cuervo: Buenas. Sí, doctor, puede ser. Bueno, yo soy Gonzalo
+Cuervo, soy ingeniero mecatrónico, soy acá de Mendoza también. Eh,
+trabajo en una empresa y hacemos toda la parte de automatización de
+máquinas agrícolas. Eh, entonces, bueno, esa es una de mis mis
+objetivos, las razones por la que me metí esta materia, eh, porque me
+pasa que yo tengo muchas parte de software y todo eso y la parte más de,
+digamos, la parte agrícola y la parte más física es algo de lo que le
+fallo mucho.
+
+00:25:14
+
+Gonzalo Cuervo: Y bueno, el proyecto que estoy haciendo tiene que ver un
+manejo autónomo para un una máquina cosechadora que de frutales del sur,
+de acuero neuen para manzanas. Entonces debería manejarse de forma
+autónoma con eso, con división artificial. Entonces, bueno, eh la idea
+era complementar ideas con con todo lo que se había acá.
+
+lse posgrados: Bueno, ¿ves? Vos sos un ejemplo de los que digo que
+siempre viene alguien que tiene como una relación. Bueno, gracias.
+
+Gonzalo Cuervo: Muchas
+
+lse posgrados: ¿Quién sigue?
+
+Lucas Didone: Yo puedo seguir si quieren.
+
+lse posgrados: Dale.
+
+Lucas Didone: Dale. Buenísimo. Bueno, me presento. Yo soy Lucas Didone.
+Soy egresado de la carrera especialización en el año 2023 de
+especialización en inteligencia artificial en estoy cursando la maestría
+eh en la segunda corte. También finalizando ahí la última optativa y me
+queda una más de las obligatorias. E como background soy ingeniero en
+informática. Eh, trabajo en la industria del software hace unos cuantos
+años. Actualmente como ingeniero en inteligencia artificial en una
+startup de de California, Estados Unidos.
+
+00:26:22
+
+Lucas Didone: Eh, estoy trabajando full time en eso, en cuestiones de
+software, pero estoy en esta materia porque yo vivo en Rafaela, Santa
+Fe, que es una zona muy rural y hay un montón de posibles aplicaciones,
+pero me faltan los conocimientos relacionados al agro y me gustaría
+llevarme algunas ideas de acá. También con objetivo tal vez definir
+algún posible trabajo final de la maestría. Así que nada, esa es mi
+motivación. Muchas gracias. Yeah.
+
+lse posgrados: Gracias. ¿Quién más?
+
+Tomas Moretti: Eh, voy yo si quieren.
+
+lse posgrados: Dale,
+
+Tomas Moretti: No sé.
+
+lse posgrados: dale.
+
+Tomas Moretti: Eh, bueno,
+
+lse posgrados: Okay.
+
+Tomas Moretti: mi nombre es Tomás. Eh, yo soy ingeniero industrial.
+
+Pablo's Notetaker: M.
+
+Tomas Moretti: Estudié en la Universidad Nacional de Rosario. Eh, estoy
+cursando la especialización de inteligencia artificial. Este es mi
+segundo bimestre, así que estoy bastante nuevo en el tema. Eh, también
+quiero ver si puedo conseguir alguna idea de también para el trabajo
+final y y bueno, yo trabajo en una empresa de que desarrolla software RP
+y tenemos muchos clientes vinculados al agro, por ejemplo, fabricantes
+de sembradoras y o tolvas, monotolvas y demás.
+
+00:27:31
+
+Tomas Moretti: Entonces, creí que era coherente anotarme en esta
+optativa. Así que bueno, gracias.
+
+lse posgrados: Buenísimo. Bueno, vos también entonces relacionado al
+mundo este. Bueno, ¿quién más de los que está acá?
+
+Luis Ali: Buenas tardes.
+
+lse posgrados: Luis,
+
+Luis Ali: Ahora sí es mi turno.
+
+lse posgrados: hola. Yeah.
+
+Luis Ali: Yo soy ingeniero en informática, egresado de de FIUBA, también
+trabajo en desarrollo de software y estoy cursando la especialización en
+inteligencia artificial. Eh, también ya metí eh las materias optativas,
+perdón, eh las obligatorias y lo que me resta ahora es eh son dos
+optativas y los talleres de de trabajo final. Ya cuento con el con un
+trabajo para poder realizar. Tengo un cliente e es un cliente del sector
+agrónomo e del pertenece a Córdoba y lo que tengo que desarrollar es un
+sistema para hacer estimaciones de la de estimar la cantidad de materia
+seca que se produce en un campo para tomar eh decisiones de gestión.
+vendría a ser determinar, por ejemplo, la carga animal que tiene que
+ingresar en el lote, saber si hay que comprar alimento suplementario o
+no y tomar decisiones, ayudar en la toma de decisiones.
+
+00:28:53
+
+Luis Ali: El tema que, bueno, yo estuve trabajando, pero siempre eh lo
+más complejo es la la obtención de los datos. Eh, ahí pude obtener
+datos, pero bueno, a mí lo que se me brindaron fueron una pila de datos
+que venían en revistas de PDF y ahí tuve que hacer todo un trabajo de
+extracción que llevó mucho tiempo. Entonces, este ahora lo que tengo que
+hacer es aplicar las herramientas de vendría a ser de la carrera de
+nuestra especialización e para poder adelantar el trabajo y después
+poder cursar la las materias de de taller. Así que aproveché ahora que
+justo vi en la en la oferta de las optativas, vi la materia esta de
+agricultura digital y y me anoté para ver si también me podría me podría
+servir para lo que estoy haciendo.
+
+lse posgrados: Sper te va a resorvir y Martín te te va a ayudar.
+Buenísimo.
+
+Luis Ali: Muchas gracias.
+
+lse posgrados: Bueno, ¿alguien más?
+
+Facundo Quiroga: Buenas. Eh,
+
+lse posgrados: Hola.
+
+Facundo Quiroga: ¿se me escucha bien? Bueno,
+
+lse posgrados: Sí. Yeah.
+
+Facundo Quiroga: yo soy Facundo Quiroga, soy de Tucumán y me interesa
+mucho esta materia porque yo me dedico a a hacer software para sistemas
+de pesaje animal y también de agricultura eh en balanzas para mixer,
+todo lo hace y y hoy en día mi proyecto final, yo ya he terminado de
+cursar las materias obligatorias y estoy enfocado en hacer un modelo
+predictivo para estimar consumos, desvíos y alertas en Fitlot.
+
+00:30:30
+
+Facundo Quiroga: Entonces, yo creo que esta materia me puede aportar
+ideas para para ver si estoy encarando bien el proyecto o quizás cambiar
+totalmente el rumo y bueno, más que nada por la parte de ganadería, pero
+me interesa toda la parte de agricultura y bueno, todas estas materias
+que son las primeras que vamos a ver, que he visto en el plan, eh porque
+me Me gusta, me gustaría saber en qué eh otras áreas puedo aplicar la lo
+que he aprendido.
+
+lse posgrados: Sí, tienen un montón, ustedes tienen un montón de áreas
+para aplicar, pero esta es buenísima igual que medicines y se necesita
+mucho. Van a oír a todos los docentes diciendo que los necesitan. Bueno,
+gracias de vuelta presentarte. ¿Quién más se quiere presentar?
+
+Carlos Villalobos: Buenas, tal,
+
+lse posgrados: Hola. Ay. Tenemos otro alumno.
+
+Carlos Villalobos: ¿qué tal? ¿Cómo están? Bueno, sí, sí, bien, bien,
+gracias. Bueno, nuevamente, mi nombre es Carlos Villalobos,yo soy
+ingeniero electrónico, terminé también la especialidad del año pasado,
+estoy ahora en la maestría y bueno, tomé esta comoativa a ver qué puedo
+tomar de acá, que me pueda seguir pronto para el proyecto final, sino
+también está bueno el desarrollo del proyecto, estar moviéndose con eso.
+
+00:32:03
+
+Carlos Villalobos: Gracias.
+
+lse posgrados: Buenísimo. Gracias. Otro alumno de medicina. E bueno, son
+7:30. ¿Alguien más se quiere presentar? Si hay alguien por ahí.
+
+Guadalupe Tiscornia: está preocupada por mis tiempos.
+
+lse posgrados: Sí. Igual sé que muchos prenden y van vienen, pero bueno,
+si hay alguien que está por ahí está bueno, como les digo, conocernos
+las caras es lindo, ¿eh? Pero bueno, si no hay nadie más, eh, arrancamos
+y yo eh 8:30 ya me puse el timing, así hacemos el break.
+
+Guadalupe Tiscornia: Genial.
+
+lse posgrados: Dale. Bueno, gracias a todos y bueno, ahí arranca Guada.
+M.
+
+Guadalupe Tiscornia: Excelente. E ahí, esperen que no sé por qué no
+estoy viendo mi esp que lo voy a cerrar y abrir de vuelta la
+presentación. Ya me pasó una vez que no la ve. Bueno, si quieren me voy
+presentando.
+
+lse posgrados: Vale.
+
+Guadalupe Tiscornia: Eh,
+
+lse posgrados: Okay.
+
+Guadalupe Tiscornia: yo soy Guadalupe. Eh, esperen que no sé por qué
+ahora ni encuentro la presentación. Dios mío, tenía todo listo y yo soy
+Guadalupe Tiscornia.
+
+00:33:46
+
+Guadalupe Tiscornia: Yo soy bióloga, tengo una maestría en ciencias
+ambientales y un doctorado en agronomía. Trabajo en niña, que es el
+Instituto Nacional de Investigación Agropecuaria y hace 7 años por ahí
+que estoy coordinando el área de sistemas de información y
+transformación digital de del Instituto. Ya estoy. Eh, lo que pasa es
+que tengo un problema grave porque no estoy encontrando la presentación.
+Cerré porque estaba andando mal.
+
+lse posgrados: Tranqu. Búscala. Tranquila. Vale.
+
+Guadalupe Tiscornia: Bueno, hoy se complicó partido fácil. Esperen, eh,
+que ya acá
+
+Tomas Moretti: Creo que está en mantenimiento el campus, me parece.
+
+Guadalupe Tiscornia: bien. A ver si ahora la logran ver. Bueno, ahora sí
+no parece. Ah, sí. que algún tema con el con el PowerPoint. Ahora la
+están viendo.
+
+lse posgrados: No, a ver, ahí sí, ahí para que se abrió. Sí, perfecto.
+
+Facundo Quiroga: Ahora sí.
+
+lse posgrados: Se ve. Vamos.
+
+Guadalupe Tiscornia: Ya, genial. Cualquier cosa, como decía Lola, me
+interrumpen. Eh, yo me van a avisar en una hora.
+
+00:35:34
+
+Guadalupe Tiscornia: Sí, tenemos un un cortecito, pero cualquier cosa,
+cualquier duda o cualquier comentario que quieran hacer en relación a lo
+que venimos viendo también super bienvenido. Así que este nada,
+
+lse posgrados: Sí,
+
+Guadalupe Tiscornia: interrumpan o lo que les lo que les parezca.
+
+lse posgrados: lo que yo les quiero decir es que el docente está dando
+la clase y a veces no escucha el ruidito cuando aparece la mano y ni ve
+la mano.
+
+Guadalupe Tiscornia: Sí.
+
+lse posgrados: Entonces,
+
+Guadalupe Tiscornia: ¿Por qué no di?
+
+lse posgrados: Esto también me me olvidé decirles como somos pocos y
+somos super responsesables y prolijos, tienen rehabilitado directamente
+abrir el micrófono y preguntar qué es lo que hago
+
+Guadalupe Tiscornia: Sí.
+
+lse posgrados: yo. Así que ustedes pregunten, Guadalupe, para esto no me
+quedó claro, ¿me repetís o tengo esta duda o lo que fuera? Sí. Así que
+micrófono habilitado directamente.
+
+Guadalupe Tiscornia: Sí, exacto. Tal cual. Este, interrumpen y y
+preguntan o comentan lo que les parezca. Bueno, vamos a arrancar. Eh,
+¿qué es un un sistema agropecuario, no? Eh, básicamente un sistema
+agropecuario es un conjunto organizado de elementos que están
+interrelacionados, que permiten la producción de bienes agropecuarios
+mediante el uso de recursos naturales, humanos y tecnológicos, ¿no?
+
+00:36:51
+
+Guadalupe Tiscornia: Tecnológicos. ¿Cuán amplia es la la concepción de
+de recursos tecnológicos? tiene como componentes básicos, uno que son
+todo lo que tiene que ver con recursos naturales, donde encontramos el
+suelo, el clima, fuentes de agua. Eh, otro componente biológico que hace
+referencia básicamente a cultivos, pastas, producción animal, el capital
+humano eh que tiene que estar en cantidad y en calidad adecuado para
+para ese sistema, un capital tecnológico, infraestructura y los
+mercados, que son los que en definitiva terminan regulando y actuando
+sobre estos sistemas. Entonces, como todo sistema tiene interrelaciones
+entre las partes individuales y también está determinado por entradas,
+procesos y salidas. Este es un esquema de un de un sistema sencillo y
+llevado a los sistemas agropecuarios. Las entradas son las semillas, los
+animales, la maquinaria, energía. dentro del sistema se puede dar
+preparación de la tierra, las siembras, las cosechas, todos los procesos
+que se dan dentro de ese sistema y después la salida, que básicamente
+son los productos agropecuarios y residuos que que es lo que termina
+saliendo de esos sistemas este agropecuarios.
+
+00:38:16
+
+Guadalupe Tiscornia: Entonces, lo vamos a definir como un conjunto de
+poblaciones eh de plantas y animales y los microorganismos también que
+que están presentes en el suelo y que y que interactúan en estos
+sistemas. Estas poblaciones en general van a dar eh valor agregado,
+valor agropecuario, están separadas o no de las otras poblaciones porque
+cada una per sé puede generar valor, pero también en la interacción que
+se dan entre ellas. E y cada uno de esos va a estar se va a definir como
+subsistemas de cultivos o de animales o de microorganismos en un
+determinado aspecto. Y estos van a interactuar. entre sí porque se da
+interacción planta animal, por ejemplo, pero también con el ambiente
+porque parte de lo que cómo se comporte o la composición que tenga el
+suelo, los aspectos climáticos, todo eso también obviamente van a
+interactuar con estos otros subsistemas. Y en este marco de integración
+y de interrelación, el manejo que se haga tanto sanitario como
+nutricional de ese sistema es clave y esto aplicado tanto a plantas como
+eh a animales también. Pero, ¿cuál es el objetivo de una empresa
+agropecuaria?
+
+00:39:36
+
+Guadalupe Tiscornia: ¿No? Porque más allá de que de estas interacciones,
+es importante pensar cuál es para el productor el objetivo de su de su
+sistema. Y la realidad es que para el productor agropecuario la unidad
+de producción es un medio para lograr sus propios fines personales y no
+siempre son satisfechos con una mayor producción y mayor eficiencia. Y
+esto es importante que lo tengan en cuenta porque cuando uno diseña
+alguna solución o algún planteo para el sistema, muchas veces cuando se
+le propone al productor parece como a priori contrainttuitivo, ¿no? ¿Por
+qué no va a querer hacer esto si le da mucho más rendimiento? Porque
+muchas veces hay otras cosas en juego que el productor eh tiene en
+cuenta o prioriza que no necesariamente es la producción física por
+unidad del recurso utilizado. Eh, de hecho depende mucho de la empresa,
+depende mucho del productor, ¿no? Siempre este mejoramiento de, no sé,
+tener más kilos de carne o de lana o de algún cultivo por hectárea es lo
+único que al productor le interesa. Obviamente a todo productor le
+interesa sobrevivir de eso, pero no necesariamente es el objetivo
+último.
+
+00:40:56
+
+Guadalupe Tiscornia: Entonces, muchas veces, por ejemplo, se les propone
+algún sistema que produce mucho más, pero requiere más tiempo del
+productor y el productor no prefiere gastar su tiempo en en otra cosa y
+entonces no prioriza los kilos de materia seca eh en esa ecuación o eh
+no sé, algún sistema productivo que haga que eh tenga que utilizar
+alguna parte que normalmente la usa por recreación. Y bueno, y él
+prefiere tener esa parte, ese área de su campo destinada a otro uso y no
+necesariamente a la producción. Entonces, esto es un tema que hay que
+tener en cuenta cuando uno encara un sistema productivo. E y otros de
+estos intereses pueden ser temas de calidad de vida, tema de seguridad
+alimentaria. Eh, muchas veces algunos animales se usan como una caja de
+ahorro. Entonces, en algunos momentos no quiere deshacerse de animales
+porque los tiene para, por ejemplo, no sé, el casamiento de de uno de
+sus hijos, entonces ahí vende y tiene dinero y puede pagar otras cosas.
+Eso se pasa mucho. Eh, grado de aceptación de la sociedad también.
+
+00:42:12
+
+Guadalupe Tiscornia: Si por algo en esa comunidad el tener una parte
+destinada a recreación es importante, quizá al productor no le interesa
+usarla para otra cosa. E el garantizar cada año un volumen mínimo de
+producción. Eh, también tratando de limitar los riesgos de una cosecha
+catastrófica. Por ejemplo, eh muchas veces ocurre que algún productor se
+puede perder una una oportunidad que para un año particular capaz que es
+muy buena porque prefiere eh no arriesgar tanto en función de poder
+tener quizá alguna eh cosecha catastrófica en otro año. Entonces, muchas
+veces son son más conservadores en algunos este aspectos en en la toma
+de decisión. Eh, los sistemas agropecuarios en general se los vamos a a
+a diferenciar en sistemas de cultivos, sistemas mixtos y sistemas
+ganaderos. Dentro de los sistemas de cultivos vamos a hablar de cultivos
+extensivos y cultivos intensivos. Dentro de sistemas ganaderos eh vamos
+a hablar de de ganadería, eh ganadería intensiva y lechería. Eh,
+básicamente la ganadería extensiva es eh eh carne eh y lana. Y después
+los sistemas mixtos combinan eh estas dos opciones.
+
+00:43:37
+
+Guadalupe Tiscornia: Hay algunos sistemas que vamos a ver ahora que son
+agrícola ganaderos o algunos que tienen este ovejas y producción
+intensiva. Entonces este hay varias opciones, digamos, de de este de
+estos sistemas mixtos en relación a cultivos extensivos. se caracterizan
+por tener grandes superficies. En general, los riesgos climáticos son
+muy altos porque son están expuestos, digamos, son producción a cielo
+abierto, muy expuestas a las condiciones climáticas porque por la
+extensividad de la superficie es muy difícil implementar sistemas de
+riego. Por ejemplo, eh tienen una producción por hectárea que que es
+menor que los intensivos porque lo compensan con hectáreas cultivadas.
+Eh, la mano de obra por hectárea en general es baja y hay e gran
+mecanización. Eh, se necesitan tractores, sembradoras, cosechadoras.
+Esos aspectos están fuertemente presentes en los en los cultivos
+extensivos. Algunos de estos cultivos extensivos pueden ser anuales, eh
+cereales eh como avena, maíz, zorgo, trigo, cebada u oleajaginosos como
+pueden ser la soja, el girasol. Y la colza principalmente son de secano,
+como comentaba. Amos recién, eso quiere decir que utilizan agua de
+lluvia.
+
+00:45:02
+
+Guadalupe Tiscornia: Las los cultivos de secano no se riegan. Eh, si hay
+riego, que que ocurre en algunos establecimientos que sí implementan
+sistemas de riego, en general es por pivot. El pivote es un sistema que
+que para cultivos extensivos, digamos, que que deja muchas veces esos
+círculos cuando uno ve imágenes aéreas o inclusive en un avión ve unos
+círculos grandes, verdes, esos son eh pivot central y y en la cosecha es
+muy importante el controlado de la humedad. En estos cultivos eh puede
+haber eh deficiencias en la calidad cuando eh la humedad en el grano en
+cosecha es alta y también deterioro en en almacenaje. Si si se guardan
+grandes cantidades de grano con alta humedad pueden producirse hongos y
+algunos otros tipos de enfermedades. Esto es algunas de las de de estos
+cultivos extensivos. Eso es zorgo. Acá es el uso de maquinaria, ¿no? Una
+cosechadora. E acá tenemos hoja. Estos son sistemas también maquinaria
+para aplicación. trigo. Esos son para que vean cómo son grandes
+extensiones de un mismo cultivo.
+
+00:46:25
+
+Guadalupe Tiscornia: En general lo que se dan son son extensiones muy
+grandes, como ven en estas imágenes de monocultivo, digamos, del mismo
+cultivo que se repite en en muchas hectáreas. e todos estos aspectos
+generales que estamos comentando, básicamente es para también este
+despertarles capaz que alguna idea de de algo que puedan hacer en el en
+el tema de los trabajos, ¿no? Cuando hablamos, por ejemplo, de esto eh
+cosecha que que es importante en la cosecha el controlado de la humedad.
+Bueno, capaz que alguno se le puede ocurrir algún sistema de monitoreo
+de humedad a nivel de cosecha o a nivel de almacenamiento. La idea de
+contarles sobre de qué trata cada uno de los sistemas es tratar también
+de activar alguna idea que puede estar ahí este latente. Así que por
+supuesto sigan, o sea, a medida que siga interrúmpanme en lo que
+consideren o si alguna imagen no se ve o lo que sea. Y acá les quería
+mostrar, ¿ustedes ven esto el video de que se abrió YouTube o no lo ven?
+
+Gabriel Quiroga: No, no sé.
+
+Facundo Quiroga: No, no.
+
+00:47:43
+
+Gabriel Quiroga: M.
+
+Guadalupe Tiscornia: Ya,
+
+Facundo Quiroga: M.
+
+Guadalupe Tiscornia: eso es porque seguramente puse a compartir esto.
+Esperen que lo que voy a hacer es ponerles a compartir. Toda la
+pantalla. Toda la pantalla. Sí. Pueden ver cuando aparezca algún video.
+Eh, uy. Bueno, ahí va barbar. Después otro de los cultivos extensivos
+que también es anual es el arroz. El arroz en general, eh sobre todo en
+en por esta región eh tiene etapas de inundación en crecimiento, por lo
+cual el riego es es fundamental. E ahora van a ver algunas imágenes, no
+es riego convencional, sino que está sistematizada la la chakra,
+digamos, como para que entre agua y quede inundado en algunas etapas del
+crecimiento. Y acá también el control de humedad para almacenamiento.
+Luego de la cosecha, como todo grano es es bastante crítico. Acá pueden
+ver también son cultivos muy extensivos, los campos son muy grandes.
+Esto es un una panoja de arroz y acá pueden ver la sistematización.
+¿Ves? Lo que ocurre es que se hacen como estos canales y terrazas.
+
+00:49:19
+
+Guadalupe Tiscornia: Entonces lo que pasa cuando se riega es que se se
+empieza a bombear agua y queda inundada, digamos, la zona de de
+crecimiento. Eh, esto es en época de cosecha. Obviamente después el agua
+se retira, se tiene que orear para que después la maquinaria pueda
+entrar a hacer algunos este labores como puede ser la cosecha en este
+caso. Eh, acá pueden ver cómo cómo queda el cultivo este inundado. Y
+después otro de los cultivos extensivos que ya no es anual es la
+forestación. Y acá lo que se caracteriza es por tener ciclos muy largos,
+en general 10 años, eh se usa para madera o para celulosa principalmente
+y es mayoritariamente manejada por empresas, sobre todo en esta región
+eh son empresas grandes que son las que manejan este los sistemas
+forestales. Esto es en son imágenes de Uruguay. Son grandes superficies
+forestadas, principalmente eucaliptus, también algunas pinos y y las
+empresas forestales se caracterizan también por tener algunos sistemas
+implementados como puede tienen este desarrollo de genética, tienen
+viveros en las cuales crecen, digamos, los plantines y que después van a
+trasladar a campo.
+
+00:50:45
+
+Guadalupe Tiscornia: son como se autoabastecen en muchos aspectos porque
+son empresas grandes que tienen como capacidad para poder implementar
+inclusive investigación. Eh, acá pueden ver también este plantines en
+género. estrogenética que desarrollan las propias empresas. Eh eh
+también utilizan mucha maquinaria para las operaciones. tienen algunos
+después este van a ver, pero tienen algunos sistemas que que tratan de
+optimizar todo lo que es la operativa de por dónde van a entrar la
+maquinaria, cuál es la ruta más óptima, cómo se dan las cosechas, porque
+ahí también tienen un gran punto de de eficiencia, digamos, en los
+sistemas en tratar de optimizar todos esos esos aspectos. E acá es
+también es eh cosecha y esto es para para chip, ¿no? Después de que las
+procesan la madera, esto va más que nada para chip. Después, dentro de
+cultivos intensivos, e se caracterizan en general por tener una alta
+densidad de producción por hectárea. Eh, acuérdense que que son
+superficies chicas, entonces tienen que ser muy eficientes en lo que
+producen por hectárea. Son relativamente pequeñas, son campos
+relativamente pequeños.
+
+00:52:10
+
+Guadalupe Tiscornia: Los otros estamos hablando de, no sé, por ahí 2000,
+5000 haáreas. Estos son unas pocas hectáreas. Eh, obviamente que depende
+productor, hay productores grandes, pero 100 100 y pico en cultivos
+extensivos son superficies muy grandes. Buscan maximizar el rendimiento
+por hectárea, obviamente tratando de sacarle más provecho porque en
+general la producción de este tipo de cultivos es más caro llevado a
+hectárea. Requieren una mayor mano de obra. en general son bastante
+intensivos en el uso de mano de obra. Eh, el riego es muy importante,
+aunque deberían tenerlo. No todos los sistemas productivos intensivos
+utilizan riego. Y es muy importante también los aspectos de postcosecha.
+eh prácticamente todos estos sistemas este productivos los van a ir eh
+en clases que viene eh detallando mucho más con docentes que saben bien
+de cada uno de los sistemas. Esto es pensando en darles un pantallazo
+general como para que empiecen a tener una idea y pensar por por dónde
+pueden ir los los trabajos. Eh, dentro de los cultivos intensivos está
+la horticultura que se caracteriza por tener ciclos cortos, una gran
+diversidad de cultivos.
+
+00:53:31
+
+Guadalupe Tiscornia: Puede darse a cielo abierto, en invernáculos, en
+túneles de plástico o inclusive hidropoña, o sea, ni siquiera en tierra.
+Y es muy intensivo en mano de obra. Estos son algunos ejemplos. Esto es
+frutilla que tienen esos túneles de plástico. E esto es eh también
+algunos cultivos más intensivos que que son a cielo abierto. Esto es
+cultivo de tomate. en generar la cosecha es bastante manual de muchos de
+estos de estos cultivos. Tienen algunas maquinarias, pero en general son
+maquinarias pequeñas pensadas para esas superficies también. Obviamente
+una máquina muy grande en estas en estos predios es es inviable. Eh, hay
+muchos productores familiares o productores pequeños que tienen estos
+sistemas como principal fuente de ingreso. E acá también es frutilla en
+en invernáculos. Eh, bien, vieron como en el caso también de la frutilla
+la cosecha es muy manual. Eh, los manejos que se hace son bastante este
+manuales porque requieren también mucho detalle muchas veces. E después
+otro de los cultivos intensivos es la fruticultura, que es eh la
+producción de fruta para consumo fresco o procesamiento.
+
+00:54:56
+
+Guadalupe Tiscornia: Eh son ciclos más largos. Algunos árboles frutales
+pueden tardar años en en madurar y dar frutos. Eh, y la polinización en
+estos sistemas es clave. Entonces también eh los eventuales aportes a
+todo lo que tiene que ver con apicultura eh también está bueno y es muy
+beneficioso para para estos sistemas. E estos son citrus. Acá pueden ver
+este mandarinas. Estos eh son manzanas. Estos son cerezas, duraznos. Eh,
+todos esos cultivos eh se se caracterizan por eso, ¿no? Por el tema de
+la polinización es muy importante y muchas veces el costo de
+implantación de estos sistemas es bastante más caro que los anuales.
+Piensen que son árboles que recién por ahí a los 2 tr años pueden dar eh
+frutos en estos casos. en otros nueces pecan, olivos también este para
+estar este en etapa productiva muchas veces se demoran años, entonces
+son se cuidan mucho, digamos, para tratar de que la producción sea eh la
+mayor posible lo antes posible. Después, en relación a producción
+animal, eh tenemos la ganadería extensiva, que también son grandes
+extensiones.
+
+00:56:31
+
+Guadalupe Tiscornia: Generalmente está basada en en pastizales
+naturales. Usualmente tienen bajas cargas ganaderas, o sea, son
+extensiones muy grandes, base campo natural, pastizanes naturales, con
+cargas ganaderas que que fluctúan, pero que en general este son bajas
+con más o menos potreros, depende el manejo. Hay algunos predios eh
+ganaderos extensivos que manejan una cantidad enorme de predios eh de
+parcelas, perdón, de de de potreros. Esto lo lo que requiere es un
+manejo muy intensivo porque los animales hay que migrarlos, ¿no? De un
+potrero para otro postrero. Cuando se le acabe el pasto tiene que ir
+moviendo los potreros. Entonces, cuanto más potreros tenga, más
+intensivo es el manejo y y la tensión que requiere, digamos, cada uno de
+esos potreros. En general hay una muy baja utilización de mano de obra y
+de insumos. Eh, acá pueden ver, ¿no?, pero son superficies muy grandes.
+Eh, hay dos, tres, cuatro peones que manejan eh un montón de animales. E
+acá hay algunos ejemplos. Acá me quedaron todos todo ganado de carne del
+mismo, pero también hay otros, no todos son marrones.
+
+00:57:52
+
+Guadalupe Tiscornia: el ganado. Eh, también eh se combinan ganado eh
+vacuno con ganado o vino. Eh, se pueden combinar o no. Hay
+establecimientos que son solo este ganado o vino de carne y hay otros
+que son solo bovino para carne, hay otros que son ovinos para lana y
+para carne, o sea, y hay unos que son combinados, algunos combinan vacas
+y ovejas en un mismo establecimiento. Eh, también la característica del
+sistema productivo va a definir la raza, ¿no?, de cada uno de los
+animales o o qué eh a qué se dedica va a estar definiendo, bueno, si son
+ovinos más para carne o son más para lana y lo mismo con los vacunas.
+Después hay también sistemas de ganadería dentro de producción animal
+que son muy intensivos, tienen una alta densidad de animales en espacios
+relativamente pequeños. Hay un uso muy intensivo de los recursos, hay
+una alta utilización de mano de obra y de insumos externos. Los ciclos
+productivos en general se acortan mucho, pero el impacto ambiental es
+mucho mayor que en estos sistemas que son más extensivos, que combinen
+con pasturas naturales.
+
+00:59:15
+
+Guadalupe Tiscornia: Acá la utilización de de insumos externos es es muy
+alta, que básicamente son feitlots. A ver si esto para que vean de todas
+maneras lo pueden este hay varios, pero para que tengan idea pasamos
+rápido este video para que vean lo que es un un fitlot. A ver si cómo
+pasar de chatear a viajar conven de comida de todo sobre todo el vino y
+después reserven el fotógrafo porque su foto es la jornada que tuvimos.
+Esto es para que puedan ver. manejo esto, ¿ven cómo son? Son parcelas.
+Ahí ahí podían ver un poquito más. Son parcelas relativamente chicas con
+animales que están, ahí les corto. Con animales que están muy
+confinados. Esto lo que hace que el impacto ambiental también de tener
+muchos animales confinados sea mayor que cuando se tienen en extensiones
+muy grandes. Eh, como ven ahí, ¿no? Tenemos como un montón de animales
+ahí, este, conviviendo, digamos, muy estrechamente. se les provee.
+Bueno, algunos de ustedes son más expertos que que yo en este tema, este
+de Fitlots, e, pero bueno, para mostrarles un poco cómo se manejan esos
+sistemas, ¿no?
+
+01:00:50
+
+Guadalupe Tiscornia: Básicamente se se les da grano de alimento, se les
+se les provee, digamos, de de agua, de sombra algunas veces, ¿no? No en
+estos, pero también es importante el tema de bienestar animal, pero como
+ven es esto, ¿no? grandes superfici grandes cantidad de animales en
+superficies bastante chicas y y bastante confinados. Eh, acá pueden ver
+algunas otras imágenes. Después dentro de producción animal y hablando
+también de ganadería intensiva, hay otros animales como pueden ser las
+aves de corral, los conejos y los cerdos que tienen una alta densidad de
+de animales, ¿no? Juntos. En general, estos sistemas sean en ambientes
+más controlados. Hay un manejo sanitario muy intensivo porque el tener
+animales todos juntos muy confinados es muy fácil que una enfermedad se
+pueda contagiar fácilmente. Entonces es algo en lo que esos sistemas
+están muy pendientes. Los ciclos son muy cortos y hay una gestión de
+residuos que es que es bastante importante. Y después están las cabras
+como otros sistemas semiintensivos que están asociados en general a
+producción de alto valor como pueden ser los quesos de cabra.
+
+01:02:05
+
+Guadalupe Tiscornia: Eh, estos son sistemas eh no tan intensivos de
+cerdo, digamos, este cerdos más a campo, si se quiere. Y estos son
+sistemas muy intensivos de producción. De hecho, en estos sistemas las
+madres, digamos, muchas veces ni siquiera se paran, lo que hacen es
+producir, digamos, este producir este cerditos y y bueno, y es es un
+sistema bastante intensivo y y forzado, ¿no?, en en la producción y lo
+mismo en en pollos, tanto de producción de Ay, disculpen que me estoy
+quedando sin mater que se me mu este tanto de la producción de huevos
+como de pollos. Eh, después otro sistema de producción animal es la
+lechería. Yeah. Acá se utilizan, obviamente especies eh o lecheras, ¿no?
+De de como pueden ser las olando, por ejemplo. E en general son sistemas
+basados en en pasturas cultivadas. Se usa mucho el pastoreo, pero de de
+pasturas cultivadas. El manejo reproductivo es clave porque piensen que
+las vacas tienen que estar dando leche. Entonces, ¿cómo manejan la
+producción de terneros? es es bastante importante en estos sistemas.
+
+01:03:29
+
+Guadalupe Tiscornia: Es muy importante el control de calidad de leche.
+La tienen que que tener un manejo sanitario muy muy afinado porque,
+bueno, eso puede tener problemas de de calidad de la leche, después cómo
+se ordeña, dónde se almacena, todos esos partes, digamos, del proceso
+tiene que estar muy bien controlado y tienen un gran manejo de de
+fluentes en general. Se como estos sistemas eh ahora van a ver algunos,
+esto es este a a pastoreo en general las vacas lo que hace es llevarlas
+a a ordeñe y en esos cuando están acumuladas, digamos, en el ordeñe, ahí
+este bueno, excretan. Entonces, todo ese manejo de los efluentes que
+salen del tambo es es bastante importante y está muy regulado, digamos,
+y tiene como un sistema bastante controlado de cómo se manejan los
+efluentes, porque tienen que tratar de minimizar los impactos negativos
+de de esos efluentes que no vayan a terminar en cursos de agua o no
+cañadas, en ese tipo de cosas. Entonces se hacen tratamientos
+particulares de esos afluentes antes de terminar e eh tirando, digamos,
+ahí en en los sistemas.
+
+01:04:52
+
+Guadalupe Tiscornia: Acá les quería mostrar cómo es este un es una de
+las producciones, la verdad bastante más eh sacrificadas. Acá sí que no
+hay feriado, que no hay este nada, no hay lluvia, no hay viento, no hay
+son sistemas que tienen que las vacas tienen que ordeñarse, no se pueden
+no ordeñar por por porque si no pueden tener enfermedades. Entonces,
+pase lo que pase, a las 3, 4 de la mañana tienen que salir a juntar las
+vacas. Eh, la verdad que es que es son sistemas bastante bastante
+sacrificados y hay de todo tipo de productores en estos sistemas. En los
+lecheros hay productores familiares muy chiquitos y hay productores este
+enormes como hay empresas grandes de producción de leche que tienen
+miles de miles de vacas y sistemas automatizados y eh estos como como
+ven acá es una cámara de enfriamiento de leche, Yeah. manejos sanitarios
+que se hacen en los sistemas lecheros. Se combina muchas veces el el
+pastoreo también con granos para darle suplementos al al ganado. Quería
+ver si si había alguna imagen. Esto claramente es un productor mucho más
+familiar.
+
+01:06:18
+
+Guadalupe Tiscornia: Estos son productores más grandes. ¿Ven? Esto es
+proyecto que tiene 15000 vacas en ordeñe comparado con el otro que tenía
+39 creo que vacas en ordeño. Entonces acá en sistemas lecheros hay es
+bastante diverso, digamos, como cómo se manejan acá los el como es en
+base a pasturas y las pasturas tienen son la base de alimentación para
+para este ganado, el manejo que se haga. Muchas veces eh hay muchos
+productores que tienen riego instalado para manejar mejor la pastura.
+Eh, es bastante intensivo y estos y estos productores en general,
+inclusive hasta los familiares, tienen como incorporado lo que es el
+manejo tecnológico, como son producciones bastante intensivas en lo que
+tiene que ver con con el manejo que se hace del sistema. están muy
+acostumbrados a incorporar tecnologías. E entonces eso es un plus en los
+sistemas lecheros cuando quieren incorporar alguna alguna de este tipo
+de tecnologías. Estos son temas de calidad de leche. Después otro
+sistema asociado es la apicultura, que hablábamos antes que es
+importante en los sistemas frutícolas, pero también en los sistemas este
+eh de cultivos extensivos, o sea, todo lo que tenga plantas y necesite
+desarrollar frutos, la apicultura es es importante.
+
+01:07:53
+
+Guadalupe Tiscornia: es manejo y cuidado de las abejas y las colmenas
+para producción de miel, polen, cera, propolio y otros derivados pueden
+realizarse a pequeña, mediana o gran escala. Hay productores apícolas
+que tienen cientos o miles de colmenas y las van las van e flores
+básicamente a otro lugar donde hay flores dependiendo el los sistemas
+productivos los van los van cambiando, digamos, puede eh colaborar mucho
+en la polinización de los cultivos. Por eso los productores eh que
+tienen esos cultivos se benefician mucho también de del de los
+apicultores y los apicultores obviamente de las flores porque producen
+miel que ellos después venden, ¿no? Y es este muy importante la sanidad
+y los controles que se pueden hacer esas colmenas porque por algún
+problema sanitario puede haber grandes mortandades y perder miles de
+colmenas. Entonces, el manejo sanitario de los calmenos Es es muy
+importante también. Bueno, acá solo unas imágenes para que vean que
+obviamente las las abejas terminan contribuyendo a a la polinización
+cuando van, ¿no?, de flor en flor y después los manejos que se hacen a
+nivel de las colmenas.
+
+01:09:17
+
+Guadalupe Tiscornia: Y después estos sistemas mixtos que les comentaba
+que son la integración de sistemas agrícolas y sistemas pecuarios. Los
+agrícolas son relacionados a las plantas y los pecuarias a los animales.
+Entonces, hay algunos que que sistemas que tienen rotación, por ejemplo,
+agricultura pasturas, donde cuando se hace la fase de pasturas se
+incorporan animales para pastoreo, rotaciones arroz ganadería, que se
+hacen algunos años arroz, otros años ganadería. Después sistemas
+silvopastoriles, que son sistemas forestales en los cuales se introduce
+ganado para que aprovechen las pasturas que quedan en los corredores o
+en algunas zonas de los predios este forestales que no se utilizan para
+forestación. Y después esto que les comentaba de fruticultura con con
+ovejas y cabras que también se dan en esa combinación de sistemas
+mixtos. Eh, esto es lo que les comentaba de los de los silvopastoreos.
+Hay algunos sistemas silvo pastoreos, perdón, que están diseñados
+particularmente para hacer silvo pastoreo. Entonces, lo que se hace es
+que las plantaciones forestales son más abiertas, no se hacen como esos
+macizos grandes de forestación, sino que ven como acá son como dos, tres
+franjas de árboles y después una franja de pasturas, otra franja de
+árboles.
+
+01:10:38
+
+Guadalupe Tiscornia: Eso está diseñado con ese fin, digamos, para que
+tenga ganado. Pero también hay sistemas que que son silvopastoriles,
+pero son en realidad son sistemas forestales que entra ganado en algún
+momento porque en los predios forestales muchas veces quedan eh lugares
+donde no se plantan árboles. Entonces, en esos lugares es donde se pone
+ganado a pastorear y generar estos sistemas mixtos. Y después estos son
+eh sistemas de fruticultura. con eh ovejas. En este en esas eh vozales
+que ven, lo que permite es que la oveja pueda comer del suelo, porque
+cuando apoya la cabeza en el suelo, el bozal como que se separa de Ah,
+lo estoy señalando con la mano, pero ustedes se imaginan este bozal
+cuando toca el suelo se se levanta, entonces la la oveja puede comer el
+pasto del suelo, pero no deja que coma los brotes del de las plantas, o
+sea, Cuando tiene la cabeza en alto, ahí tiene el bosal. Entonces no
+puede comer brotes de la planta que que obviamente es productiva,
+entonces no no puede comérselo. Solo come del pasto que queda abajo de
+de esos árboles frutales.
+
+01:11:58
+
+Guadalupe Tiscornia: Acá. Se ve. Esto es con bid también. ¿Ven que acá
+tiene apoyado? Eh, ¿ven mi mouse? No. O no.
+
+Facundo Quiroga: Sí.
+
+Tomas Moretti: Sí, sí.
+
+Guadalupe Tiscornia: Perfecto. Ven que acá se ve como toda la cabeza
+está comiendo y el bozal queda así como levantado y después cuando
+levanta la cabeza se le vuelve a poner. Entonces está está bueno porque
+no puede agarrar ninguna ninguna este brote de la vid se ayuda también
+porque en estos sistemas está bueno que que le limpia un poco el suelo.
+Todo este pasto que está acá lo mantiene bastante a raya. Bueno, esto es
+en relación a los sistemas agropecuarios en función de qué tipo, eh, si
+es animal o planta, si son extensivos o son este más intensivos. Después
+lo que vamos a pasar es al tamaño de los predios. Hay predios que son
+pequeños, medianos o grandes y esto va a depender mucho del sistema
+productivo, por lo que vimos recién este hablando de cada uno de los
+sistemas. En las producciones intensivas en general manejan predios más
+pequeños, las extensivas manejan predios más grandes y también hay que
+tener en cuenta la fertiliz fertilidad de los suelos cuando hablamos de
+tamaño de los predios, porque uno puede tener, un productor puede tener
+un un, no sé, 100 haáreas, por ejemplo, que parecería ser un tamaño
+grande si uno piensa en intensivos, pero si tiene poca productividad en
+realidad lo puede usar, por ejemplo, para, no sé, ganadería no más o
+ganadería más extensiva porque eh la calidad digamos es
+
+01:13:39
+
+Guadalupe Tiscornia: baja. Eh, entonces, bueno, cuando uno habla de los
+tamaños de predios, también tiene que tener en cuenta cuán fértiles son
+los suelos para ver qué puede producir en esa superficie, que
+básicamente es es relación. Pero para tener una idea de lo que es la
+escala espacial de los predios, en predios pequeños, cuando hablamos de
+cultivos extensivos, son menos de 50 haáreas, o sea, para un cultivo
+extensivo, 50 ha son es un predio chico, un predio mediano va entre 50 y
+500 haáreas y un predio es más de 500 haáreas. Ahora, esto es muy
+distinto cuando hablamos de de sistemas intensivos como puede ser la
+horticultura, la fruticultura o la lochería, por ejemplo, ¿no? O sea,
+estos tamaños no tienen nada que ver un producto hortícola de 50 haáreas
+es enorme, por ejemplo. Y también cuando hablamos de estos sistemas
+tenemos que hablar de las personas que están involucradas en estos
+sistemas. El principal, obviamente, es el productor, que el productores
+hay eh tantos como personas existen, ¿no? O sea, es muy variado el nivel
+educativo de de los productores.
+
+01:15:02
+
+Guadalupe Tiscornia: Hay productores que no terminaron el el colegio
+primario y hay productores que tienen doctorado, o sea, realmente el
+nivel educativo es muy muy amplio. E si les sirven las tecnologías las
+van a adoptar, pero hay una muy baja adopción en general de soluciones
+digitales en el agro. Esto es por distintos motivos que que si quieren
+este también podemos hablar, pero muchas veces es es también miedo al
+riesgo tecnológico. O sea, los productores son incorporadores de
+tecnologías natas, ¿no? O sea, hay un montón de tecnologías de manejo,
+tecnologías de proceso que los productores la incorporan. Obviamente que
+esa tecnología tiene que resolver un problema que tenga el productor o
+al menos ayudarlo en en determinado aspecto o interés que él tenga, sea
+económico, ambiental o social, pero sí tiene que aportar valor en alguna
+medida. Pero cuando hablamos de soluciones digitales, ahí este la
+adopción es bastante baja, muchas veces por miedo al riesgo tecnológico.
+Eh, un productor está haciendo algo de determinada manera y lo hace hace
+muchos años y ahora le vienen con un montón de soluciones digitales que
+no conoce, que no sabe si andan y y las como estaba haciendo las cosas
+le va bien.
+
+01:16:30
+
+Guadalupe Tiscornia: Entonces, muchas veces hay ese miedo al riesgo
+tecnológico que hay que que hay que vencer. Obviamente en algunos casos
+hay tema de dinero, ¿no? No todos la falta de adopción de soluciones
+digitales tiene que ver con costos, pero obviamente hay productores que
+priorizan otras cosas. E hay productores que tienen necesidades mucho
+más básicas, entonces el incorporar una tecnología digital lo ven muy
+muy lejano. E pero en la medida que le solucione alguna alguna
+problemática real, los productores este tienden a adoptar este tipo de
+soluciones, ¿no? Primero que las conozcan, obviamente, y que les aporten
+algún valor. En muchos casos la familia es importante en la toma de
+decisión. Muchas veces el productor es el productor, pero puertas
+adentro la que toma las decisiones muchas veces es es la esposa.
+Entonces, el tener en cuenta el resto de la familia también es
+importante cuando uno va a tratar de de que esa solución, por ejemplo,
+se adopte o o bueno, ver cómo eh toma decisiones el productor, muchas
+veces es a través de la familia. Entonces, eh es importante tenerlos en
+cuenta.
+
+01:17:48
+
+Guadalupe Tiscornia: Otra de las personas involucradas son los técnicos
+asesores. en general son ingenieros agrónomos, veterinarios u otras
+profesiones asociadas a las ciencias biológicas que las ayudan a a
+bueno, a a tomar la decisión o apoyar en los procesos de toma de
+decisión de los productores. Las tecnologías las entienden, pero hasta
+cierto punto muchas veces son los propios técnicos los que no quieren
+incorporar las soluciones y no tanto los productores. Entonces ahí los
+técnicos asesores también son un aliado a a tener en cuenta en esto de
+que empiecen los productores a adoptar más soluciones dentro de los
+sistemas y algunos son más permeables a la adopción que que otros. Eso
+es la realidad. Muchas veces son los propios técnicos los que los que no
+quieren este definitivamente incorporar algunas alguna tecnología.
+Muchas veces puede ser también porque lo siente como una amenaza o no
+como que va va a sustituir e lo va a sustituir y en definitiva es
+también tratar de de tenerlos de aliados cuando uno quiere este, no sé,
+o vender o o que algún productor adopte alguna de estas solución.
+
+01:19:08
+
+Guadalupe Tiscornia: es eh un un una persona, digamos, o o un foco ahí a
+tener de aliados, porque muchas veces eh por el contrario de ser una
+amenaza lo puede ayudar a a los técnicos también. Entonces, ese es otro
+actor que hay que tener bastante presente. Y después los trabajadores
+rurales que en general tienen un nivel educativo bastante bajo.
+Entonces, cualquier solución que se desarrolle y que esté pensada para
+que sea un trabajador rural el que la vaya a implementar, esto hay que
+tenerlo en cuenta porque tienen que ser soluciones que sean sencillas o
+que que el la capacitación para su uso este no sea muy compleja. Eh, y
+obviamente todas estas personas le tienen que ver valor a la solución
+para que en definitiva la terminen este adoptando. No, no, no, no, pero
+sí es clave que sea fácil de usar y que no sea un trabajo extracnología
+que se supone que le va a simplificar la tarea. Eso también es bastante
+bastante clave. Y después hay otro tema que es importante en la
+producción este agropecuaria que tiene que ver con los temas de cambio
+climático y cuidado del ambiente.
+
+01:20:33
+
+Guadalupe Tiscornia: Cada vez más los sistemas productivos se están
+ocupando y preocupando de estos temas. el cambio climático, este
+relacionado sobre todo a a temas de eventos eh climáticos extremos que
+se den con mayor frecuencia. Eh, y después todo lo que tiene que ver con
+el cuidado del ambiente es un factor cada vez más clave, sobre todo para
+acceso a mercado o inclusive permanencia de algunos mercados. Entonces,
+todo el todas las las soluciones o los desarrollos que puedan contribuir
+a estos dos aspectos eh está bueno y son bastante valorados para tener
+este un estar todos nivelados, digamos, en qué es eh cambio climático.
+Es un cambio de clima que se atribuye directa o indirectamente a la
+actividad humana, que altera la composición de la atmósfera a nivel
+global y que se suma a la variabilidad natural del clima observada en un
+periodo de tiempo comparable. Esta es la definición de la Convención
+Marco de Naciones Unidas eh en cambio climático. Pero acá lo clave es
+que el cambio climático es consecuencia directa o indirectamente de la
+actividad humana. Hay hay eventos como puede ser el evento del niño, por
+ejemplo, que ahora está estamos en en pleno evento, que son fenómenos
+que naturalmente se dan.
+
+01:22:03
+
+Guadalupe Tiscornia: Entonces, eso no es atribuible al cambio climático.
+Entonces, reforzar eso que son variaciones climáticas causadas por la
+actividad humana. Eh, y esto muchas veces es lo difícil determinar cuál
+es la causa de esa variabilidad. El es el estudio del cambio climático
+tiene entonces dos etapas, una que es la detección y otra que es la
+atribución. Primero, la detección de ese cambio en el clima que no
+implica que pueda ser atribuible a la acción humana, porque hay cambios
+que se dan naturalmente que si no son atribuibles a acción humana,
+entonces no son debido al cambio climático. No se limita a cambios en
+las condiciones medias de la de la temperatura o de la lluvia e porque
+tiene que ser atribuible a la acción humana. y cambios en la frecuencia
+de ocurrencia e intensidad de eventos extremos como son olas de calor o
+este hidroclimáticos como pueden ser déficit y excesos de lluvia en la
+medida que estén asociados a cambios eh digo, a la acción humana como
+como este factor que que lo ocasionó. La variabilidad climática como
+principal factora a contemplar por ser una producción a cielo abierto es
+es crítica, o sea, es algo que que hay que tener en cuenta ni que
+hablar.
+
+01:23:40
+
+Guadalupe Tiscornia: Y después los eventos climáticos extremos como que
+que el cambio climático está llevando a aumento en la frecuencia y la
+intensidad como pueden ser sequías o déficit hídrico, olas de calor o
+lluvias intensas. Es es clave, ¿no? El poder prever, anticipar, eh
+implementar algunas algunas manejos para tratar de mitigar impactos en
+estos sentidos es clave. Esto es, por ejemplo, eh sequías, eh esto es
+heladas, eh produce inclusive este muerte de plantas. Estos son
+inundaciones que cuando el suelo queda negado, las raíces se pudren y
+las plantas se mueren. Entonces todo esto, ¿no? Que que veíamos que son
+cambios en regímenes de lluvias, aumento de temperatura, impacto en la
+disponibilidad de calidad de agua, aumento de plagas y enfermedades como
+consecuencia de eventos de cambio climático. clave la adaptación y la
+mitigación. Entonces, cualquier desarrollo que ustedes este entiendan
+que puede contribuir tanto a la adaptación como la mitigación, que para
+eso obviamente el monitoreo es clave y el poder tomar decisiones a
+tiempo es crítico. E son desarrollos que que seguramente sean muy bien
+valorados por el sector.
+
+01:25:19
+
+Guadalupe Tiscornia: esto que comentábamos, por ejemplo, de que estaban
+trabajando en tratar de estimar productividad eh materia seca en
+sistemas ganaderos, o sea, el poder prever eh cuánta materia seca voy a
+tener en el año que viene eh puede ser clave en ese sistema para este
+manejarlo y sacar el mayor provecho posible con el menor impacto.
+negativo en ese sistema. Entonces, todas esas cosas que se les puedan
+ocurrir eh seguramente van a ser muy muy bien vistas. Y después temas de
+cuidado del medio ambiente como puede ser la reducción de emisiones de
+gases de efecto invernadero, la reducción de pérdida de biodiversidad y
+hábitat naturales. Esos empiezan a ser clave en sistemas, por ejemplo,
+con relacionados a certificación, a cómo vamos cuidando el ambiente para
+seguir produciendo, sí, pero con los cuidados necesarios para que el
+ambiente este se mantenga, mejore o esté en su potencial. eh gestión y
+uso eficiente de recursos naturales como puede ser el agua, optimización
+en el uso de insumos. Hay muchas soluciones eh que alguno habló con el
+tema automatismos de maquinaria, eh no sé, aplicación selectiva de
+herbicidas, ¿no?
+
+01:26:45
+
+Guadalupe Tiscornia: Sistemas que pasan, detectan la maleza y aplican
+exactamente dónde está la maleza. Eh, eso va directo a la optimización
+en el uso de insumos, porque no solo es reducción en en los costos,
+porque los productores pagan mucho menos eh herbicida, o sea, litros de
+de herbicidos, hay una reducción directo en los insumos, pero también es
+producto que no se pierde en el ambiente. Muchas veces lo que ocurre es
+que por fecha, digamos, o se aplica a todo el campo sin ver si realmente
+cuántas malezas hay o cuán relevante es la aplicación. Entonces, el
+poder ser mucho más eficiente en ese en esa aplicación, eso es eh es
+crítico. todo lo que tiene que ver con conservación de servicios
+ecosistémicos, que ahora cada vez más se están valorando y también
+aspectos relacionados a la erosión o degradación, todo eso también es es
+muy importante y se está valorando mucho en en los sistemas, sobre todo
+cuando son sistemas pensados en exportación, que todos esos aspectos
+ambientales tienen que estar bien tenidos en cuenta porque de última
+pueden provocar pérdidas de mercado o o inclusive eh la no permanencia.
+
+01:28:08
+
+Guadalupe Tiscornia: Eh, muchos de estos de estos sistemas eh de los
+mercados actuales están demandando eh temas ambientales cada vez más
+fuerte. Entonces, eh seguramente a futuro ya no sea de que te van a
+pagar más, sino que te van a dejar de comprar si no si no este cumplís
+con determinados este aspectos ambientales o cuidado de del ambiente.
+Entonces va más allá inclusive del poder, no sé, certificar para tener
+mejor precio, que que la realidad es que ahora eso no en muchos sistemas
+no no está redituando en un en un mejor precio, pero la larga sí
+seguramente va a terminar condicionando el acceso a determinados
+mercados, que también es es muy importante. Y cada vez hay hay menos
+gente en el campo, ¿no? Esto es este una publicación bastante vieja,
+pero este sigue vigente, que en el 70 la población rural era muchísima y
+se prevé que para el 30 sea muy muy baja. Y esto lo vemos sobre todo en
+nuestros países de la región, que cada vez hay menos gente en el campo y
+cada vez le interesa menos a la gente estar en el campo.
+
+01:29:34
+
+Guadalupe Tiscornia: Entonces, e esto es otro estudio también que
+muestra lo mismo, ¿no? Cada vez la población rural es menor. Entonces,
+todos los sistemas que tiendan a ir transicionando a que el ambiente
+rural sea este más amigable con las personas, seguramente M. vaya
+ayudando a que este proceso al menos se se mitigue, se mitigue un poco.
+Em, ahora vamos a a entrar en algunos aspectos que que promueven el uso
+de de las tecnologías. Capaz que cortamos por acá, que quedan 2
+minutitos para no meternos en esto y después cortar y hacemos el corte.
+Ahora, Lola, si te parece. Esperen que ahí ahí lo acá dejé de Ah, dejo
+de compartir ahí, perdón.
+
+lse posgrados: Dale, dale. Dos. Sí.
+
+Guadalupe Tiscornia: Está porque así ahí va entramos a a estos aspectos
+más de de promoción en el en el uso de las tecnologías en después del
+corte.
+
+lse posgrados: Perfecto.
+
+Guadalupe Tiscornia: Eh,
+
+lse posgrados: Me parece perfecto. Dale.
+
+Guadalupe Tiscornia: dale,
+
+lse posgrados: Bueno, entonces en 10 minutos volvemos.
+
+Guadalupe Tiscornia: dale. Perfecto.
+
+01:31:07
+
+lse posgrados: Gracias. Ju.
+
+Guadalupe Tiscornia: 10 minutillos.
+
+lse posgrados: Sí. Pónganse el timer porfa, así están de vuelta.
+
+Guadalupe Tiscornia: Vale. Bueno, cuando estén vamos volviendo. No.
+Esperamos un minutito más y ya arrancamos porque todavía nos quedan un
+montón. No, no, no queda tanto, pero pero bueno, ya pasó el tiempo, ya
+van 13 minutos, así que ahí un minutito más y ya. Volvemos.
+
+lse posgrados: Quiere esperar unos minutitos más,
+
+Guadalupe Tiscornia: Bueno,
+
+lse posgrados: Guada.
+
+Guadalupe Tiscornia: como quieras que que hay algunos que me dieron
+okays, así que dale,
+
+lse posgrados: Por eso por mí arranc cae,
+
+Guadalupe Tiscornia: arrancamos.
+
+lse posgrados: dale.
+
+Guadalupe Tiscornia: Buenísimo. Pongo de vuelta toda la pantalla, así
+podemos ver lo que venga. Bueno, ahí puse de vuelta como como
+conversábamos, ¿no? en este marco de que gente cada vez se está yendo
+yendo más del campo, o sea, la producción, la población rural va
+disminuyendo, por otro lado, estas tendencias a empezar a objetivizar
+más los lo que se registre en el campo para poder tomar decisiones más
+consistentes y y en ese contexto cada vez más el uso de de las tics está
+siendo promovido por distintos factores.
+
+01:46:15
+
+Guadalupe Tiscornia: Uno es el avance en la en el tema de las
+comunicaciones. Ahora cada vez más el medio rural está este conectado.
+En el caso de Uruguay, al ser un país chico es más sencillo, pero
+inclusive en el caso de Argentina, países más grandes, ahora con
+Starling, se está empezando como a acceder a tener conectividad en
+lugares donde antes era impensado o eran este muy remoto. Los equipos
+cada vez salen más baratos. Eh, tener una estación meteorológica en el
+predio antes era carísimo, ahora se consiguen por $200. La calidad
+también va acorde al precio, pero es real que los equipos están
+abaratando más. El tema de de sensores, los insumos informáticos cada
+vez tienen costos más accesibles. Hay una madurez y creciente oferta de
+aplicaciones e de distinto tipo, en general avanzadas, que tienen que
+ver con la gestión predial. Cada vez hay más aplicaciones y cosas en la
+vuelta. Eso eso es real. Por otro lado, hay un cambio generacional que
+está valorando más este tipo de de soluciones eh de lo que estaba de lo
+que eran las generaciones anteriores.
+
+01:47:36
+
+Guadalupe Tiscornia: Son nativos digitales que no no quieren perder eh
+lo no la conexión, digamos, con este tipo de herramientas, la escasez de
+mano de obra. Hay tareas que realmente no hay mano de obra que pueda
+hacerlas. eh esto que comentaban de de maquinaria que para cosecha, por
+ejemplo, de de sistemas de producción vegetal intensiva. Realmente en
+muchos lugares es un problema contratar gente para que para que vaya
+cosecha. Entonces, el poder tener soluciones a eso este es interesante
+el tema de las condiciones laborales menos adversas que que cada vez más
+se está valorando, ¿no? Esto que comentábamos de los sistemas lecheros,
+que hay que levantarse a las 3 de la mañana todos los días, llueve,
+truene y bueno, son tareas muy sacrificadas. Entonces, todo lo que ayude
+a eso también es un factor de promoción y también la reducción del
+trabajo rutinario, el tener que hacer cosas sistemática, siempre lo
+mismo, ¿no? Es como complicado. Entonces, el poder este sustituir eso
+por algún automatismo muchas veces es es interesante. Pero, ¿qué
+significa digitalizar? No, no.
+
+01:48:52
+
+Guadalupe Tiscornia: Eh eh uso de drones, uso de de sensores, este el
+tema de IoT, plataformas de gestión, análisis en big data, inteligencia
+artificial, blockchain, trazabilidad, pero digital es mucho más que
+tener una app o tener una maquinaria inteligente. Y lo que se apunta en
+definitivas es a integrar datos, procesos y decisiones en un ecosistema
+que esté conectado y que en definitiva termine transformando la forma de
+producción, ¿no? Eso es tratar de de de de ir este andando los procesos
+de transformación digital en el agro, no es tener este tres aplicaciones
+y un WhatsApp. y y en ese que es que es mucho más, digamos, sí,
+obviamente están todas estas cosas, ¿no? Lo de internet de las cosas, el
+poder tener equipos, iluminación, este bombas, refrigeración, cosas que
+estén conectadas y que uno mediante un celular pueda apagar o prender o
+activar. Este, estos son ejemplos interesantes de tecnologías aplicadas
+al agro. el monitoreo de variables tanto climáticas como de suelo, agua,
+de comportamiento en el caso animal, del estado de la vegetación. Eso
+también es un todo un área superinesante, el poder ir monitoreando esas
+variables primero para analizar y después para poder predecir.
+
+01:50:31
+
+Guadalupe Tiscornia: Un ejemplo de esto son, por ejemplo, las estaciones
+automáticas que nosotros tenemos este en el caso de Iña, que van
+monitoreando en en el día, digamos, cómo es la evolución de esa
+temperatura. eh a nivel de las lluvias, por ejemplo, no se monitorea
+cada una hora cómo va yendo este esa variable, cómo va evolucionando. En
+función de eso se pueden construir estos mapas, por ejemplo, de lluvias
+acumuladas en el que se puede con por medio, digamos, del monitoreo que
+se hace a nivel nacional, se pueden construir estos mapas de lluvias
+acumuladas y con el análisis histórico de esos datos se pueden construir
+estos mapas de anomalía de de lluvia. Básicamente lo que se hace en el
+caso de de estos mapas de anomalía es comparar el marzo actual contra el
+promedio de los marzos de una serie histórica. Entonces, rápidamente se
+puede ver en este caso en colores verdes cuando la lluvia estuvo por
+arriba de lo normal y en colores rojos cuando estuvo por abajo de lo
+normal. Y en función de eso se pueden hacer algunas recomendaciones de
+manejo.
+
+01:51:50
+
+Guadalupe Tiscornia: Estos son mapas a nivel nacional, pero teniendo
+suficientes eh datos en un predio, se puede hacer esto para un predio y
+en función de eso este activar algunas algunas recomendaciones de
+manejo. Esto, por ejemplo, es e de una serie histórica. Si yo tengo ese
+análisis de una serie histórica, puedo entender cómo se comporta mi
+establecimiento, ¿no?, o mi campo o una región. E acá lo que se pueda
+ver también es esto que hablábamos antes, ¿no?, de lo que es para el
+caso de Uruguay lo que es la variabilidad tanto entre años como dentro
+del año. Esto es es un ejemplo. En rojo es cuando llovió menos, verde
+cuando llovió más. Entonces se puede ver, por ejemplo, lo que fue el el
+24, que empezó con marzo con lluvias por arriba de lo normal, cuando
+llegó a julio llovió mucho menos, después agosto llovió más, ¿no? Como
+es esa variabilidad entre los años o pueden ver los eneros y ven que en
+enero del 23 llovió mucho menos, pero el enero anterior había llovido
+por arriba, sobre todo en una determinada zona.
+
+01:53:02
+
+Guadalupe Tiscornia: Bueno, y cómo se da ese comportamiento tanto a
+nivel de país como en este caso, pero a nivel de una región o a nivel de
+un establecimiento, permite también poder eh predecir algunas cosas y
+manejar en consecuencia. Eso también asociado a balance hídrico. Por
+ejemplo, si yo puedo tener idea de la lluvia, si conozco el el cómo cómo
+es mi suelo, tipo de suelo que tengo y algunas otras variables
+ambientales, puedo determinar cómo es el comportamiento del contenido de
+agua en el suelo, que es lo que me va a condicionar la productividad, ya
+sea de cualquier vegetal, ¿no? ¿Qué cantidad de agua yo tengo en el
+suelo? Me va a terminar condicionando cómo va a ser el comportamiento de
+mi de una vegetación determinada. Entonces, el poder ir monitoreando esa
+variable también permite tomar medidas eh en relación a eso y esto es un
+ejemplo lo que fue en enero del 25. Eh, acá lo que ven es la estimación
+del porcentaje de agua disponible en el suelo y y la anomalía con ese
+mismo criterio que les comentaba de comparar este enero 2025 con lo que
+fue eh el promedio de los eneros de una serie histórica y se puede ver
+cómo estaba en este caso todo el país con valores muy por debajo en
+algunas zonas de lo que se podía esperar para un enero y lo que fue
+abril de ese mismo año con excesos de agua que se pueden ver a través de
+la anomalía en esto con los colores
+
+01:54:39
+
+Guadalupe Tiscornia: verdes, ¿no? Antes era todo rojo, naranja y
+amarillo, que indica valores por debajo del promedio y como 3 meses
+después eh tenemos todo verde, ¿no? Valores todos por arriba de del
+promedio. Entonces, bueno, el poder analizar todo esto permite este
+tomar mejores decisiones o al menos decisiones más informadas. también
+en análisis de lo que es el estado de la vegetación. Esto es a través de
+información satelital con un índice que se llama NDBI, eh, que combina
+la banda roja e infrarroja. Entonces, lo que nos da idea es del estado o
+el vigor que tiene la vegetación en función de básicamente la clorofila.
+Entonces se puede ver los colores más oscuros de verde es cuando la
+vegetación está más vigorosa. Eh, entonces, bueno, uno puede ir
+monitoreando esta esta el estado de la vegetación y y advertir cuando
+hay una situación complicada. Esto es en colores verdes también con el
+mismo criterio este de anomalía. Se puede ver cuando la vegetación
+estuvo por arriba de del promedio, digamos. El gris es promedio y los
+colores amarillos y naranjas es por debajo del promedio.
+
+01:55:59
+
+Guadalupe Tiscornia: Entonces, para una determinada zona, región o o
+predio, yo puedo analizar cómo fue el comportamiento de mi vegetación y
+qué fue lo que ocurrió para que ese comportamiento se dé y en función de
+eso poder este prever alguna situación, ¿no? Si uno puede hacer una
+previsión dadas determinadas condiciones ambientales eh futuras, puedo
+hacer una previsión de cómo puede estar el estado de vegetación a futuro
+y en función de eso tomar alguna medida de de manejo. Por ejemplo, si yo
+sé que voy a tener muy baja productividad de pasturas, puedo este tomar
+alguna medida de manejo en relación a reducción de la carga. Eh, bueno,
+ver cómo manejo mi rodeo en función de que voy a tener este menos pasto
+o comprar ración para poder dar suplemento porque sé que en determinada
+fecha o en realidad no sé, no, estos son todos probabilísticos y uno
+cuando hace análisis de previsión en generar lo que Yeah. da es como un
+porcentaje de de incertidumbre también, pero bueno, tengo más
+probabilidades de poder tener esta situación. trato de manejar en eh en
+consecuencia de eso también lo que son los sistemas de alerta, o sea,
+sistemas que me permitan eh alertar sobre determinada situación, ya sea
+eh plagas, enfermedades o condiciones ambientales y también temas de
+seguridad, ¿no?
+
+01:57:30
+
+Guadalupe Tiscornia: equipos de vigilancia, todo lo que son sistemas de
+alerta, tanto en tiempo real como en previsión, este también son
+críticos para los sistemas. Un ejemplo de esto es alerta o vina, que es
+una aplicación e que lo que en definitiva me da es una previsión de
+condiciones ambientales para corderos recién nacidos. Los corderos son
+muy susceptibles a condiciones de frío, la combinación de frío, eh
+viento y lluvia, sobre todo en las primeras 72 horas de vida. Entonces,
+eh lo que lo que da esta alerta es esta aplicación, perdón, es una
+alerta para determinadas zonas o la zona que uno elija o atrás ahí se ve
+el el mapa de el nivel de riesgo que tengo para los próximos días.
+Entonces, en función de eso, yo puedo eh tomar alguna medida. Por
+ejemplo, si estoy en época de apariciones y trato de traer la majada a
+una zona con más resguardo porque sé que en mi predio riesgos altos o
+críticos de este índice que se llama Chilindex. Entonces, bueno, puedo
+tomar alguna medida para prevenir eh impactos negativos que estas
+condiciones ambientales adversas pueden hacer a mi a mi majada.
+
+01:58:59
+
+Guadalupe Tiscornia: Entonces, en función de esto, tomar alguna medida.
+También en contraposición con, digamos, está este esta otra alerta que
+es de estrés calórico en bobinos. Esta es una alerta para sistemas
+lecheros y y de carne intensiva, porque las condiciones de estrés
+térmico pueden producir no solo mermas en la productividad de estos
+sistemas, sino también muerte de animales. Entonces, es clave también ir
+monitoreando esta variable y tomar alguna medida de manejo cuando las
+condiciones vienen eh complicadas. Em lo que nos advierte es igual que
+con el otro criterio, es de a 5 o 7 días de que van a venir, que hay
+niveles de riesgo altos para eh tanto sistemas de leche como de carne,
+porque hay diferencia en el cálculo del índice en función de qué sistema
+productivo es. Entonces puedo, por ejemplo, en sistemas leche Eh, acá en
+sistemas lecheros puedo tomar alguna medida de manejo como no mover el
+ganado e en las horas que que voy a tener más estrés o eh puedo eh
+asegurarme que el ganado tenga suficiente leche, digo, perdón, agua
+disponible para para que no genere estrés y bueno, pueda tener algún
+problema este en solo en la productividad, como les decía, sino también
+hasta la muerte de esos animales, e tener aspersión, muchas veces se
+pone aspersión en los en los predios para que para que el ganado esté
+más fresco, entonces no haya este problemas con eso.
+
+02:00:45
+
+Guadalupe Tiscornia: Esta es la aplicación para que vean de ejemplo,
+¿no? Entonces yo para una una determinado lugar lo que hago es marcar un
+lugar como primero obviamente tengo que marcar mi sistema productivo,
+pero después busco un determinado lugar y la lo marco como favorito y en
+función de eso me va voy a recibir alertas para mi sistema. Este, o sea,
+es bastante en ese sentido bastante lineal, digamos. Yo tengo ahí un un
+padrón. Entonces, para mi lugar, después de que lo marco como favorito,
+este, puedo marcar el lo que sea de de alertas, digamos, para ese lugar
+determinado. Estoy tratando de salir de la pantalla y no estoy Ahí va.
+este acá, ¿no? Entonces, para ese determinado lugar me muestra cuáles
+son las alertas, cuáles son los niveles de riesgo y guardo esa ubicación
+y cuando viene una situación complicada me advierte sobre esa situación.
+Entonces está para mi lugar, entonces no tengo que mirar los mapas todo
+el día, me llega directo al celular, o sea, es bastante práctico en en
+ese sentido y me permite tomar alguna medida de manejo para minimizar
+este los impactos negativos que eso que eso pueda tener.
+
+02:02:09
+
+Guadalupe Tiscornia: También otro ejemplo de esto es eh un monitoreo y
+una previsión de las temperaturas mínimas. Las temperaturas mínimas, si
+bien no son exactamente heladas, porque las heladas dependen de otros
+factores, como puede ser el viento o la topografía, pero es un proxy,
+digamos, bastante este certero de lo que no del impacto, digamos, que
+puede tener este en el sistema. Entonces, con ese mismo criterio también
+se generan tanto estos mapas como una aplicación de alertas en función
+de niveles de temperatura mínima menores a 0 grad, por ejemplo, o
+menores a 2 gr, que puede tener este impactos importantes en la
+producción. Y con ese mismo criterio que les mostraba de esta otra, tres
+está Termomin, que es una aplicación que me advierte sobre eso y en
+función de eso hay medidas de manejo que yo puedo tener eh porque o
+puedo tomar porque todas estas cosas como comentábamos tienen que tener
+solucionar algún problema porque no sirve de nada que yo tenga una
+alerta de que me va a venir una helada importante y yo no hay nada que
+pueda hacer en mi establecimiento.
+
+02:03:27
+
+Guadalupe Tiscornia: Entonces, en general, todo este tipo de de
+herramientas también está asociado a medidas de de manejo o
+recomendaciones de manejo asociadas para que un productor en función de
+una determinada alerta haya algo que pueda hacer, porque si no queda
+horrible que uno le diga, "Bueno, si viene, no sé, si yo pudiera prever
+granizo, no hay mucho que hacer ante un evento de de granizo." Entonces
+esas uno tiene que tratar de que de que lo que vaya a alertar sea algo
+que el productor pueda tomar alguna medida y no solo decirle, "Bueno,
+sorry, llorá porque no hay otra cosa que uno pueda hacer, que en general
+eso es bastante frustrante." Entonces, bueno, todas estas alertas
+también están asociadas al algunas este medidas de manejo. Este es el el
+video, digamos, de esa aplicación que más o menos tiene el mismo el
+mismo criterio que lo que veníamos conversando. Uno se puede descargar
+eh uno puede marcar un lugar como favoritos. Entonces ahí en función de
+eso y en los rangos que yo defino de cuándo quiero recibir mis alertas
+porque depende mi sistema productivo capaz que es complicado cuando esté
+por abajo de 2 grados.
+
+02:04:43
+
+Guadalupe Tiscornia: Entonces, bueno, yo pido la alerta, digamos, cuando
+esté por abajo de 2 gr y ahí tomar alguna alguna medida. Esto es bueno,
+otro ejemplo. También hay muchas herramientas que están desarrollándose
+como apoyo a la gestión. En este caso son de fertilización, hay una de
+fertilización de fósforo, otro hay de fertilización de nitrógeno que nos
+ayudan a gestionar la fertilización este más eficientemente, ¿no? O sea,
+y la otra es es fertilización en arroz. Entonces este la idea de este
+tipo de de herramientas es que ayuden en la gestión de los predios en
+algún en algún lugar. De hecho, algunas de las de las clases que vienen
+les van a mostrar algunas de estas eh soluciones aterrizadas también por
+parte de de algunos desarrolladores que que vienen trabajando en esto.
+Esto es eh otro tipo, por ejemplo, ayuda a la gestión del riego en
+determinado sistema. Yo puedo dadas este las características de mi
+cultivo, porque la cada cultivo va a requerir agua dependiendo de qué
+fase se encuentren, ¿no? en general, cuando Cuando son muy chiquitos no
+requieren mucha agua, después cuando va creciendo sí, cuando se forma el
+grano también.
+
+02:06:05
+
+Guadalupe Tiscornia: Entonces, depende en qué fase del cultivo está, es
+el requerimiento de agua que va a tener. Entonces, en función de las
+condiciones ambientales, si llovió o no, bueno, se va como pudiendo
+manejar el riego para que sea más eficiente. Después, algunas sistemas
+de alerta para algunas enfermedades eh también que que ayudan, digamos,
+a a gestionar este estos sistemas. Y después hay algunas aplicaciones
+como como es esta móvil, que lo que buscan también es integrar eh otros
+desarrollos. En el caso de Iñam Móvil, lo que nosotros buscamos a través
+de esta aplicación es que todos los desarrollos, tanto web como eh eh
+móvil desarrollados por Iña estén en un solo lugar, porque otra cosa que
+pasa mucho es que los productores hay mucha cosa en la vuelta, hay un
+montón de aplicaciones. Entonces, en el caso nuestro de Iña nos decían,
+"Yo no puedo descargarme 10 aplicación Iña." No, no. Entonces, y es
+verdad, no puedes tener 5, 10, 15 aplicaciones en tu celular de para el
+sistema productivo. Entonces, lo que se buscó fue desarrollar esto como
+como una super app, digamos, que dentro contenga todos los desarrollos,
+como les decía, huevo móviles y que cada productor se lo pueda marcar
+como favorito, los que le interesa para su sistema productivo.
+
+02:07:34
+
+Guadalupe Tiscornia: Entonces, esto también es una idea, el que
+conversábamos antes, el tema de empezar a integrar cosas, ¿no? de de
+tratar de que de que este tipo de aplicaciones también apoyen la
+integración, primero porque permite simplificar mucho algunas cosas,
+pero también porque la interacción que se puede dar entre la información
+que generan distintos procesos y en este caso distintas aplicaciones
+puede potenciar también la la utilidad y en definitiva la gestión a
+nivel de del Predio. En el caso de Iñam Móvil, las alertas llegan todas
+a un solo lugar. El producto recibe, tiene que cargar el lugar solo una
+vez. Entonces, después las horas alertas las va recibiendo también si la
+seleccionó para ese mismo lugar. O sea, todo ese eh eh disgregación que
+teníamos antes en nuestro caso, ahora lo tratamos de concentrar y
+también eso potencia eh la comunicación que tenemos con el productor
+porque se le puede llegar de manera más directa, no tan dispersa,
+unificada. Entonces esa lógica, digamos, de integración también es
+válida para distintos para distintos ejemplos. Después otro producto que
+habla también sobre gestión, ¿no?
+
+02:08:58
+
+Guadalupe Tiscornia: Un ejemplo de esto puede ser este Aura Bant. Este
+es un videíto también que muestra este la aplicación e que esto también
+lo que busca es integrar, ¿no? Porque desde Auraband es un es una
+aplicación que esperen que le saco esto. que este bueno permite eh
+integrar para un determinado predio también un montón de de aplicaciones
+o de conocimientos o integración de de información de distintas fuentes.
+E esto a nivel de chakra para empezar a a tomar decisiones en función de
+la información integrada, en este caso para para una chakra en
+particular. Eh, entonces, bueno, esto es por índices de vegetación.
+Entonces, en función de eso uno puede definir porque era como hablábamos
+hoy de del tema de del monitoreo de la vegetación, ¿no? Si yo eso que
+les mostraba a nivel nacional lo llevo a nivel de chakra, puedo
+determinar algunas zonas en las que tengo, no sé, la vegetación está en
+el estado. Entonces, eh obviamente esto es información que un
+profesional, un agrónomo puede tomar y decir, "Bueno, esto se puede
+deber a que la aplicación de fertilizante no estuvo bien. Entonces,
+
+02:10:29
+
+Guadalupe Tiscornia: rehago una aplicación, pero la hago solo en las
+zonas que están comprometidas y no en las otras zonas que yo tengo ya
+este la vegetación está bien, entonces no es necesario." Y ahí volvemos
+al tema de la eficiencia en la aplicación de insumos, pero también en en
+una disminución de costos para el productor, porque va a tener que
+pagar, comprar mucho menos fertilizante de de lo que tendría si se
+aplica todo el predio este de manera homogénea. Entonces, bueno,
+Auroband es otro ejemplo de este tipo de de herramientas que ayudan a la
+gestión mediante la la integración de de información. Después,
+obviamente que y más ahora con inteligencia artificial, teniendo una
+cantidad suficiente de datos eh robustos, porque esa es otra, ¿no? Los
+los los obviamente que si uno y eh implementa procesos de análisis de
+datos sobre datos que son una basura, lo que va a sacar es una basura la
+N. Eso obviamente y por eso es clave todo lo que veníamos hablando antes
+del tema de monitoreo de datos, de la no de tener como esa constancia en
+los registros para poder en definitiva tener datos suficientes y en
+función de eso con procesos ahora cada vez más modernas poder
+analizarlos, tomar decisiones en función de eso y poder hacer modelos
+Yeah.
+
+02:11:59
+
+Guadalupe Tiscornia: predictivos que para yo poder prever una situación
+tengo que tener datos suficientes y datos que sean buenos para que mis
+modelos sean buenos. Entonces, todo lo que tenga que ver con
+desarrollos, sobre todo relacionados a poder prever situaciones para el
+sector agropecuario es es clave y los análisis y de perdón y los modelos
+predictivos cumplen como un rol bastante fundamental en eso, ¿no? Poder
+tener análisis de modelos predictivos robustos que me ahora con el tema
+de gemelos digitales, ¿no?, que me permiten como también implementar
+algunas modificaciones o simulaciones o mejoras en los predios sin tener
+que pasar eh esperar tiempos biológicos y ensayos a campo. También es
+parte de esto de de empezar a a utilizar procesos modernos de análisis
+de datos es crítico. Después todo lo que tiene que ver con
+automatización, ¿no? automatización en general, este, porteras, eh
+alambrados virtuales, el tema de bombas, automatismos de riego, eh
+algunas cosas van a ver, pero eso este también cada vez está cobrando
+más importancia. Este es un sistema automático de riego bastante
+sencillo de de riego para pasturas, que está bueno y me gusta como
+ponerlo de ejemplo porque es un sistema como muy sencillo que que está
+implementado.
+
+02:13:38
+
+Guadalupe Tiscornia: A ver si puedo saltar estas años de acá. Em, acá lo
+van a ver. A ver, lo que hace básicamente es acá, ahí lo ven, una avena
+regado, un verdeo de invierno regado, en el cual lo que tiene como
+novedad, además de la incorporación del sistema más intensivo con el uso
+de ganado, el sistema de riego. Y este sistema de riego es un riego en
+el cual fue desarrollado por una empresa a nivel nacional con un
+proyecto que fue financiado por la ANI y con los aportes este técnicos
+tanto de la Facultad de Agronomía en su cátedra de hidrología como por
+lo que es este los aportes de de INIA en lo que es la evaluación tanto
+de de su equipo en funcionamiento como de la aplicación de aguas eh en
+lasuras de la energía y hasta la posibilidad de incorporar eh motores
+con eh alimentados con energía solar por su baja por su baja potencia.
+Este, nosotros empezamos este proyecto hace unos 8 años en conjunto con
+estas empresas privadas que lo que hace básicamente es sus continuas
+mejoras y hoy este uno de estos equipos lo tenemos en el línea de las
+brujas probándolo sobre un cultivo Yeah.
+
+02:14:59
+
+Guadalupe Tiscornia: del FALPA en el cual semanalmente hacemos las
+evaluaciones tanto de la parte deformidad se va moviendo, digamos, por y
+cómo es su comportamiento frente al principal enemigo que tenemos para
+estos sistemas de experssión que es el viento. Entonces, en base a eso,
+eh, bueno, eso básicamente es un sistema, Ben, que es como un
+automatismo de riesgo para basuras muy muy sencillo, eh, que inclusive
+se estaba pensando en implementar como el movimiento con energía solar,
+¿no? Y y esto es como un ejemplo como bastante sencillo en el caso de
+pasturas, pero hay un montón de riegos eh automatizados que que bueno,
+mucho más complejos y más este eh prolijos, digamos, de inclusive hasta
+de hidropña. Después todo lo que tiene que ver con robotización también,
+¿no? esto que comentaban del robot de de cosecha, por ejemplo, o
+sistemas voluntarios de de ordeñe, como pueden ser estos que eh le
+quiero mostrar lo que es el este sistema automatizado de ordeña. Es
+voluntario, es un sistema que básicamente lo que lo que hace es que las
+vacas están a pasto. Esto es esto está instalado en en Niña las Brujas,
+en niña la Estanzuela en Colonia.
+
+02:16:24
+
+Guadalupe Tiscornia: Eh, este es un sistema pastoril. Normalmente estos
+sistemas eh robotizados de ordeña están en sistemas mucho más
+intensivos. Acá lo que se quiere probar justamente fue este sistema eh
+en un eh envase pastoril y lo que ocurre básicamente es que las vacas se
+van a ordeñar cuando tienen ganas. Lo que implica esto es que no hay que
+salir a traer a las vacas al ordeñe todas las mañanas. E lo que pasa es
+que las vacas se mueven solas. Obviamente son llamadas por comida, ¿no?
+O sea, lo que van a buscar son granos que que bueno que les gusta más
+que a nivel de las pasturas. Entonces ellas van solas ahí al al sistema
+de de ordeñe. Cuando llega eh voy a adelantar porque si no, pero cuando
+llega la una vaca con el collar la identifica, entonces sabe hace cuánto
+que se ordeñó, si está para ordeñarse de vuelta. En el caso de que esté
+para ordeñarse, la deja entrar y si no no le abre la puerta y la manda
+para otro lado. Eso lo hace solo.
+
+02:17:40
+
+Guadalupe Tiscornia: Después eh estas son todas vacas que están
+esperando para ser ordeñadas. Entonces van entrando, digamos, cuando en
+general por jerarquía de los animales, pero básicamente van entrando
+solas a al robot. La vaca entra. Entonces tiene este este estímulo de la
+de la comida. Entonces por la comida se queda ahí digamos comiendo.
+Entonces se queda quieta. Ahí entra y ahora se se instala el la rutina
+de ordeñe, que ahí van a ver cómo, o sea, solo el el robot lo que hace
+es empezar a ordeñar. Hm. Ven ahí que les quiero dejar esta parte que
+ahí lo que lo que les decía, ¿no? La la vaca está comiendo, entonces
+está tranque ahí y el robot está se va poniendo ahí las pezoneras, qué
+sé yo, y empieza a ordeñar. Cuando termina de ordeñarse la las deja
+salir, digamos, le abre la puerta para que salgan y lo que hace la vaca
+es ir a donde a donde tiene este la pista de alimentación, que
+básicamente tiene otro otro lugar ahí donde se ordeña y y tal y
+básicamente lo que hace es ir a ordeñarse sola cuando tiene ganas.
+
+02:19:10
+
+Guadalupe Tiscornia: Obviamente estos sistemas son muy caros, ¿no?
+Entonces un productor familiar no puede instalar un sistema de ordeñe
+voluntario, pero sí hay sistemas productivos que que lo soportan,
+digamos. Y bueno, y es un una alternativa que se que se está viniendo.
+Después otra cosa eh, que ahora estamos probando, de hecho, en en Iña
+también es el los alambrados virtuales, ¿no? Los es esta empresa Halter
+que tiene estos collares que lo que hacen es e confinar al ganado en una
+determinada zona que se define virtualmente, básicamente por un tema de
+de estímulos negativos y positivos hacen que que el ganado se quede en
+un determinado perímetro. Pero el otro día no se los puse acá, pero está
+muy bueno. Nos mandaron una foto aérea de cómo se ven las parcelas. sin
+alambrado y realmente es es asombroso cómo eh se logra que las vacas se
+queden confinadas en un determinado lugar y digitalmente se van moviendo
+esos eh esa definición de parcelas cuando eh las vacas se tienen que
+mover a otro potrero. La verdad que es esto lo que aporta es obviamente
+a no tener que implementar alambrados en en los predios que son caros.
+
+02:20:37
+
+Guadalupe Tiscornia: sobre todo si uno los tiene que mover. Eh, hay
+algunas zonas que, por ejemplo, no sé, una corriente o algo por por un
+arroyo se puede llevar los alambrados, entonces hay que reemplazarlos y
+también no solo para el manejo de pastoreo, sino también para protección
+de zonas sensibles. Si yo tengo una determinada zona en mi campo, que
+quiero regenerar, por ejemplo, un bosque ribereño o algo así que se está
+empezando a regenerar. Bueno, yo lo puedo delimitar con estos alambrados
+virtuales para que no entren y proteger esa zona que que entiendo
+sensible o o bueno, o lo que sea. O sea, realmente es este tema de
+alambrados virtuales es es un factor super interesante en en sobre todo
+en ganadería, ¿no? Pero en definitiva, todo el desarrollo de sistemas
+inteligentes de toma de decisión, eh, ya sea para manejo de cultivos,
+manejo animal, gestión financiera o económica de los predios, el poder
+integrar toda la información predial para aportar a la toma de decisión
+es bastante clave en estos en los sistemas este agropecuarios porque al
+menos que el productor ayudarlo a que tome decisiones más informadas,
+¿no?
+
+02:22:02
+
+Guadalupe Tiscornia: Porque obviamente que después la decisión última es
+pasar la del productor y y como les decía antes, muchas veces el interés
+del productor no es a priori el que uno pensaría que es porque hay otras
+lógicas que están operando, como cualquier persona que hace que priorice
+otras cosas, ¿no? Pero por lo menos que esas decisiones en base a lo que
+sea se tomen más informadas y y con todos los elementos sobre la mesa.
+Entonces, eso también es crítico. todos los sistemas que contribuyan a
+eso, este, también van a ser este muy bienvenidos, porque en definitiva
+lo que se quiere o a lo que deberíamos apuntar en esto de tratar de
+apoyar los procesos de digitalización es el desarrollo de sistemas de
+información que sean cada vez más inteligentes, que integren información
+de diferentes fuentes y a diferentes escalas, generando resultados de
+manera más sencilla y de fácil interpretación. y aplicación, que eso va
+en la línea de lo que les comentaba también que de las alertas que
+permitan tomar decisión, ¿no? Tener como esa lógica también y que no
+solo permitan monitorear el pasado y diagnosticar el presente, sino
+también hacer estimaciones futuras.
+
+02:23:21
+
+Guadalupe Tiscornia: esto que comentábamos de los modelos predictivos,
+de poder tener proyecciones eh productivas, financieras o económicas más
+acertadas y ajustadas a mi establecimiento en el corto, mediano y en el
+largo plazo también. Eh, sistemas que brinden respuestas concretas, eh
+acertadas a consultas específicas, todos los lo que tiene que ver con
+chatbot, por ejemplo, ¿no? Con agentes de eh tipo chatbot. También lo
+que pasa es que eso volvemos a que la información con la cual se tienen
+que generar esos agentes tiene que ser información robusta, no puede ser
+información este basura, porque si no van a dar basura. Eso, eso también
+hay que tenerlo muy en cuenta y que permita tomar decisiones más
+ajustadas con información a nivel de predio, más precisas y más
+consistentes. En definitiva, eso es lo a lo que se debería poder llegar
+con todos estos procesos de de transformación digital, ¿no? tener como
+todos los sistemas que estén interactuando y que el productor pueda
+tomar la decisión, pero teniendo en cuenta todos los sistemas actuando
+este conjuntamente o interconectadamente, ¿no? Entonces, obviamente ahí
+la integración es clave y también es clave cuando uno va a desarrollar
+una nueva una nueva aplicación o alguna nueva decisión, porque eso
+también hay que tener en cuenta qué es lo que ya tiene el productor,
+sobre todo porque no no tenemos que tratar de que no terminemos
+generando como islas de de información, ¿no?
+
+02:25:13
+
+Guadalupe Tiscornia: Datos que estén desagregados, que yo tengo un
+sistema que me reporta para una determinada cosa y que no se habla con
+el otro sistema, que lo que trata es de tomar una decisión en función
+del primero. Entonces, empezar a tener esas islas van a redundar en
+perjuicios, sin duda, no solo operativos, sino de percepción del
+productor, porque no va a entender por qué una cosa le dice una cosa y
+otra cosa otra. Entonces, el tratar también cuando uno desarrolla cosas,
+eh tener presente lo que eventualmente puede tener el productor o si
+estoy en un caso concreto, lo que efectivamente tiene también es crítico
+en esto de de la integración y la interoperabilidad. Eso es bastante
+clave. Y después los temas de capacitación del usuario, porque si el
+objetivo final es gestionar de forma remota mis actividades, la
+información generada y la toma de decisión, el usuario tiene que estar
+capacitado. Y ahí volvemos a lo que hablábamos de las personas que están
+en el campo, ¿no? Dependiendo mi público objetivo, o sea, a quién yo
+apunto, es lo que voy a tener que tener en cuenta si está o no
+capacitado.
+
+02:26:27
+
+Guadalupe Tiscornia: y yo punto a que mi solución la maneje un operario
+rural y bueno, voy a tener en cuenta lo que puede ser la formación, el
+nivel educativo de ese operario rural para que la capacitación sea
+efectiva, porque si no eh ni que hablar que no la va a poder usar y y va
+a terminar siendo más un problema que que una solución. Entonces también
+el difundir y acceder a la información a productos y herramientas Es
+clave. Nosotros desde el gras lo que hacemos es difundir mucho las
+herramientas que se elaboran, ¿no? Lo que está disponible, tratar de que
+el acceso sea amigable, que el productor la entienda. Este, y en esa
+lógica es que se diferencian. Bueno, estas son más de clima, estas son
+de de monitoreo ambiental. Entonces, ir también mostrando y ordenando la
+información de manera adecuada. Este es clave lo que hacemos para
+difundir Iña móvil que les comentaba, todas las otras herramientas que
+se desarrollan desde Iña, ¿no? Todo cómo se ordenan, cómo el productor
+la puede entender, cómo puede acceder y también en relación a eso, a
+cómo accede y a qué nivel de adopción tiene.
+
+02:27:49
+
+Guadalupe Tiscornia: Desde hace este 3 años ya estamos en en un programa
+que se llama Converge, que lo que busca en definitiva es fomentar la
+adopción de este tipo de de soluciones digitales en la producción, en en
+por parte de los productores y lo que se quiere hacer es básicamente
+bajar ese riesgo tecnológico, ¿no? O sea, eh darles evidencia a
+productores y técnicos sobre la solución, pero de manera imparcial.
+Entonces, lo que hacemos desde Iña es evaluar las soluciones digitales y
+básicamente mostrarle al productor si hace lo que dice y también desde
+el punto de que eso le llamamos verificación y también desde el punto de
+vista de la usabilidad, si se entiende y para eso hacemos entrevistas
+con productores a lo que le llamamos validación. Entonces, digitalizar
+en definitiva solo va a tener sentido si agrega valor. Entonces, ayuda a
+producir más con menos, por ejemplo, o adaptarse al cambio de la
+variabilidad climática o abrir mercados o hacer más sostenible. Y sí
+tiene que tener en cuenta o es lo ideal que incluya también a pequeños y
+a grandes productores en esta en este mismo proceso de transformación.
+
+02:29:16
+
+Guadalupe Tiscornia: Porque en definitiva, si yo logro que una la gran
+está bien que que en general un productor grande puede este pagar más o
+gastar más en algún tipo de solución, pero también hay que tener en
+cuenta que los productores pequeños e primero que son más son son muchos
+más los productores. Si bien en términos de de productividad, obviamente
+es más bajo, pero son mucho más productores. Entonces es un potencial
+mercado ahí y también ayudan a otros procesos como puede ser soberanía
+alimentaria. Entonces, bueno, hay todo un componente ahí de productores
+pequeños que también vale la pena este tener en cuenta cuando uno
+empieza a transitar estos estos procesos de transformación digital y ni
+que hablar que hay oportunidades, ¿no? el tema que comenz que
+conversábamos antes de optimización y eficiencia de los recursos, todo
+lo que tiene que ver con riesgo de precisión, de fertilización
+diferenciada, esto que comentábamos de control de plagas y enfermedades,
+también este poder hacer un control selectivo, eh mejora en la
+productividad y en la toma de decisión, todo lo que hablamos de
+recopilación, análisis de datos, lo de modelos predictivos, modelos de
+simulación, lo de gemelos digitales, sistemas de gestión y de
+transferencia.
+
+02:30:46
+
+Guadalupe Tiscornia: Eso también es es bastante clave porque un
+productor puede hacer todo bien, pero en algún momento algo va a ir mal,
+en general asociado a a cuestiones climáticas. Entonces, el poder
+transferir parte del riesgo también es es muy útil. Entonces, bueno, ahí
+también hay una oportunidad en todo lo que tiene que ver con seguros de
+con seguros agropecuarios, en en todo lo que tiene que ver con gestión y
+transferencia del riesgo también e también hay oportunidades en lo que
+es mayor resiliencia y sostenibilidad ambiental. Esto que comentábamos
+de la reducción de huellas ambientales, eh monitoreo del estado y la
+salud del suelo y de la vegetación. Eso también es es una oportunidad
+interesante para desarrollos en el sector. E lo que tiene que ver con
+democratizar la información, esto que que comentábamos del tema de los
+chatbot e eh es un esto es lo que much hay muchos productores
+agropecuarios que no tienen acceso a a a asistentes técnicos, ¿no? a
+técnicos agropecuarios o alguien que los pueda asesorar en determinadas
+este actividades agropecuarias. Entonces, el hecho de poder tener algún
+desarrollo en relación a chatbot que que pueda dar recomendaciones
+personalizadas en la medida que sean buenas y sean recomendaciones
+confiables, eh ayuda mucho a que a que la información pueda llegar a
+todos los productores.
+
+02:32:24
+
+Guadalupe Tiscornia: Entonces ahí también hay una hay una oportunidad
+este interesante en ese sentido. También en todo lo que tiene que ver
+con acceso a mercados, trazabilidad, ¿no? aplicaciones que ayuden a la
+tracebilidad de algunos productos, eh cosas que tienen que ver con
+comercio digital, e alguna solución que apunte a mercados diferenciales.
+Esas cosas también están cobrando esta relevancia y parecen bastante
+interesantes también, sobre todo para algunos sistemas productivos,
+pensando M. sobre todo la primera y la tercera en en producción para
+exportación. Entonces ahí es crítico y el tema del comercio digital
+inclusive en pequeños productores a escala local también es es una cosa
+bastante interesante en estos sistemas. eh todo lo que tiene que ver con
+eficiencia logística, ¿no? Tratar esto que que alguno también ya está
+trabajando, en tratar de ser más eficientes en los procesos, en
+contribuir a la falta de mano de obra, toda esa esa ese rubro, digamos,
+de relacionado con la logística también es interesante cumplimiento de
+regulatorios y certificaciones. Muchas veces este algunas soluciones que
+apuntan a eso tienen como salida interesante eh en estos sistemas.
+
+02:33:53
+
+Guadalupe Tiscornia: Em y bueno, y también todo lo que tiene que ver con
+investigación, porque no solo eh el público objetivo es o o tienen que
+ser o o son los productores y los técnicos y los trabajadores rurales,
+sino también todo lo que tiene que ver con investigación que requiere
+como un uso más intensivo de estas tecnologías. es público que
+obviamente está mucho más abierto a la incorporación y a la utilización
+de de tecnologías más modernas, si se quiere, o no le tiene miedo a
+probar cualquier cosa, que también puede ser este interesante porque en
+definitiva algunas soluciones que a priori estén pensadas para
+investigación potencialmente pueden migrar para productores este no más
+de avanzada, por ejemplo, que o que quieren probar o que tienen recursos
+o o capacidades de poder incorporar algunas de estas cosas eh que en
+principio estaban pensadas en investigación. Entonces, este eso también
+puede ser un un tema interesante para para abordar algunas soluciones
+que sean muy concretas, específicas, eh, de más desarrollo y seguramente
+más complejas también este pensarlas en esos sistemas. Bueno, acá hay
+algunos, ¿no?, de lo que tienen que ver con comunicación, integración y
+transmisión de datos, todo eso en soluciones de riesgo de riego
+utilizando eh, no sé, o sensores más modernos o tema de radar o
+cuestiones térmicas que usualmente no es lo que uno ve que es en base a
+índices deción o cosas más conocidas, eh, sino cosas radar, ¿no?
+
+02:35:41
+
+Guadalupe Tiscornia: este algunos sensores de monitoreo más este eh
+directo de de nutrientes o de medición de algunas cosas. Todas esas
+cosas que que a priori son más dificultosas de implementar en o de usar
+en predios más grandes a nivel de la investigación pueden pueden ser
+interesantes. That's es manejo y detección de plagas, eh lo que es
+monitoreos por ambiente, pero utilizando herramientas como más modernas,
+digamos, y muchas otras cosas más que se les pueda que se les pueda
+ocurrir, eh, que permitan resolver algún problema o adelantarnos eh
+algún problema. Entonces eso este parece bastante este interesante.
+Obviamente hay desafíos, ¿no? Todavía hay desafíos en la incorporación
+de tecnologías, sobre todo a nivel del predio. Algo comentamos de la
+conectividad, si bien obviamente va mejorando y cada vez es más hay más
+conectividad por esto que comentábamos, sigue habiendo problemas en
+algunos lugares. Entonces, bueno, eso ni que hablar que que hay que
+tenerlo en cuenta también. el tema de la capacitación, el tema de la
+usabilidad. Muchas veces las las soluciones son buenas y resuelven un
+problema, pero la usabilidad es malísima, los productores no lo
+entienden o son eh, no sé, por ejemplo, algunas aplicaciones que lo que
+hay que marcar e en el celular es muy chiquito y los productores en
+general tienen dedos grandes, entonces cuando va a apretar aprietan
+cinco cosas.
+
+02:37:17
+
+Guadalupe Tiscornia: Esas no. O sea, hay que pensar en esas cosas
+también. Ni que hablar que costos, si bien como hablábamos van
+disminuyendo, hay algunos costos que todavía son altos y bueno, los
+productores muchos no pueden este afrontar o tienen otras prioridades.
+esto que comentábamos de la versión al cambio, al riesgo tecnológico,
+que desde Converge estamos tratando de disminuir, pero es una realidad y
+y está bastante presente tratar de que de que estos procesos de
+transformación digital no terminen aumentando las brechas, sobre todo
+entre productores más familiares y productores este más avanzados en
+relación a tecnológicas. Y después todo lo que tiene que ver también con
+la transformación de mano de obra, ¿no? Porque muchas de las cosas que
+se están viendo es que bueno, si yo empiezo a, no sé, por ejemplo, el
+robot automatizado ordeñe, entonces no voy a necesitar gente que salga a
+rear las vacas. Pero en muchos casos, asociado a la falta de mano de
+obra, va a ser más o tiende a ser más una eh transformación de la mano
+de obra y no una sustitución.
+
+02:38:29
+
+Guadalupe Tiscornia: Porque esas personas que antes salían a en la
+lluvia y con -5 gr a traer las vacas, ahora pueden capacitarse en eh
+manejar el robot de ordeña, por ejemplo, o en limpiarlo o en hacer
+algunas toreas relacionadas a la incorporación de estas tecnologías que
+seguramente sean tareas más capacitadas, ¿no?, o que requieran más
+capacitación eh de las tareas que estaban haciendo antes. Entonces este
+también es un desafío y hay que saberlo manejar. También la poca
+integración entre diferentes actores de la cadena muchas veces hace que
+esto no que haya como silos de información a distinta escala que no
+permitan poder integrar esos datos y aprovecharlos mejor. Un tema
+importante también es todo lo de propiedad de los datos, ¿no? El uso
+comercial no autorizado, que que eventualmente hay un montón de
+maquinarias que levantan un montón de datos. Entonces, bueno, ¿de quién
+son esos datos? Que los datos son del productor, pero en realidad
+tampoco está tan claro si él quiere que otros los usen, pero se usan.
+Entonces, bueno, todo el tema datos es ahí un tema que que hay que tener
+en cuenta.
+
+02:39:46
+
+Guadalupe Tiscornia: Datos que no son interoperables en un mismo
+sistema. eh dos soluciones distintas generan datos y esos datos no son
+interoperables, entonces no permiten sacarle el provecho necesario o
+deseable de esos datos o de esas este soluciones que están actuando en
+esos sistemas. Entonces está ahí también hay un desafío. Después la
+falta de herramientas para la promoción de adopción en general eh no hay
+muchas este en la vuelta. Eso obviamente es un desafío porque el poder
+tener este tipo de herramientas sin duda facilitaría o promovería mucho
+más la adopción de este tipo de soluciones y bueno, después muchas otras
+que que puedan ir surgiendo o que se les pueda ocurrir que está bueno ir
+teniéndolas en cuenta y si se les ocurren algunas otras me avisan así
+las seguimos agregando acá. Pero pero bueno, esto era un poco como para
+ilustrar que hay muchos y diversos desafíos también, no solo en el
+desarrollo de la aplicación, la usabilidad que puede ser buena, sino un
+montón de otras cosas que también están jugando en en estos procesos de
+transformación digital y que pueden ser relevantes a la hora de fomentar
+la adopción y que los productores finalmente este empiecen a utilizar.
+
+02:41:15
+
+Guadalupe Tiscornia: Pero obviamente la digitalización, como veníamos
+conversando, no es un financiimismo, es un proceso que es necesario,
+pero solo en la medida que genere algún valor. Em, y hay que empezar a
+repensar los sistemas eh agrícolas a partir de necesidades reales y no
+de modas que que bueno que en definitiva no lo hacen sostenible, ¿no?
+Porque en la medida que este tipo de de soluciones surjan sin responder
+un problema real, eh van a terminar este destruyendo a las que Sí.
+Porque la innovación se va a dar en la medida que se genere algún valor.
+Y el valor no solo no necesariamente tiene que ser económico, como
+veníamos conversando, también hay valor ambiental, también hay valor
+social que es necesario empezar a a transicionar en estos sistemas que
+muchas veces han tenido, ahora me parece que cada vez menos, eh
+cuestionamientos ambientales eh y sobre todo temas sociales relacionados
+con calidad de vida, con con sacrificio de tareas que que son bastante
+bastante relevantes en el sector. Y bueno, y para finalizar esto que que
+creo que está bueno y que vale la pena que lo tengan en cuenta también
+cuando estén pensando en el desarrollo o o en los trabajos o en posibles
+desarrollos, que el agro no necesita más aplicaciones, lo que necesita
+es más valor.
+
+02:42:58
+
+Guadalupe Tiscornia: Entonces, que cualquier desarrollo, cualquier
+solución que ustedes estén pensando, que responda a un dolor o a una
+problemática real del sector y que no sea que que algún desarrollador
+quiere hacer una solución y después sale a buscar dónde está el problema
+para esa para esa solución. en general, este, esas cosas suelen terminar
+en en fracasos, digamos, y estaría bueno que que lo que vayan a hacer a
+futuro relacionado al agro eh tenga esta consigna, ¿no? Que en
+definitiva este genere más valor. Y bueno, por acá este, mira, no se
+pueden quejar, terminé un rato antes este porque estuvieron poco
+charlatanes, entonces bueno, tuve que hablar yo todo el tiempo, pero
+pero cualquier comentario, cualquier, no sé, sugerencia, consulta o lo
+que sea, este me cuentan porque hablé como un logro casi dos horas, así
+
+lse posgrados: Gracias, Guada. Bueno, si si no eh tienen tu mail, van a
+tener tu mail. Bueno,
+
+Guadalupe Tiscornia: Sí, claro. Cualquier cosa, inclusive pensando a en
+en no sé, cosas que se le puedan ocurrir, si quieren intercambiar alguna
+cosa ahí Tomás levanto la mano.
+
+02:44:21
+
+lse posgrados: sí.
+
+Guadalupe Tiscornia: Pero más allá de lo que pueda surgir ahora, me
+escriben cuando sea sin ningún problema. Dale, Tomás.
+
+Tomas Moretti: Eh, una consulta, capaz que lo dijeron y no lo escuché.
+Eh, no sé si hay algún campus o algo similar donde podamos obtener los
+apuntes y demás.
+
+lse posgrados: No, no, Campus, no. Yo les voy a mandar por mail después
+de cada clase la presentación de de los profesores y de los expositores,
+porque me di cuenta que me olvidé decirles que a veces los docentes Con
+vo. a expositores que ya vienen como trabajando con tecnología
+relacionada a la agricultura y
+
+Guadalupe Tiscornia: H,
+
+lse posgrados: entonces es interesante para ustedes ver eh gente que ya
+está trabajando en el ámbito y que y que está aplicando, así que les va
+a gustar eso. Por eso las clases un poco se dividen,
+
+Guadalupe Tiscornia: sí, está bueno.
+
+lse posgrados: ¿eh? Entonces, todo eso, todo lo de cada clase se los
+mando yo, pero por mail.
+
+Tomas Moretti: Ah,
+
+lse posgrados: Nunca me pidieron.
+
+Tomas Moretti: bueno, bueno, buenísimo.
+
+lse posgrados: Sí, es como que siempre fue así ese el formato, o sea,
+van a recibir todo de mi parte, desde mi mail.
+
+02:45:35
+
+Tomas Moretti: Claro. Sí, sí. No, yo consultar más que nada como esta
+clase está grabada y demás para después si alguno quiere verla
+nuevamente
+
+lse posgrados: A ver, lo que sí e yo tengo entendido porque yo sé que
+hay un link. Mañana cuando les mande las dos presentaciones, la adecuada
+y la mía, les voy a mandar eh el link que tengo yo en un archivo donde
+tengo todos los nombres de ustedes, el link donde dice eh que quedan las
+grabaciones.
+
+Tomas Moretti: Listo. Buenísimo.
+
+lse posgrados: Entonces ahí si ustedes quieren ver de vuelta una clase o
+eh los que hoy no pudieron venir e la pueden ver ahí. Pero bueno, e voy
+a preguntar igual cómo es esto, porque nunca me hablaron a mí de campus,
+
+Tomas Moretti: Eh, no, no,
+
+lse posgrados: nunca lo manejamos así.
+
+Tomas Moretti: yo era más que nada para para ver cómo se manejaba, n más
+para
+
+lse posgrados: ¿Ustedes con las otras materias hacen eso? ¿Tienen? O
+sea, con las materias obligatorias tienen campus.
+
+Tomas Moretti: eh sí tienen campus o a veces te pasan un tipo un GitHub
+donde tienen claro un repositorio o algo de eso.
+
+02:46:42
+
+lse posgrados: Ah. M.
+
+Tomas Moretti: va variando según cada uno.
+
+lse posgrados: Ah, okay. Eh, no, no, nunca lo manejamos así, pero les
+voy a mandar ese link porque yo sé que está porque a veces tuve que ir o
+reenviarla. Algunos docentes me piden que se los les reenvíe las
+grabaciones o lo que fuera. Se los se los paso. Sí. Y bueno, van a tener
+mi mail. Bueno, ya lo tienen, pero van a tener mi mail a disposición
+para cuando quieran, para lo que sea, sea algo personal, como hoy que me
+escribieron uno que no podía ir, que pasaba con la asistencia y todo eso
+o o cualquier duda. Sí. Bueno,
+
+Tomas Moretti: Barbaro.
+
+lse posgrados: Wada,
+
+Tomas Moretti: Yeah.
+
+lse posgrados: como siempre, mil gracias.
+
+Guadalupe Tiscornia: No, al contrario, un gusto. Espero que les haya
+servido, por lo menos para tener ahí un pantallazo general de todo,
+desde los sistemas hasta algunas posibles eh soluciones ahí como
+disparador para esto que decía Lola también de de ir pensando por dónde
+van a encarar los trabajos y eso y obviamente que quedó a las órdenes
+por cualquier cosa.
+
+02:47:48
+
+lse posgrados: Gracias, como siempre, amor. Eh,
+
+Guadalupe Tiscornia: Đ
+
+lse posgrados: Facundo, sí, ahí vi que abriste. Eso es lo que tengo yo.
+Cuando ustedes van a notas 6 A, abajo dice grabaciones y ahí de ahí está
+el drive. Sí, ahí va, ahí va a estar el drive.
+
+Tomas Moretti: Bien, buenísima. Yeah.
+
+lse posgrados: Sí, acabo de abrirlo y por ahora no hay nada porque se va
+a grabar en el minuto que nosotros cortemos. E imagino que irá para ahí.
+
+Tomas Moretti: Sí,
+
+lse posgrados: Bueno,
+
+Tomas Moretti: a veces tarda bastante.
+
+Guadalupe Tiscornia: Excelente.
+
+lse posgrados: ¿cómo?
+
+Guadalupe Tiscornia: que a veces tarda.
+
+Tomas Moretti: A veces tarda un par de horas,
+
+lse posgrados: Ah,
+
+Tomas Moretti: no hay
+
+lse posgrados: a veces tarda. Ah, okay. Yo pensé que era más como
+correspondía más rápido. Bueno, espero que lo tengan mañana. Bueno,
+¿algo más quieren compartir o alguna pregunta? No. Bueno, nos vemos
+entonces el martes a las 7. Sí.
+
+Facundo Quiroga: Bueno, muchas gracias.
+
+lse posgrados: a ustedes por estar acá.
+
+Gabriel Quiroga: Muchas gracias.
+
+Guadalupe Tiscornia: Bueno,
+
+Gabriel Quiroga: Buenas noches,
+
+Guadalupe Tiscornia: muchas gracias por por participar.
+
+Carlos Villalobos: Gracias.
+
+Guadalupe Tiscornia: Suerte en en las próximas instancias. Un saludo
+grande.
+
+lse posgrados: Chao. Gracias. Chao.
+
+Guadalupe Tiscornia: Chao.
+
+lse posgrados: Chao. Chao. Todos. H el martes.
+
+La transcripción finalizó después de 02:49:13
+
+Esta transcripción editable se generó por computadora y puede contener
+errores. Los usuarios también pueden cambiar el texto después de que se
+cree.
