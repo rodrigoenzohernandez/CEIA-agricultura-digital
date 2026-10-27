@@ -6,7 +6,7 @@
 - **Grabación:** [Google Drive](https://drive.google.com/file/d/18BGqsrmyBp-I0znhr0XbOmUqmCRLFYeS/view)
 - **Material:** [slides](material/slides-introduccion-sistemas.pdf) · [presentación del curso](material/presentacion-curso.pdf) · [notas Gemini](material/notas-gemini.docx) · [transcripción](material/transcripcion.txt)
 
-> **Fuentes:** la transcripción completa y las slides. Los tiempos `(hh:mm:ss)` indican dónde arranca cada tema en la grabación. Las secciones marcadas con ✎ son elaboración propia y no se dijeron en clase.
+> **Fuentes:** la transcripción completa y las slides. Los tiempos `(hh:mm:ss)` indican dónde arranca cada tema en la grabación. Las secciones marcadas con ✎ son elaboración propia y no se dijeron en clase. Las imágenes son de las slides: cuando una slide apila varias fotos o mapas, acá aparecen uno al lado del otro.
 
 ---
 
@@ -30,7 +30,7 @@
 - **Toda alerta debe ir asociada a una medida de manejo posible.** Contraejemplo: avisar de granizo cuando no hay nada que hacer.
 - **Herramientas de INIA citadas:**
   - Alerta Ovina: chill index, crítico > 1200 kJ/m²/h.
-  - INIA Termoestrés: ITH, aviso a 7 días.
+  - INIA Termoestrés: ITH, aviso a 7 días. Riesgo: alerta 68–72, peligro 72–79, emergencia > 79.
   - INIA Termomín: temperaturas mínimas a 5 días.
   - OptiFert-P y OptiFert-N: fertilización con fósforo y nitrógeno.
   - Fertiliz-Arr: fertilización en arroz.
@@ -99,6 +99,9 @@
 |---|---|---|
 | Energía, semilla, animales, maquinaria y otros | Preparación de la tierra, siembra, cosecha, etc. | Productos (agropecuarios) y **residuos** |
 
+![Diagrama de entradas, procesos y salidas](img/slide-05-entradas-procesos-salidas.jpg)
+*Slide 5: el sistema como una caja con entradas, procesos y salidas.*
+
 **Poblaciones y subsistemas (00:38:16)**
 - El sistema es un conjunto de poblaciones de **plantas, animales y microorganismos** (también los del suelo).
 - Cada población da valor agropecuario por sí misma y también por la interacción con las otras. Se definen **subsistemas** de cultivos, de animales o de microorganismos.
@@ -123,6 +126,11 @@
 > **Implicancia para diseñar soluciones:** hay que entender qué prioriza el productor, no asumir que quiere maximizar el rendimiento.
 
 ## 3. Tipología de sistemas (00:42:12)
+
+![Árbol de tipos de sistemas agropecuarios](img/slide-09-tipologia.jpg)
+*Slide 9: la clasificación de la clase.*
+
+Con los ejemplos que dio la docente:
 
 ```
 Sistema agropecuario
@@ -158,6 +166,9 @@ Sistema agropecuario
 - Antes de cosechar se retira el agua y se **orea** el terreno para que entre la maquinaria.
 - **Control de humedad para el almacenamiento**, como en todo grano. Las slides muestran la panoja de arroz.
 
+![Fotos de arroz](img/slide-14-arroz.jpg)
+*Slide 14: recorrida de una chacra, panojas, canal de riego, cosecha y chacra inundada.*
+
 **Forestal (00:49:19)**
 - Extensivo, **no anual**, con **ciclos largos** (en general ~10 años).
 - Producción de **madera o celulosa**.
@@ -165,6 +176,9 @@ Sistema agropecuario
 - Las empresas se autoabastecen: tienen **genética propia**, **viveros** con plantines que después pasan a campo, e investigación propia.
 - Usan mucha maquinaria y sistemas para **optimizar la operativa**: por dónde entra la maquinaria, cuál es la ruta óptima, cómo se organizan las cosechas.
 - Las fotos de la slide recorren toda la cadena: **vivero** (plantines en bandejas bajo media sombra) → plantación de eucalipto → cosecha (grúa con rollizos) → **chips** de madera cargándose en un barco en el puerto.
+
+![Fotos de la cadena forestal](img/slide-16-forestal.jpg)
+*Slide 16: montes, viveros con plantines, eucaliptos, cosecha con grúa y chips en el puerto.*
 
 ## 5. Cultivos intensivos (00:50:45)
 
@@ -185,12 +199,18 @@ Sistema agropecuario
   - También un invernáculo con canteros elevados y riego.
 - Muchos **productores familiares o pequeños** tienen la horticultura como principal fuente de ingreso.
 
+![Fotos de horticultura](img/slide-19-horticultura.jpg)
+*Slide 19: riego por aspersión, tomate a cielo abierto y su cosecha, maquinaria chica, túneles, invernáculos y cosecha de frutilla.*
+
 **Fruticultura (00:53:31)**
 - Fruta para **consumo fresco o procesamiento**.
 - **Ciclos largos:** algunos frutales tardan años en dar fruto (2–3 años; nueces pecán y olivos demoran más).
 - **La polinización es clave**, así que la apicultura es muy beneficiosa para estos sistemas.
 - El **costo de implantación es más alto** que en los anuales, y los árboles se cuidan mucho para que produzcan cuanto antes.
 - Ejemplos: cítricos (mandarinas), manzanas, cerezas, duraznos.
+
+![Fotos de fruticultura](img/slide-21-fruticultura.jpg)
+*Slide 21: monte cítrico, mandarinas, recorrida de un monte frutal, durazneros en flor y duraznos.*
 
 ## 6. Producción animal
 
@@ -202,6 +222,9 @@ Sistema agropecuario
 - **Bovinos y/o ovinos (00:57:52):** hay establecimientos solo de carne bovina, otros de ovinos para lana y carne, y otros que combinan vacas y ovejas. La raza depende del objetivo productivo (carne o lana).
 - En las fotos se ven una majada con corderos en campo natural, ovejas laneras (tipo Merino), vacunos Hereford y el manejo a caballo y con perros.
 
+![Fotos de ganadería extensiva](img/slide-23-ganaderia-extensiva.jpg)
+*Slide 23: vacunos Hereford y ovinos sobre campo natural, y manejo a caballo.*
+
 **Ganadería intensiva bovina (00:57:52)**
 - **Alta densidad** de animales en espacios relativamente pequeños.
 - **Uso intensivo de recursos**, alta mano de obra y **alto uso de insumos externos**.
@@ -210,6 +233,9 @@ Sistema agropecuario
 - Básicamente son **feedlots (00:59:15):** parcelas chicas con animales muy confinados. Se les da grano, agua y a veces sombra; el **bienestar animal** también importa.
 - Se mostró un video de feedlots en el norte argentino. Las fotos muestran corrales con cientos de vacunos Angus y Hereford comiendo en comederos lineales.
 
+![Fotos de feedlot](img/slide-25-feedlot.jpg)
+*Slide 25: corrales de engorde con comederos lineales.*
+
 **Ganadería intensiva de otros animales (01:00:50)**
 - **Aves de corral, conejos y cerdos:** alta densidad, ambientes controlados, ciclos muy cortos.
 - **Manejo sanitario muy intensivo**, porque con animales confinados las enfermedades se contagian fácil.
@@ -217,6 +243,9 @@ Sistema agropecuario
 - **Cabras:** sistemas **semi-intensivos** asociados a productos de alto valor, como el queso de cabra.
 - **Imágenes (01:02:05):** cerdos a campo (menos intensivo) contra sistemas muy intensivos donde las madres casi no se paran; pollos para huevos y para carne.
   - La slide muestra **gallinas ponedoras en jaulas de batería** de varios pisos y cerdos confinados en jaulas metálicas sobre piso emparrillado.
+
+![Fotos de cerdos y gallinas](img/slide-27-otros-animales.jpg)
+*Slide 27: cerdos a campo, cerdos confinados y gallinas ponedoras en jaulas de batería.*
 
 **Lechería (01:02:05)**
 - Se usan **especies (razas) lecheras**, como la Holando.
@@ -229,11 +258,17 @@ Sistema agropecuario
 - **Diversidad de productores (01:06:18):** desde familiares de ~39 vacas hasta un proyecto con **15.000 vacas en ordeñe** y sistemas automatizados.
 - Los lecheros, incluso los familiares, están **acostumbrados a incorporar tecnología**. Es un plus para adoptar soluciones nuevas.
 
+![Fotos de lechería](img/slide-29-lecheria.jpg)
+*Slide 29: vacas Holando a pasto, arreo al tambo, pezoneras y toma de muestra de leche.*
+
 **Apicultura (01:06:18)**
 - Manejo y cuidado de abejas y colmenas para producir **miel, polen, cera, propóleo** y otros derivados.
 - A pequeña, mediana o gran escala: hay apicultores con cientos o miles de colmenas que **las trasladan a donde hay flores**.
 - **Colaboran con la polinización** de frutales y extensivos (todo lo que necesite desarrollar frutos). El beneficio es mutuo con los productores de esos cultivos.
 - **La sanidad es crítica:** un problema sanitario puede causar mortandades masivas, de miles de colmenas.
+
+![Fotos de apicultura](img/slide-31-apicultura.jpg)
+*Slide 31: abejas en flores y revisión de una colmena.*
 
 **Sistemas mixtos (01:09:17)**
 - Integran sistemas **agrícolas** (plantas) y **pecuarios** (animales).
@@ -244,6 +279,9 @@ Sistema agropecuario
   - Otros son forestales donde el ganado entra a pastorear zonas no plantadas o corredores.
 - **Fruticultura con ovejas o cabras (01:11:58):** la oveja usa un **bozal** que se levanta cuando apoya la cabeza en el suelo, así puede comer el pasto. Con la cabeza en alto, el bozal le impide comer los brotes. Ejemplo con vid: mantiene el pasto "a raya" sin dañar la planta productiva.
 - Las fotos muestran ovejas con bozal bajo un **viñedo** con riego por goteo y entre **limoneros**, vacunos sobre una pradera con trébol blanco y un silvopastoril con vacunos entre filas de eucaliptos.
+
+![Fotos de sistemas mixtos](img/slide-33-sistemas-mixtos.jpg)
+*Slide 33: vacunos sobre una pradera, silvopastoril con eucaliptos y ovejas con bozal entre limoneros y en un viñedo.*
 
 ## 7. Tamaño de los predios (01:11:58)
 
@@ -287,6 +325,10 @@ Los sistemas productivos se ocupan cada vez más de estos temas: los eventos ext
 - La **variabilidad climática** es el principal factor a contemplar, porque se produce a cielo abierto.
 - **Eventos extremos más frecuentes e intensos (01:23:40):** sequías o déficit hídrico, olas de calor, lluvias intensas.
 - Imágenes: sequía; **heladas**, que pueden matar plantas; **inundaciones**, donde el suelo anegado pudre las raíces y mueren las plantas.
+
+![Fotos de sequía, heladas e inundación](img/slide-43-eventos-extremos.jpg)
+*Slide 43: daños por sequía y heladas, y una chacra inundada.*
+
 - Otros efectos: cambio en los regímenes de lluvias, aumento de temperaturas, impacto en la disponibilidad y calidad del agua, **más plagas y enfermedades**.
 - **Clave: adaptación y mitigación.** El monitoreo y la decisión a tiempo son críticos, y los desarrollos que aporten a esto son muy valorados.
 - **Ejemplo (01:25:19):** prever cuánta materia seca habrá el año próximo para manejar el sistema con el menor impacto negativo.
@@ -313,6 +355,9 @@ Los sistemas productivos se ocupan cada vez más de estos temas: los eventos ext
 - En la región, cada vez hay menos gente en el campo y le interesa menos estar ahí.
 - Los sistemas que hagan el ambiente rural **más amigable** pueden mitigar ese proceso.
 
+![Gráficos de población rural y urbana](img/slide-46-poblacion-rural.jpg)
+*Slide 46: la distribución de la población mundial según UN-HABITAT (rural: 63 %, 53 % y 40 %) y el gráfico de Our World in Data.*
+
 *(Recreo: 01:31–01:46)*
 
 ## 10. AgroTIC: factores que promueven su uso (01:46:15)
@@ -327,6 +372,9 @@ La slide de ese momento es una foto de una charla en el **Silicon Valley Forum (
 | Sensor | el ojo | una cámara |
 | Interpretación | el cerebro humano | un "cerebro digital" |
 | Resultado | **subjetivo e inconsistente** | **objetivo y consistente** |
+
+![Slide del Silicon Valley Forum](img/slide-47-silicon-valley-forum.jpg)
+*Slide 47: de una evaluación de la calidad subjetiva a una objetiva y consistente.*
 
 a) **Avances en comunicaciones y terminales móviles.** El medio rural está cada vez más conectado: en Uruguay es más fácil por ser un país chico, y en países grandes como Argentina **Starlink** da conectividad en lugares antes impensados.
 b) **Abaratamiento de equipos, sensores e insumos informáticos.** Una **estación meteorológica** antes era carísima y hoy se consigue por **~USD 200**, aunque la calidad va acorde al precio.
@@ -352,6 +400,10 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
 - **Para qué:** primero para **analizar** y después para **predecir**.
 - **Red de estaciones automáticas de INIA (01:50:31):** miden temperatura y lluvia cada hora. Con el monitoreo nacional se arman **mapas de lluvia acumulada**, y con el histórico, **mapas de anomalía de lluvia**.
   - La slide muestra la web de GRAS de la estación automática **INIA Las Brujas** (Canelones). Se actualiza cada hora y tiene gráficos de temperatura del aire y de lluvia.
+
+![Estación automática INIA Las Brujas](img/slide-53-estacion-las-brujas.jpg)
+*Slide 53: datos en tiempo real de la estación INIA Las Brujas y sus gráficos de temperatura del aire y lluvia.*
+
 - **Cómo se calcula la anomalía:** se compara, por ejemplo, **el marzo actual contra el promedio de los marzos de una serie histórica**. Verde = llovió por encima de lo normal; rojo = por debajo. A partir de eso se hacen recomendaciones de manejo.
   - En la slide están los mapas INIA–GRAS–INUMET de **precipitación acumulada** y de **anomalía de precipitación acumulada** de marzo de 2026. Muestran mayormente 125–200 mm de lluvia, entre 25 y 100 mm por encima de lo normal.
 - **A escala de predio (01:51:50):** con suficientes datos se puede hacer lo mismo para un establecimiento y entender cómo se comporta.
@@ -359,14 +411,26 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
   - En **2024** marzo fue más lluvioso de lo normal, julio mucho más seco y agosto otra vez más lluvioso.
   - **Enero de 2023** fue muy seco, mientras que el enero anterior había llovido por encima de lo normal en una zona.
   - La slide muestra una grilla de mapas mensuales de anomalía (de julio a junio) para cada año, de 2018/19 a 2025/26.
+
+![Mapas de lluvia acumulada y de anomalía](img/slide-54-lluvia-y-anomalias.jpg)
+*Slide 54: lluvia acumulada y su anomalía en marzo de 2026 (arriba) y la grilla de anomalías mensuales por año (abajo).*
+
 - **Balance hídrico (01:53:02):** con la lluvia, el **tipo de suelo** y otras variables ambientales se estima el **contenido de agua en el suelo**, que es lo que **condiciona la productividad** de cualquier vegetal.
   - Ejemplo de **enero de 2025**: % de agua disponible en el suelo y su anomalía, con todo el país muy por debajo de lo esperable (rojo, naranja, amarillo).
   - **Abril de 2025**, tres meses después: todo verde, con excesos hídricos.
   - Los mapas de la slide son de **PAD** (porcentaje de agua disponible en el suelo) y de su anomalía. En enero de 2025 hay mayormente 20–40 % (10–20 % en el noroeste) y anomalías de −25 a −75 %. En abril de 2025, mayormente 80–100 %, con anomalías positivas.
-  - La herramienta web de balance hídrico de GRAS tiene pestañas para otras variables (ETP, ETR, IBH, PRE, entre otras).
+  - La herramienta web de balance hídrico de GRAS ("Balance Hídrico Grilla") tiene pestañas para ADI, ANR, ETP, ETR, IBH, PAD y PRE, cada una con su grilla mensual por año.
+
+![Mapas de balance hídrico](img/slide-55-balance-hidrico-pad.jpg)
+*Slide 55: agua disponible en el suelo (PAD) y su anomalía en enero de 2025 (arriba, con sequía) y en abril de 2025 (medio, con excesos), y la herramienta web de GRAS (abajo).*
+
 - **Estado de la vegetación con NDVI (01:54:39):** índice satelital que **combina las bandas roja e infrarroja**. Da idea del **vigor** de la vegetación según la clorofila; los verdes más oscuros indican más vigor.
   - **Anomalía de NDVI:** verde = por encima del promedio; **gris = promedio**; amarillo y naranja = por debajo.
   - GRAS publica el NDVI por **décadas**, es decir, períodos de 10 días (por ejemplo, la 2.ª década de abril de 2026). También publica la variación porcentual entre décadas (D_NDVI).
+
+![Mapas de NDVI](img/slide-56-ndvi.jpg)
+*Slide 56: NDVI de la 2.ª década de abril de 2026 y su variación respecto de la 1.ª (D_NDVI), la grilla de anomalías mensuales de NDVI (arriba a la derecha) y el NDVI de marzo de 2026 por décadas (abajo).*
+
 - **Previsión → manejo (01:55:59):** si se prevé baja productividad de pasturas, se puede **reducir la carga**, reorganizar el rodeo o **comprar ración** para suplementar. Las previsiones son **probabilísticas** y vienen con incertidumbre.
 
 ### c) Sistemas de alerta (01:55:59)
@@ -385,10 +449,28 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
     | **Crítico** | **> 1200** (umbral crítico para la sobrevivencia de corderos en sus primeras 72 h) |
 
   - La app **AlertaOvina** ofrece previsión de riesgos, pronóstico del clima a 5 días, notificaciones personalizadas e histórico del chill index. Está en INIA Móvil y participan INIA, la Facultad de Agronomía, la Facultad de Veterinaria y el SUL (Secretariado Uruguayo de la Lana).
+
+![Alerta Ovina](img/slide-58-alerta-ovina.jpg)
+*Slide 58: la previsión para corderos en la web de GRAS (con la interpretación del índice), el mapa de chill index del 6/5/2024 y la app AlertaOvina.*
+
 - **Estrés calórico en bovinos (01:58:59), app INIA Termoestrés:** alerta para **lechería y carne intensiva**. El estrés térmico causa **mermas de productividad y hasta muerte** de animales.
   - Avisa con **5–7 días** de anticipación (la slide dice 7). El índice **se calcula distinto para leche y para carne**.
-  - **Según la slide**, el índice es el **ITH** (índice de temperatura y humedad, Thom 1959). Uruguay no es una zona peligrosa, pero el estrés calórico afecta a las vacas lecheras de alta producción y a la terminación a corral. La app sirve para carne y leche, en sistemas extensivos o intensivos.
+  - **Según la slide**, el índice es el **ITH** (índice de temperatura y humedad, Thom 1959), el más usado a nivel mundial para relacionar el ambiente con la respuesta del ganado. Uruguay no es una zona donde el estrés térmico sea sostenido y peligroso, pero afecta a las vacas lecheras de alta producción y a la terminación a corral. La app sirve para carne y leche, en sistemas extensivos o intensivos.
+  - **Niveles de riesgo del ITH**, según el mapa del 30/04/2024 de la slide:
+
+    | Nivel de riesgo | ITH |
+    |---|---|
+    | Sin riesgo | < 68 |
+    | Alerta | 68–72 |
+    | Peligro | 72–79 |
+    | **Emergencia** | **> 79** |
+
+  - La web de la herramienta cita resultados de INIA con **acceso a sombra** en verano. Las vacas lecheras de alta producción dieron en promedio **5 litros más** de leche (corregida por sólidos). En terminación a corral, la ganancia media diaria mejoró un **15 %** y la eficiencia de conversión un **7 %**. En pastoreo, la ganancia media diaria subió un **14 %**.
   - Medidas: **no mover el ganado** en las horas de más estrés, asegurar **agua** disponible, poner **aspersión** para refrescar.
+
+![INIA Termoestrés](img/slide-59-termoestres.jpg)
+*Slide 59: el mapa de ITH del 30/4/2024 con sus niveles de riesgo, la web de previsión de estrés calórico (ITH lechería y carne) y la app INIA Termoestrés.*
+
 - **Cómo funciona la app (02:00:45):**
   1. Marcar el sistema productivo.
   2. Buscar un lugar (padrón) y marcarlo como **favorito**.
@@ -400,6 +482,11 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
     - Muestra la variación dentro del día y permite guardar marcadores.
     - Avisa si puede haber temperaturas **bajo 0 °C** e incluye recomendaciones para manejar heladas.
     - Tiene secciones para citrus y cultivos protegidos.
+    - La web de **Previsión de Temperatura Mínima** de GRAS muestra mapas nacionales para el día y los dos siguientes (72 h). Usa el modelo **WRF/CPTEC** (5 × 5 km, actualizado cada 3 horas).
+
+![INIA Termomín](img/slide-61-termomin.jpg)
+*Slide 61: mapas de temperatura mínima del aire y de superficie del 10/5/2024, la web de previsión y la app INIA Termomín.*
+
 - **Principio clave (02:03:27):** toda alerta tiene que estar **asociada a medidas o recomendaciones de manejo**. Avisar algo sobre lo que no se puede hacer nada (como el **granizo**) es frustrante: "sorry, llorá".
 
 ### d) Apoyo a la gestión (02:04:43)
@@ -407,25 +494,43 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
   - **OptiFert-P:** define la dosis de fósforo en pasturas sembradas a partir del análisis de suelo, el tipo de suelo (CONEAT), la historia de fertilización y la pastura. Es gratuita por internet.
   - **OptiFert-N:** nitrógeno en trigo.
   - **Fertiliz-Arr:** recomienda N, P y K para arroz a partir del análisis de suelo. Está validada a nivel experimental y comercial.
+
+![OptiFert-P y Fertiliz-Arr](img/slide-63-optifert-fertiliz-arr.jpg)
+*Slide 63: las webs de OptiFert-P y Fertiliz-Arr.*
+
 - **Gestión del riego:** el requerimiento de agua **depende de la fase del cultivo** (de chico necesita poca agua, al crecer más, y también en la formación del grano) y de las condiciones ambientales (si llovió o no).
   - Ejemplo de la slide: **GESIR** (Gestor inteligente de riego), una app web para planificar el riego suplementario. Usa balance hídrico (método FAO-56) con datos meteorológicos, de suelo y de fenología. Está pensada para extensivos y pasturas, y se puede adaptar a hortalizas, frutales y cítricos.
 - **Alertas de enfermedades** (02:06:05). Ejemplo de la slide: **SARAS** (Sistema de Alerta a Roya Asiática de la soja). Muestra focos, riesgo meteorológico y recomendaciones de manejo, y avisa por mail si aparece un foco a menos de 100 km de tus chacras.
+
+![GESIR y SARAS](img/slide-64-gesir-saras.jpg)
+*Slide 64: las webs de GESIR y SARAS.*
+
 - **INIA Móvil (02:06:05):** una **"super app"** que reúne todos los desarrollos web y móviles de INIA, porque los productores decían "no puedo descargarme 10 aplicaciones de INIA".
   - Cada productor marca como favoritos los que le interesan.
   - **Carga su ubicación una sola vez** y recibe todas las alertas en un solo lugar.
   - Además, mejora la comunicación con el productor: es más directa y unificada.
   - La slide dice "Todas las App INIA en un solo lugar". En la grilla se distinguen, con dudas, GESIR, CultiDatos_uy, Previsión Corderos, OptiFert-N y Previsión heladas.
+
+![INIA Móvil](img/slide-65-inia-movil.jpg)
+*Slide 65: INIA Móvil, "todas las App INIA en un solo lugar".*
+
 - **Lógica de integración (02:07:34):** integrar simplifica, y la interacción entre la información de distintas aplicaciones **potencia su utilidad** para la gestión del predio.
 - **Auravant (02:08:58):** integra información de distintas fuentes a nivel de **chacra**, con **índices de vegetación**. Un agrónomo ve zonas con problemas de vegetación (por ejemplo, una fertilización que no funcionó bien) y **vuelve a aplicar solo en las zonas comprometidas**. Resultado: eficiencia en insumos y **menos costo** que aplicar de forma homogénea en todo el predio.
   - En la captura del video se ven módulos de análisis, gestión, relevamientos, clima, reportes, órdenes de trabajo y maquinarias.
   - Tiene **extensiones de terceros**: por ejemplo, el Modelo Cronos de trigo (CONICET), INTA Campero y Finnegans.
   - Se ve también un mapa de NDVI del lote (escala −1 a 1) con línea de tiempo.
 
+![Auravant](img/slide-66-auravant.jpg)
+*Slide 66: Auravant, con el NDVI de los lotes y la extensión Modelo Cronos.*
+
 ### e) Procesos modernos de análisis de datos (02:10:29)
 - Con IA hacen falta **datos suficientes y robustos**: si se analizan datos basura, sale basura. Por eso importan el monitoreo y la **constancia en los registros**.
 - **Modelos predictivos:** para prever una situación se necesitan datos suficientes y buenos. Son fundamentales para el sector.
 - **Gemelos digitales (02:11:59):** permiten probar modificaciones, simulaciones o mejoras en el predio **sin esperar tiempos biológicos ni ensayos a campo**.
 - La slide muestra el flujo completo: clima → estación meteorológica → **series históricas** (unos 10 años de precipitación acumulada en mm y temperatura media en °C, con su ciclo estacional) → **modelos predictivos**.
+
+![Flujo de análisis de datos](img/slide-67-analisis-de-datos.jpg)
+*Slide 67: del clima a la estación meteorológica, a las series históricas y a los modelos predictivos.*
 
 ### f) Automatización (02:11:59)
 - **Qué se automatiza:** porteras, **alambrados virtuales**, bombas, riego, climatización e invernáculos.
@@ -435,6 +540,9 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
   - Se estudia usar **motores solares** por su baja potencia. El proyecto empezó hace ~8 años con empresas privadas y sigue mejorando.
   - **Prueba en INIA Las Brujas (02:14:59):** un equipo se evalúa semanalmente sobre un cultivo. Se mide la **uniformidad** mientras avanza y cómo se comporta frente al **viento**, "el principal enemigo" de los sistemas de aspersión.
   - Hay riegos automatizados mucho más complejos, incluso en hidroponía. Video de la slide: "Expo Melilla 2017: Ing. Agr. Claudio García – Sistema Automático de Riego".
+
+![Riego automático de pasturas](img/slide-69-riego-automatico.jpg)
+*Slide 69: captura del video sobre el sistema automático de riego (Expo Melilla 2017).*
 
 ### g) Robotización (02:14:59)
 - **Dónde:** invernáculos, ordeñe, maquinaria agrícola (por ejemplo, un robot de cosecha).
@@ -446,13 +554,19 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
   - **(02:17:40)** Entran por jerarquía. Mientras la vaca come y se queda quieta, el robot le pone las **pezoneras** y ordeña. Al terminar, la deja salir hacia la pista de alimentación.
 - **Muy caro (02:19:10):** un productor familiar no puede instalarlo, pero hay sistemas productivos que sí lo soportan.
 
+![Ordeñe voluntario robotizado](img/slide-72-ordene-robotizado.jpg)
+*Slide 72: el sistema voluntario de ordeñe robotizado, a pasto.*
+
 ### h) Alambrados virtuales (02:19:10)
 - INIA está probando los collares de la empresa **Halter**. **Confinan al ganado en una zona definida virtualmente** mediante **estímulos negativos y positivos**.
 - Una foto aérea muestra parcelas sin alambrado con las vacas confinadas. El perímetro se mueve **digitalmente** cuando hay que cambiar de potrero.
 - **Ventajas (02:20:37):**
   - **No hay que instalar alambrados**, que son caros, sobre todo si hay que moverlos o reponerlos (por ejemplo, cuando un arroyo se los lleva).
   - Sirven para el manejo del pastoreo y para **proteger zonas sensibles**, como un bosque ribereño en regeneración.
-- La slide muestra la web de Halter, los collares y una foto de ganado en una ladera con el polígono del cerco virtual dibujado.
+- La slide muestra la web de Halter, los collares y una foto de ganado en una ladera con el polígono del cerco virtual dibujado. La web lo presenta como un collar inteligente con app móvil para crear cercas virtuales, manejar el pastoreo desde el celular y monitorear cada animal las 24 horas.
+
+![Halter](img/slide-70-halter.jpg)
+*Slide 70: el cerco virtual dibujado sobre el campo, los collares y la web de Halter.*
 
 ### i) Sistemas inteligentes de toma de decisión (02:20:37)
 - **Para qué:** manejo de cultivos, manejo animal, gestión financiera y económica. La idea es **integrar toda la información predial** para que el productor decida **más informado**.
@@ -474,6 +588,12 @@ Equipos, iluminación, bombas y refrigeración conectados, que se pueden prender
 
 Todo converge en la **integración** y en el **acceso a la información de manera fácil y usable**. El **objetivo final** es gestionar de forma remota las actividades, la información generada y la toma de decisiones, con **capacitación al usuario**.
 
+![Sistemas inteligentes de toma de decisión](img/slide-73-toma-de-decision.jpg)
+*Slide 73: los módulos de información alimentan la toma de decisión.*
+
+![Integración de la información](img/slide-75-integracion.jpg)
+*Slide 75: la versión titulada "INTEGRACIÓN".*
+
 **Qué tienen que lograr los sistemas de información:**
 - **Integrar** información de **distintas fuentes y escalas** (02:22:02).
 - Dar **resultados sencillos**, de fácil interpretación y aplicación, en la línea de alertas que permitan decidir.
@@ -491,6 +611,10 @@ Todo converge en la **integración** y en el **acceso a la información de maner
 - También tiene una sección de **seguros agropecuarios**:
   - **Seguro de sequía para soja** del BSE, basado en el índice PAD (agua disponible en el suelo). Según el nivel del índice, indemniza el 15 %, 25 % o 40 % del capital.
   - Un seguro para ganadería (2015–2018).
+
+![Web de GRAS](img/slide-77-web-gras.jpg)
+*Slide 77: la web de GRAS, con sus secciones de clima, monitoreo ambiental y seguros agropecuarios.*
+
 - **Catálogo "Alertas y herramientas" de INIA (en la slide):**
   - AlertaOvina.
   - Previsión de estrés calórico en bovinos.
@@ -503,11 +627,18 @@ Todo converge en la **integración** y en el **acceso a la información de maner
   - Caracterización sanitaria y eficiencia de agroquímicos para trigo y cebada.
   - Red de Pastoreo.
   - SIGRAS y SIGRAS APP.
+
+![Catálogo de alertas y herramientas de INIA](img/slide-78-catalogo-inia.jpg)
+*Slide 78: el catálogo "Alertas y herramientas" de INIA.*
+
 - **Programa Converge (02:27:49)**, activo hace ~3 años: busca **fomentar la adopción** de soluciones digitales bajando el **riesgo tecnológico**. Da evidencia **imparcial** a productores y técnicos.
   - **Verificación:** ¿la solución hace lo que dice?
   - **Validación:** ¿es usable y se entiende? Se evalúa con entrevistas a productores.
   - **Según la slide:** lo coordinan y cofinancian **INIA y BID Lab**, con apoyo de la ANII. Busca impulsar soluciones digitales que aumenten la **resiliencia al cambio climático**. Su lema: "Antes de llegar a tu campo, pasó por el nuestro".
   - Web: [inia.uy/converge](https://inia.uy/converge).
+
+![Programa Converge](img/slide-79-converge.jpg)
+*Slide 79: Converge, "Antes de llegar a tu campo, pasó por el nuestro".*
 
 ## 13. ¿Cuándo tiene sentido digitalizar? (02:27:49)
 
@@ -554,6 +685,12 @@ Las slides de oportunidades usan ilustraciones generadas con IA:
     - En la slide, potreros divididos en zonas con su producción de forraje (kg de MS, de ~1.900 a ~4.500).
     - También mapas de zonas productivas (1 a 10).
 
+![AgroTIC en investigación](img/slide-87-investigacion.jpg)
+*Slide 87: transmisión de datos, soluciones en riego (índices de vegetación + térmico, agua del suelo) y eficiencia de nutrientes.*
+
+![Plagas y monitoreos por ambiente](img/slide-88-investigacion-plagas-ambientes.jpg)
+*Slide 88: la trampa electrónica con su software, y mapas de zonas por ambiente.*
+
 ## 16. Desafíos (02:35:41)
 
 - **Infraestructura y conectividad:** mejora, pero sigue habiendo zonas con problemas.
@@ -576,6 +713,9 @@ Las slides de oportunidades usan ilustraciones generadas con IA:
 - Las soluciones que no responden a un problema real "terminan destruyendo" a las que sí lo hacen.
 - **"El agro no necesita más apps, necesita más valor" (02:42:58).** Cualquier desarrollo tiene que responder a **un dolor o una problemática real** del sector. Crear una solución y después salir a buscarle un problema "suele terminar en fracasos".
 
+![El agro no necesita más apps, necesita más valor](img/slide-93-cierre.jpg)
+*Slide 93: el mensaje de cierre.*
+
 ## 18. Cierre de la clase y logística (02:44:21)
 
 - **No hay campus.** Lola manda por mail, después de cada clase, las presentaciones de docentes y expositores.
@@ -584,7 +724,12 @@ Las slides de oportunidades usan ilustraciones generadas con IA:
 
 ## Anexo: última slide (no se mostró en clase)
 
-Mapa de Argentina por regiones con sus producciones principales (fuente: DNPER). Solo los rubros agropecuarios; la asignación de Nuevo Cuyo es aproximada.
+Mapa de Argentina por regiones con sus producciones principales (fuente: DNPER).
+
+![Mapa de Argentina por regiones productivas](img/slide-96-mapa-argentina.jpg)
+*Slide 96: regiones productivas de Argentina (DNPER).*
+
+La tabla resume solo los rubros agropecuarios; la asignación de Nuevo Cuyo es aproximada.
 
 | Región | Producciones agropecuarias |
 |---|---|
@@ -716,6 +861,7 @@ Mapa de Argentina por regiones con sus producciones principales (fuente: DNPER).
 32. ¿Cómo evoluciona la proporción de población rural mundial según la clase?
 33. ¿Qué hace la trampa electrónica para plagas que aparece en las slides de investigación?
 34. ¿Qué herramientas de INIA ayudan a fertilizar y cuál a regar?
+35. ¿Cuáles son los niveles de riesgo del ITH?
 
 <details>
 <summary>Respuestas</summary>
@@ -754,5 +900,6 @@ Mapa de Argentina por regiones con sus producciones principales (fuente: DNPER).
 32. Cae: 63 % en 1970, 53 % en 2000 y 40 % proyectado para 2030.
 33. Toma fotos y un software identifica y marca las polillas.
 34. Para fertilizar: OptiFert-P (fósforo en pasturas), OptiFert-N (nitrógeno en trigo) y Fertiliz-Arr (arroz). Para regar: GESIR.
+35. Sin riesgo < 68, alerta 68–72, peligro 72–79 y emergencia > 79.
 
 </details>

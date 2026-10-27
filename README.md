@@ -34,5 +34,6 @@ Materia optativa de la Especialización en Inteligencia Artificial (UBA).
 clases/NN-tema/
   resumen.md        resumen de la clase (slides + transcripción)
   material/         slides, notas de Gemini, transcripción
+  img/              imágenes de las slides que usa el resumen
 tp-final/           consigna, ideas y entregas del trabajo final
 ```
