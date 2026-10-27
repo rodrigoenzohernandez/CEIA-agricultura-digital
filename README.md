@@ -12,7 +12,7 @@ Materia optativa de la Especialización en Inteligencia Artificial (UBA).
 
 | # | Fecha | Docente | Módulo / Tema | Resumen | Grabación |
 |---|-------|---------|---------------|---------|-----------|
-| 1 | 21/10 (mié, excepcional) | Guadalupe Tiscornia | Introducción a los sistemas | [resumen](clases/01-introduccion-sistemas/resumen.md) | [Drive](https://drive.google.com/file/d/18BGqsrmyBp-I0znhr0XbOmUqmCRLFYeS/view) |
+| 1 | 21/10 (mié, excepcional) | Guadalupe Tiscornia | Introducción a los sistemas | [resumen](clases/01-introduccion-sistemas/resumen.md) · [red conceptual](clases/01-introduccion-sistemas/red-conceptual.md) | [Drive](https://drive.google.com/file/d/18BGqsrmyBp-I0znhr0XbOmUqmCRLFYeS/view) |
 | 2 | 27/10 | Georgina García Inza | Vegetal intensivo: fruticultura | | |
 | 3 | 03/11 | Georgina García Inza | Vegetal intensivo: horticultura | | |
 | 4 | 10/11 | Santiago Ferrando | Vegetal extensivo (II): forestal | | |

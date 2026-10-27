@@ -5,6 +5,7 @@
 - **Duración:** 02:49 h. Recreo entre 01:31 y 01:46.
 - **Grabación:** [Google Drive](https://drive.google.com/file/d/18BGqsrmyBp-I0znhr0XbOmUqmCRLFYeS/view)
 - **Material:** [slides](material/slides-introduccion-sistemas.pdf) · [presentación del curso](material/presentacion-curso.pdf) · [notas Gemini](material/notas-gemini.docx) · [transcripción](material/transcripcion.txt)
+- **Red conceptual:** [red-conceptual.md](red-conceptual.md)
 
 > **Fuentes:** la transcripción completa y las slides. Los tiempos `(hh:mm:ss)` indican dónde arranca cada tema en la grabación. Las secciones marcadas con ✎ son elaboración propia y no se dijeron en clase. Las imágenes son de las slides: cuando una slide apila varias fotos o mapas, acá aparecen uno al lado del otro.
 
