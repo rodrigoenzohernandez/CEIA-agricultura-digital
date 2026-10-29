@@ -37,3 +37,5 @@ clases/NN-tema/
   img/              imágenes de las slides que usa el resumen
 tp-final/           consigna, ideas y entregas del trabajo final
 ```
+
+Detalle de la organización y cómo replicarla en otra materia: [GUIA-ORGANIZACION.md](GUIA-ORGANIZACION.md).
