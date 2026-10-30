@@ -39,9 +39,10 @@ tp-final/
 |---|---|---|
 | Carpeta de clase | `NN-tema-corto` (número con dos dígitos) | `01-introduccion-sistemas` |
 | Slides | `slides-<tema>.pdf` | `slides-introduccion-sistemas.pdf` |
-| Notas automáticas de Meet | `notas-gemini.docx` | |
+| Notas automáticas de Meet | `notas-gemini.docx` (o `.txt` si llegan como texto) | |
 | Transcripción | `transcripcion.txt` | |
 | Imágenes | `slide-NN-tema.jpg` (NN = número de slide) | `slide-56-ndvi.jpg` |
+| Imágenes de otra presentación (expositor invitado) | `<prefijo>-slide-NN-tema.jpg` | `iot-slide-06-sensorwave.jpg` |
 
 Todo en kebab-case, sin tildes ni espacios: así los links de Markdown no se rompen.
 

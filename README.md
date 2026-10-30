@@ -13,17 +13,19 @@ Materia optativa de la Especialización en Inteligencia Artificial (UBA).
 | # | Fecha | Docente | Módulo / Tema | Resumen | Grabación |
 |---|-------|---------|---------------|---------|-----------|
 | 1 | 21/10 (mié, excepcional) | Guadalupe Tiscornia | Introducción a los sistemas | [resumen](clases/01-introduccion-sistemas/resumen.md) · [red conceptual](clases/01-introduccion-sistemas/red-conceptual.md) | [Drive](https://drive.google.com/file/d/18BGqsrmyBp-I0znhr0XbOmUqmCRLFYeS/view) |
-| 2 | 27/10 | Georgina García Inza | Vegetal intensivo: fruticultura | | |
-| 3 | 03/11 | Georgina García Inza | Vegetal intensivo: horticultura | | |
+| 2 | 27/10 | Georgina García Inza · invitado: Claudio Biale | Vegetal intensivo: horticultura · IoT en horticultura (Huerta IoT) | [resumen](clases/02-horticultura/resumen.md) · [red conceptual](clases/02-horticultura/red-conceptual.md) | [Drive](https://drive.google.com/file/d/1HchkqUlRgCPfbryj7eILFi-TvHL3Hiou/view) |
+| 3 | 03/11 | Georgina García Inza | Vegetal intensivo: fruticultura | | |
 | 4 | 10/11 | Santiago Ferrando | Vegetal extensivo (II): forestal | | |
 | 5 | 17/11 | Sebastián Mazzilli | Vegetal extensivo (I): anuales | | |
 | 6 | 24/11 | Rocío Martínez | Lechería | | |
 | 7 | 01/12 | Fiorella Cazzulli | Ganadería | | |
 | 8 | 08/12 | Martín Horn | Trabajo práctico final | | |
 
+Las clases 2 y 3 se invirtieron para que coincidan los expositores: horticultura se dio el 27/10 y fruticultura pasó al 03/11.
+
 ## Evaluación
 
-- **Evaluación diaria:** multiple choice al inicio de cada clase (5–7 preguntas), encuesta de terminología y discusión abierta.
+- **Evaluación diaria:** multiple choice al inicio de cada clase (5–7 preguntas, ayuda a redondear la nota final), encuesta de terminología y discusión abierta.
 - **Asistencia:** regularizada (asistir a la mayor cantidad de clases posible).
 - **Trabajo final integrador:** ver [tp-final/](tp-final/README.md).
 - Ambas instancias deben aprobarse con **70%**.

@@ -4,8 +4,8 @@ Repo de estudio de la materia Agricultura Digital (CEIA, FIUBA). Todo en españo
 
 ## Convenciones
 
-- Una carpeta por clase: `clases/NN-tema-corto/` con `resumen.md`, `material/` e `img/` (imágenes de las slides que usa el resumen, `slide-NN-tema.jpg`).
-- Material original renombrado en kebab-case: `slides-<tema>.pdf`, `notas-gemini.docx`, `transcripcion.txt` (texto plano extraído de las notas de Gemini con `pandoc -t plain`, desde la línea "Transcripción").
+- Una carpeta por clase: `clases/NN-tema-corto/` con `resumen.md`, `material/` e `img/` (imágenes de las slides que usa el resumen, `slide-NN-tema.jpg`; las de una segunda presentación llevan prefijo, como `iot-slide-NN-tema.jpg`).
+- Material original renombrado en kebab-case: `slides-<tema>.pdf`, `notas-gemini.docx`, `transcripcion.txt` (texto plano extraído de las notas de Gemini con `pandoc -t plain`, desde la línea "Transcripción"). Si las notas llegan pegadas como texto, van a `notas-gemini.txt` y la transcripción se guarda tal cual.
 - Al agregar una clase: completar la fila del cronograma en `README.md` (link al resumen y a la grabación) y sumar ideas para el TP en `tp-final/README.md`.
 
 ## Resúmenes
@@ -16,4 +16,5 @@ Cada clase tiene un multiple choice al inicio de la siguiente: el resumen tiene 
 - Estructura de `resumen.md`: datos de la clase → repaso rápido para el examen → desarrollo por tema en el orden de la clase (slides + todo lo dicho: ejemplos, cifras, herramientas) → tabla de correcciones de la transcripción automática → ✎ relevancia para IA / ideas de TP → ✎ glosario → ✎ preguntas de práctica con respuestas en `<details>`.
 - Imágenes: insertar en cada tema las slides con información visual (diagramas, mapas, gráficos, capturas de herramientas y las fotos de cada sistema), con un pie `*Slide N: ...*`. Exportarlas con `pdftoppm -jpeg -scale-to-x 1280`. Si la slide apila varias fotos o capturas (animaciones), extraerlas con `pdfimages -j` y rearmarlas una al lado de la otra: el render las superpone y tapa información. Leer los datos de las capturas (umbrales, leyendas) y sumarlos al texto.
 - Timestamps `(hh:mm:ss)` de la transcripción al inicio de cada tema.
+- Slides que no se comentaron en clase: a un anexo al final. Si el PDF no coincide con lo que se mostró, avisarlo en la nota de fuentes.
 - Marcar con ✎ todo lo que sea elaboración propia y no se dijo en clase.

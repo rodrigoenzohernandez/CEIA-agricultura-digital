@@ -1,0 +1,798 @@
+oct 27, 2026
+Agricultura Digital (2/8) - a255b26 - Transcripción
+00:00:09
+
+lse posgrados: Sí. Hola, ¿cómo están?
+Gabriel Quiroga: Hola, buenas tardes.
+lse posgrados: Hola. Hola. Lo que vamos a hacer siempre, voy a esperar como unos 5 minutos más o menos e hasta que les pase el examen. Ahí te leí. ¿Para qué vuelvo a leer? No hay problema. Lucas, por lo menos nos estás escuchando en el Bond, así que haces el examen después, así que esperamos unos minutos. Todo bien. Mientras les voy contando a los que ya están que hoy tenemos la clase de horticultura. eh los los cambiamos, o sea, es la misma profesora que da e fruticultura y horticultura, pero para que estén los expositores que nos parecen muy buenos, dimos vuelta los temas. Eh, así que después de ella viene un alumno que hizo esta materia y viene a presentar el trabajo práctico que que hizo, que está muy bueno para para que ustedes les sirva para ver de qué se trata y cómo es y porque aparte está bueno el concepto, ¿no? él eh vive eh en el campo, entonces eh está bueno, está bueno lo que hizo más allá de que hizo la materia, no no me acuerdo si ya terminó la maestría o qué, pero porque ya fue hace acuerdo más de un año.
+
+
+00:03:16
+
+lse posgrados: Y bueno, así que esa va a ser nuestra clase este martes y el martes que viene para fruticultura también tenemos otro expositor que también fue e alumno, pero que hizo como un trabajo más grande, no sé si fue la tesis o qué, que está muy buena. Así que para estos dos casos van a ver ese tipo de expositores, después van a venir otros que ya son más empresas. que aplican la tecnología al agro, así que van a tener como de todo. Va a estar bueno. Bueno, somos nueve. Bien, faltan unos pocos más y les paso el examen. ¿Alguno tiene alguna duda de lo del trabajo práctico de las clases que expliqué la otra vez? Me pueden decir ahora en el PDF que les mandé de la materia en general está todo explicado, sintético, pero está todo lo que es. Pero como les dije, me pueden escribir cuando quieran. Bueno, Sony 5. Les voy pasando el examen. Avísenme si pueden ver el el form.
+Gabriel Quiroga: Sí, se ve.
+lse posgrados: Buenísimo.
+
+
+00:06:10
+
+lse posgrados: Bueno, ustedes hacen el examen y al final yo les voy a mostrar e cómo cómo van. Bueno, no importa. arranquen, arranquen.
+Georgina: Buenas,
+lse posgrados: Hola, J, bienvenida.
+Georgina: buenas, buenas. Acá estoy esperando que llegue Ari para conectarme desde la compu. Estoy en el cel con la pequeña. Ya lleg me releva.
+lse posgrados: Habla Dios. Bueno, y me tranqui. Están haciendo el examen, así que tranqui.
+Georgina: Bien, las palabras ya las hicieron.
+lse posgrados: No, siempre hacemos primero el examen y después las palabras y te esperamos para que vos puedas ver los resultados y los vean juntos.
+Georgina: Dale, impecable.
+lse posgrados: Dale,
+Georgina: Muchas gracias. Estoy por acá igual.
+lse posgrados: dale.
+Georgina: M.
+lse posgrados: Bueno, Georgi es la docente. A ver. Ha.
+Gabriel Quiroga: Tengo una consulta respecto al trabajo final.
+lse posgrados: Sí,
+Gabriel Quiroga: Entiendo que ahora va a venir un expositor y va a contarnos un poco el trabajo final, pero quería saber si en algún lado se podían ver trabajos anteriores como para darnos una idea mejor del formato y cómo puede ser en general.
+
+
+00:10:35
+
+lse posgrados: sí, les voy a pasar eh les voy a pasar, me lo voy a anotar y se los voy a pasar. E el sistema es como les conté la clase pasada, ustedes primero escriben un párrafo o la idea como un archivo de Word contando. A raíz de eso lo ven con Martín, Martín les da el feedback y después pueden como ahondar y ahí como les contó él, él llegó a tener, depende de los trabajos y de cada alumno hasta cuatro devoluciones y cuando terminan y está aprobado, ahí hacen la presentación como en un PDF para la clase final que e la exponen. Algunas personas han llegado a hacer hasta demos de algunas aplicaciones, por ejemplo, eso pasó en medicina digital el otro día, eh, que ya tenían como unos clientes que les estaban pidiendo cosas y usaron, digamos, aprovecharon a usar el trabajo para hacer su propio trabajo. Pero me voy a notar eso más allá de los que que viene hoy Claudio y les va a contar. Les voy a mandar mañana ejemplos
+Gabriel Quiroga: Okay, gracias.
+lse posgrados: y nada.
+
+
+00:11:56
+
+Gabriel Quiroga: Yeah.
+lse posgrados: Bueno, Sony 11. Recuerden que estos exámenes son importantes porque ayudan, digamos, a eh como que redondean la nota final del trabajo. Dieron que, a ver, no son difíciles, son como multiple choice para ver que les quedó de A nosotros nos sirve para ver que les quedó de la clase pasada y también eh después se lo pasamos a a los profesores o les comentamos cómo fue la clase. Bueno, empiezo a compartir. Sí, Gonzalo. A ver, para sigo.
+Gonzalo Cuervo: Profe, un segundito antes que empecemos. Esos multiple cho a dónde están? Porque justo yo llegué, perdón, 6 minutitos tarde y justo escuché.
+lse posgrados: Ah, ahí te lo pasó. Sí, sí. Cuando lleguen tarde e avísenme si lo vuelvo a pasar
+Gonzalo Cuervo: Claro, eso no lo Muchas gracias.
+lse posgrados: porque no queda, no queda. No entiendo eso porque no queda en el chat, pero sí, perfecto. Siempre esto me lo piden y yo se los vuelvo a pasar.
+Gonzalo Cuervo: Muchas gracias, profe.
+lse posgrados: E bueno, te esperamos. dejo de compartir y te esperamos a que lo hagas.
+
+
+00:13:24
+
+lse posgrados: Mientras les cuento, como es nuestra primer dinámica, que em les vuelvo a contar esto que les decía, que cuando llega el docente con la nueva la materia que están dando la clase que dan
+Georgina: Ha.
+lse posgrados: en ese momento, ese día, pasamos una encuesta de terminología. Está muy bueno, es muy interesante porque eh el docente puede ver ustedes dónde están parados en el tema y ustedes mismos también. Es como un pequeño ida idea y vuelta. Así que después del examen viene eso. Ah. Bueno, okay, Lucas, dale. Bueno, les comparto ahora sí. Bueno, y acá se ve, esto es lo que vamos a ver en todos los exámenes, ¿no? Como los resultados. Eh, esta es la estadística y acabamos con las preguntas. Y lo que solemos hacer es eh cuando queda una duda, como en este caso, los que contestaron bien, eh abren el micrófono y nos cuentan, por ejemplo, la primera, ¿cuál de los siguientes conceptos no se corresponde con un tipo de sistema agropecuario? Entonces, ¿qué nos quiere contar?
+
+
+00:15:20
+
+lse posgrados: ¿Por qué la lechería extensiva es la respuesta correcta? Y les pido por favor que empiecen a hablar, que me ayuden en eso y y dale, Gabriel.
+Gabriel Quiroga: Sí, yo lo dejé como la correcta porque la lechería requería se ve constantemente el orden de las vacas, por lo tanto no podía ser de manera extensiva en un lugar muy grande, sino que tenía que ser reducido. Sí.
+lse posgrados: Bien, gracias. Bueno, acá también hay otra que quedó en duda. En el caso de los cultivos extensivos, ¿cuál de las siguientes opciones es falsa? Y bueno, ocho eligieron la correcta, que es producción por hectárea mayor que los intensivos. Y entonces, ¿quién nos quiere contar eh por qué? ¿Alguien
+Tomas Moretti: Ah, porque por ahí no sé el arroz si como cultivo extensivo ahí sí necesitas una mano de obra un poco digamos un poco más alta, ¿no? No siempre apunta a que con una mano, con una máquina, por ejemplo, podes abarcar muchas hectáreas. A veces es necesario.
+lse posgrados: más? Mm. ¿Alguien más quiere agregar algo?
+
+
+00:17:09
+
+lse posgrados: Si no, seguimos. Bueno, estas quedaron bien. Horticultura hoy, que es lo que vemos bien. Y acá hay otra duda. ¿Cuál de las siguientes opciones? A ver, voy a hacer refresh. Sí, queda igual. ¿Cuál de las siguientes opciones corresponde? ¿Alguna de las oportunidades que tiene las TIC para contribuir al cuidado del medio ambiente en el agro? Entonces, todas las opciones corresponden y quién nos puede contar por qué e no va la digestión y uso eficiente de los recursos naturales e insumos.
+Tomas Moretti: Yo ahí fui el el que respondí mal, Yeah. respondí mal, pero eh en realidad tuve tuve la misma duda, pero no veía un caso concreto que se me ocurra así rápidamente de la reducción de la emisión de gases de efecto invernadero. Eh, sí, por ahí la reducción de la pérdida de de biodiversidad y hábitat, sí, pero no no pude encontrar rápidamente, por eso no le pude poner todas las opciones. igual obviamente tuve la duda,
+lse posgrados: Perfecto. Bueno, es que para eso es el examen este, por eso es para disipar las dudas y aparte la tenemos a Yoshi, que es agrónoma y y también podemos preguntarle a ella si
+
+
+00:18:34
+
+Georgina: A ver, ¿cuál de las siguientes opciones corresponde a alguna de las oportunidades que tiene para contribuir? Y vos la que no veías era la de disminuir las elciones.
+Tomas Moretti: La de las gases de emisión. Sí. Yeah.
+Georgina: Bueno, pero mira, hay muchas que de las soluciones que apuntan a disminuir el uso de de productos químicos, de te ahorran pasadas de tractor, de maquinaria. Entonces, eh vas de ese lado, ¿no? Desde mejorar la eficiencia y por lo tanto eso contribuye a que haya menos emisiones, ¿no? Estás, si pones menos productos de síntesis química, estás disminuyendo e la la huella de carbono, las emisiones, lo mismo que si estás usando menos maquinaria, que sea combustión, estás disminuyendo eh las emisiones y por eso por ese lado es que le entran a a ese e a ese punto,
+Tomas Moretti: Claro,
+Georgina: ¿entienden?
+Tomas Moretti: es como como a largo plazo, digamos, una consecuencia indirecta a largo plazo.
+Georgina: Sí, una consecuencia indirecta.
+Tomas Moretti: Yeah.
+Georgina: Exacto. Una consecuencia indirecta que muchas veces cuando hay que formular proyectos eh se usa para justificar por qué contribuye a al cambio, o sea, a mitigar el cambio climático.
+
+
+00:19:53
+
+Georgina: Así así se dice.
+Tomas Moretti: Está bienos. M.
+lse posgrados: Gracias, Jor. Bueno, después se va a presentar. Entró ya contestando algo, pero ahora sí voy a pasar terminología.
+Georgina: Dale.
+lse posgrados: Ahí se los pasé y me confirman también si se ve. Buenísimo. Gracias, Lucas.
+Pablo's Notetaker: segundos.
+lse posgrados: Ah. Bueno, comparto Ya hay nueve respuestas. Bueno, ahí ahí. Bueno, ahí lo terminé haciendo.
+Georgina: Ahí estamos. Bueno, ahí estoy viendo los resultados de cómo venimos,
+lse posgrados: Sí.
+Georgina: ¿eh? Y esto bueno, cinturón verde. Hay muy poquitos que que saben de qué se trata. Agroecología hay bastantes. ¿Cuántos somos en total?
+lse posgrados: 16.
+Georgina: Ah, un montón. Bueno, bárbaro. Bueno, capaz la mitad, no tantos. Eh, rotación están un poco un poquito más seguros. Cultivo primicia. Pocos saben, desmalesado, eh, hay un poquito más. Intermediario casi. Ya, bien, bien.
+lse posgrados: Buenísimo.
+Georgina: Bueno,
+lse posgrados: No.
+Georgina: esto la idea es que vayamos tocando estos temas a lo largo de la de la clase.
+
+
+00:22:55
+
+Georgina: Bueno, me presento. Yo soy Georgina García Insa, soy ingeniera agrónoma, doctora en Ciencias Agrarias, estudié en la Universidad de Buenos Aires y ahora estoy trabajando en investigación en el IA, que es como el INTA, pero del Uruguay. eh trabajo en el sistema vegetal intensivo e que bueno, ustedes ya ya lo estuvieron la la vez pasada, pero básicamente eh estudió sobre cultivos hortícolas y frutícolas y estoy vinculada más que nada al área de agroecología o sostenibilidad. Así que bueno, ahí de ahí vengo. Eh, acá hay alguien vinculado a la Hoy vamos vamos a ver eh cómo cómo sale, pero es la primera edición que damos vuelta a las clases y damos primero Orti porque generalmente damos primero fruti.
+lse posgrados: Sí.
+Georgina: Eh,
+lse posgrados: Listo.
+Georgina: así que vamos a ver cómo sale eso. Y les quería preguntar si hay alguno de ustedes vinculados a la horticultura, aunque sea de job Hay nadies vinculados a la horticultura. Bueno, en general siempre alguno tiene alguna experiencia aunque sea de cultivo de balcón. Bueno, vamos a arrancar con la ¿Cómo?
+Gonzalo Cuervo: Hola. Perdón. Sí, sí.
+
+
+00:24:18
+
+Georgina: Gonzalo no interrumpí n más,
+Gonzalo Cuervo: Ah, perdón, me voy a levantar la manita.
+Georgina: pero lo que sí te escucho bajito.
+Gonzalo Cuervo: Yo sí,
+Georgina: A ver, voy a poner más.
+Gonzalo Cuervo: ahí puede ser. E yo mi trabajo estamos metidos en Brasil, en la parte de de la caña de azúcar, digamos. No sé si creo que va por la agricultura. E y bueno, y estamos la automatización de de tractores y cosas para distintos tipos de de cultivos. Ese soja son los más amplios. No sé si va por ahí la pregunta. Igual si yo tengo un montón de plantas en mi casa, pero no sé si va al caso.
+Georgina: No, bueno, en esta clase las dos cosas están están buenas que las comentes. O sea, vos ya trabajas en una empresa vinculada al agro.
+Gonzalo Cuervo: Sí, sí.
+Georgina: Okay. Y tu empresa está en Brasil, dijiste. Pues te escucho bajito,
+Gonzalo Cuervo: Eh,
+Georgina: perdón.
+Gonzalo Cuervo: tenemos oficinas en Brasil porque mayormente toda la parte está, digamos,
+Georgina: ¿En
+Gonzalo Cuervo: las empresas más grandes, eh, para resumir, agarramos tractores y cosas y las automatizamos y electrificamos, por una manera.
+
+
+00:25:31
+
+Georgina: qué provincia estás vos ahora? Los dos.
+Gonzalo Cuervo: Yo estoy en Mendoza,
+Georgina: Ah, bien.
+Gonzalo Cuervo: pero la gente está en San Pablo en toda esa parte.
+Georgina: Pero igual en Mendoza hay mucha hay horticultura, por ejemplo. Capaz que esa foto de de cebollas o de ajos está es de Mendoza.
+Gonzalo Cuervo: Sí, acá la, o sea, cebolla y papa es muy importante más que nada aparte de San Carlos y bueno, y obviamente lo más importante acá es
+Georgina: Sí, sí, sí. Ay, acá alguien más está hablando. Francisco,
+lse posgrados: Bueno, Francisco, si querés hacer una pregunta o o algún comentario o algo, escribilo y y te leemos.
+Georgina: ahí escribió algo en el chat. Eh, dice, "Yo estoy vinculado desde el diseño de proyecto de producción alimentaria bajo cubierta y mercaderos para el municipio de Río Grande, Tierra del Fuego." Ay, qué interesante. Bueno, bueno, bueno, bueno. Desde ya que yo quedo en contacto con eh con cualquiera de ustedes que quiera después hacer el trabajo vinculado este a alguno de los temas que abordemos o que ustedes ya tengan en mente, vinculadas alti o a la fruticultura e y para cualquier otra cosa, ¿no?
+
+
+00:26:42
+
+Georgina: O sea, estoy a disposición, siempre dispuesta a la interacción. Eh, bueno, vamos a arrancar con la clase y después
+lse posgrados: Acuérdense, por favor, de hacer preguntas o comentarios, por favor, que es lo más rico.
+Georgina: sí la clase La clase es para ustedes,
+lse posgrados: C.
+Pablo's Notetaker: Yeah.
+lse posgrados: Sí,
+Georgina: así que ustedes van hasta donde quieran.
+lse posgrados: aprovéchenla.
+Georgina: E bueno,
+lse posgrados: Gracias, Francisco. Yo lo que voy a hacer es como como yo iba a estar dando la clase, si vos escribís, yo estoy atento y le digo a ella.
+Georgina: vale, perfecto.
+lse posgrados: Dale.
+Georgina: Muy bien. Voy a tratar de achicar un poquito más el cuadrito de Me molestar. Bueno, entonces hoy nos toca horticultura e como les conté y este mapita medio que para traerlo de la clase pasada esta eh dentro de los sistemas agropecuarios, cuando hablamos de los sistemas de de cultivos, o sea, que trabajan con plantas, están los extensivos y los intensivos. Bueno, yo voy a hacer como la la referente la referenta de de esos cultivos y hoy nos toca la horticultura. Bueno, ¿de qué se trata cuando hablamos de horticultura?
+
+
+00:27:57
+
+Georgina: Son cultivos herbáceos, es decir, que no producen madera y que duran un año o dos. Sí. O sea, nosotros los sembramos o los plantamos y van a estar un periodo, en verdad algunos menos de un año, puede estar hasta 45 días, muy poco tiempo. Por ejemplo, la rúcula son ciclos muy cortitos, pero se dice de todas formas que son anuales. Sí. que que dentro de un año hacen todo su ciclo o vianuales, que son plantas que requieren 2 años para hacer su ciclo, pero más de eso no. Después se levantan y se implantan nuevas eh nuevos nuevas plantas. Eh, entonces, bueno, lo mismo abajo, ciclos cortos, rotación rápida de cultivo. Eso nos permite que un año plantemos rabanito, digo, en un año plantemos rabanito, plantemos lechuga y plantemos eh tomate. Capaz todo dentro del mismo año en la misma porción de tierra. Si eso nos diferencia de otros eh de otras producciones, eh tiene por lo tanto una alta frecuencia de disturbios, quiere decir que estamos todo el tiempo moviendo la tierra, cambiando las plantas y eso para el para el agroecosistema es una frecuencia de disturbios muy alta y que hace que eh el agroecosistema esté en contacto eh en constante cambio, en constante eh perturbación y piensen que nosotros estamos concentrados ahora en la producción de una planta, pero que para que esa planta crezca hay un montón de microorganismos en el suelo,
+
+
+00:29:25
+
+Georgina: un montón de eh fauna y flora que está alrededor de esos cultivos que hacen que eso funcione. Sí. Y nosotros al estar todo el tiempo generando esta intervención modificamos todo. Sí. Y eso genera desequilibrio, se hace que vengan plagas, enfermedades. Y bueno, eh este trabajito de del horticultor tiene que ver con cómo combinamos los cultivos, qué ponemos después de otro de un cultivo, qué sembramos después para no seguir con la misma enfermedad, no seguir con las mismas plagas. Eh, bueno,
+Pablo's Notetaker: M.
+Georgina: nada, eso se llama llama manejo. ¿Qué manejos hacemos? Otra de las características es la postcosecha. La postcosecha es una vez que cosechamos el producto, ¿cuánto dura? En el caso de la horticultura casi todo es de muy baja duración, excepto que hablemos de papa, cebolla, eh bueno, todos los que decimos de pesados, batatas, que esos duran mucho. Sí. Zapayo, eh, esos duran mucho, pero son esos nada más, ¿no? Después tenemos, fíjense en la verdulería, todo el resto eh son muy perecederos y además eh requiere una alta intensidad de de mano de obra, ¿sí? Son trabajos muy manuales y hay una alta dependencia de insumos.
+
+
+00:30:45
+
+Georgina: O sea, esto requiere que se le esté encima con va requiere, ¿no? Por los sistemas que se plantean cómo se maneja eh en la mayoría de los predios, se requiere una alta frecuencia de aplicaciones de herbicidas, de eh insecticidas, de funguicidas, o sea, los que matan insectos, los que matan hongos y los que matan hierbas que no queremos que estén ahí. Bien, esto es un pantallazo para para que tengan idea dónde estamos parados. E en la en la horticultura en Argentina no podemos hablar de una única horticultura. Sí. Eh, ¿por qué? Porque tenemos sistemas que son familiares y pequeños. Tenemos sistemas que son extensivos, sistemas que son un poco que son medianos, o sea, que eh hay distintas escalas y empresariales y familiares y como distintas combinaciones posibles, ¿no? Entonces eh bueno, nada, esa diversidad convive y lo hace un cultura heterogénea. Se producen en más o menos 600000 hectáreas y se producen 10 millones de toneladas anuales de hortalizas. E y bueno, nada, hay un potencial tecnológico muy grande en cada una de esas escalas y nichos. Y bueno, ustedes a lo largo de la clase irán identificando todos esos esos nichos que hay.
+
+
+00:32:18
+
+Georgina: Por ejemplo, acá este señor eh parece que está cosechando, pero seguramente acá ven que hay ven mi cursor, ¿no? Bueno, imagino que sí que hay algunas malezas que muchas veces tienen que ir y remorverlas manualmente o con un escardillo, que es un una herramienta muy básica. Eh, porque bueno, obviamente cuando estamos cerca de las cosechas no se puede aplicar eh productos químicos, entonces bueno, hay hay laboreos que son o tareas que son así muy pesadas y manuales. De hecho, la cosecha la está haciendo en una posición que no se la ve muy confortable, ¿no?, para estar todo el día así. Eh, entonces, bueno, el objetivo que tenemos para estas clases es que ustedes comprendan. an cómo se produce, eh qué tipo de sistemas tenemos para que ustedes identifiquen posibles nichos. Bueno, como les comentaba, eh Argentina produce horticultura por muchos lugares con diferentes objetivos. Cerca de las grandes, en fíjese los colores del mapita, cerca de los grandes centros urbanos siempre hay un cinturón verde que son los que producen la verdura de cercanía a esos eh alrededor de Córdoba, alrededor de Buenos Aires, que es el cinturón hortícola de la Plata.
+
+
+00:33:41
+
+Georgina: Eh, bueno, y en cada uno de los de las ciudades grandes hay un eh, bueno, cierto, en Patagonia hay un lugar que abastece a esas ciudades. ¿Por qué? Porque hay algunas verduras que no aguantan ser trasladadas de una provincia que sea conveniente plantar, como uno puede decir, bueno, eh maíz se planta en algunos lugares, pero después se reparte por el resto de Argentina, por el resto del mundo, porque es algo que uno lo puede trasladar sin problema, pero el caso de una lechuga no tiene el valor y además la lechuga llegaría completamente deshidratada. Eh, entonces, bueno, ahí vemos en ese mapita los lugares donde se produce e que, como les dije, alrededor de la ciudad es el cinturón verde, pero después hay otras zonas específicas, ¿no? Acá el compañero de Mendoza decía, "Bueno, en Mendoza eh podemos ver plantaciones eh de ajo, de cebolla, eh podemos ver plantaciones de papa. Lo mismo que si vamos a cárcel, vamos a ver más que nada papas, una zona papera, bueno, responde a diferentes lógicas o en corrientes. En corrientes eh podemos ver morrón o pimiento y y tomate, ¿no?
+
+
+00:34:52
+
+Georgina: Como buenos centros donde se produce mucho de lo mismo y después se redistribuyes porque son eh lugares específicos con características específicas que hacen que esos cultivos crezcan bien en esas zonas. E bueno, de lo que más producimos son de lo es de lo que más pesa casualmente y de lo que más consumimos en nuestra dieta, que son la papa, tomate, cebolla, batata, zapayo, zanahoria y después lechuga y ajo. El otro 20% de la producción se lo lleva selga, mandioca, zapallito, choclo dulce, que no es el maíz que que de forraje ni el maíz de de otras aplicaciones, sino que es un tipo de maíz que se que se cultiva para la horticultura, que es el choclo, e la berenjena y el pimiento. Y después el 15% restante se reparte entre las demás hortalizas. Bueno, y acá les voy a ir mostrando, vamos a recorrer juntos la diversidad de órganos que consumimos. Sí. Eh, que eso es otra diferencia. con el resto de los de los extensivos o de la fruticultura. La fruticultura son frutas, ¿no? A lo sumo puede ser que sea e la parte interna del fruto, por ejemplo, el caso de la nuez o de la almendra, ¿no?
+
+
+00:36:14
+
+Georgina: Donde comemos lo que está dentro de la cáscara. Pero si no, el resto son frutas que eh cosechamos y directamente las comemos. En el caso acá de de las verduras, de las hortalizas, fíjense, tenemos berenjena, que es la planta se parece la a la de un morrón, por decir algo. Eh, son plantitas más erguidas, la del tomate, que ya requiere un tutor para crecer y se va eh es más apoyante, ¿no? No se aguanta muy bien sola. Eh, después tenemos enredaderas como el zapallo. Todos estos son de frutos. Sí, lo que se cosecha son los frutos, el melón, es son rastreras, van creciendo eh sobre el suelo y van dando los frutos. Pueden, si se acuerdan de alguna que no está acá pueden decirlo y identificar y y comentarlo. Eh, después hay otras que son de tallo subterráneo, por ejemplo, la papa. Eh, hay otras que son de eh bulvos como la cebolla, la cebolla verdeo, el ajo, el puerro, ¿no? Todos esos consumimos la parte que que crece debajo, pero que siguen siendo eh órganos de crecimiento, no raíces, eh pero que están debajo del suelo.
+
+
+00:37:30
+
+Georgina: Sí. Bueno, después tenemos eh estos que que consumimos las hojas como el repollo, la rúcula, eh la lechuga, la espinaca, el esa que es acusada y la que se ve arriba en la fotito. Acá tenemos a Celga, bueno, que en realidad también se come el pesíolo, ¿no?, que es esta parte blanca y la lámina que es eh la parte del área foliar. Pero bueno, el conjunto de esto es la hoja. Y bueno, acá hay unas unas plantitas de lechuga. También consumimos raíces como la batata, como la zanahoria. También consumimos algo que se llama hipocótilo, que es la parte que está debajo de del punto de crecimiento, entre el punto de crecimiento y las raíces. Esa parte intermedia. que es un hipocótilo engrosado. En general es una parte de la planta que pasa muy desapercibida, pero en algunos casos, en algunas plantas, eso se engrosa, junta reservas y es lo que el órgano, el órgano de cosecha, como la remolacha o el rabanito. La raíz del rabanito es esto que queda por acá abajo. Sí. Y lo que nosotros comemos es el hipocotile engrosado.
+
+
+00:38:58
+
+Georgina: En otros casos comemos flores, por ejemplo, el caso de brócoli, del coliflor, del alcausucil. Sí, todos esos son órganos florales. En el caso de el repollito de bruselas son eh yemas, son los puntos de crecimiento. Si ustedes cortan un zapallito de brusela, un zapallito, cortan un repollito de bruselas, van a ver que están todas las hojitas chiquititas, eh, los primordios foliares se llaman, los las pequeñas hojitas ahí ya formadas y si eso lo dejamos un tiempo más en la planta, se abren y nada, brota esa yema, digamos. Y después parte de la horticultura también es e el cultivo de legumbres. Sí. Todo lo que nosotros después encontramos en estas grandiosas latas en el supermercado viene de la siembra y cosecha de legumbres. Eso estamos hablando de arbejas, de garbanzos, e de lentejas. Y bueno, por ejemplo, ahí tienen eh esto es un campo de garbanzos y bueno, esto es como se ve la la chauchita donde viene el garbanzo cuando está ahí el poroto. Eh, y bueno, algo que uno capaz cree que es algo medio marginal, ¿no? tiene eh un montón de hectáreas cultivadas y tiene eh un montón de eh de toneladas en producción y somos un país importante que exporta y y somos fuertes en el cultivo del garbanzo, por ejemplo, ¿no?
+
+
+00:40:38
+
+Georgina: Estas de acá son eh arbejas y estas de acá son plantitas de lentejas. Bueno, ahora les voy a contar algunos factores que tienen que ver con la postcosecha, que es un momento crítico para la mayoría de estos que vimos recién, ¿no? Y por qué es un momento crítico porque, bueno, el productor hace un gran esfuerzo por obtener eh un producto de calidad. Una vez que se cosecha, ya no va a mejorar la calidad de eso, solo puede empeorar, o sea, a partir de ahí solo podemos hacer lío. Es lo que digo, o conservamos o hacemos lío. Y bueno, ¿quiénes son los que intervienen en este proceso natural de de senescencia de lo que estamos cosechando y queriendo vender en ese momento que se llama postcosecha y almacenamiento? Eh, bueno, son la respiración porque son órganos que todavía siguen respirando, la transpiración que es la pérdida de agua a través de los poros de de las de las cutículas de las plantas y obviamente el proceso de cenesencia, ¿no? O sea, la planta, los tejidos comienzan a cenecer en un proceso.
+Georgina's Presentation: M.
+Georgina: Hay factores que aceleran y esa esencia y otros que la en lentec.
+
+
+00:42:01
+
+Georgina: Nosotros tratamos que estos tres procesos se eh sean lo más lentos posibles luego de la cosecha. ¿Sí? Entonces, eh ¿quién es el factor más crítico que tratamos que no aparezca? Bueno, es la temperatura elevada y en algunos casos o la mayoría de los casos la baja humedad. Sí. Si hay hm alta temperatura y poca humedad, tipo secador de pelo, le digo yo, afecto secador de pelo, eh bueno, eso es lo peor, las peores de las condiciones. Por eso eh siempre se conservan mejor las cosas en heladera. Otros factores de riesgo pueden ser que se dañen, haya un daño mecánico. Eh, entonces eh ya ahí empiezan cuando hay un daño mecánico, se rompen las células, es jugo celular, sale el líquido celular, sale y eso que siempre tiene un poco de azúcar ya es un buen sustrato para que crezcan eh hongos y bacterias y que empiecen a contaminar el resto de las cosas. Ahora les voy a mostrar un ejemplo. Y después otro otro factor es que e alguna de estas de estos órganos que cosechamos, por ejemplo, los frutos, producen un gas que se llama tileno, que ahora les voy a mostrar también, eh, y que promueve la maduración de los frutos.
+
+
+00:43:22
+
+Georgina: A ver, déjenme ver. Y eso hace que acelere la la CNES. Bueno, acá hay un ejemplito unos que saqué de dos trabajos de distintos e, por ejemplo, para distintos hortalizas, zanahoria y brócoli. Antes yo usaba un ejemplo de espárragos, pero ahora encontré unos más de hortalizas más eh frecuentemente utilizadas, consumidas. Eh, fíjense cómo cambia la tasa respiratoria de ese vegetal en función de la temperatura y en función de la humedad. Sí, primero prueban con un grado, tiene esta tasa respiratoria entre 10 y 20. Cuando la suben a 10 gr, pero sigue siendo la misma humedad, o sea, mucha humedad, pero más temperatura. Fíjense, igual 10, ¿no? Que es bastante baja. Ya tiene entre 30 y 50. Pero si mantenemos los 10 y pasamos a 70% humedad, que para la el almacenamiento es bajo, ya esta tasa pasa entre 45 a 65, o sea, que la vía postcosecha en este caso se empieza a reducir, ¿no? Ya la se va a empezar a deshidratar la zanahoria, etcétera. Y eso que estamos hablando de zanahorias. En el caso de brócoli, a cer grado tenemos una tasa baja de respiración.
+
+
+00:44:44
+
+Georgina: A 10 gr manteniendo la humedad. tenemos una tasa que ya es considerada muy alta y cuando tenemos 20 gr tenemos una una tasa respiratoria muy muy alta, es decir, que esto va a durar muy poco. Sí, deja. de brócoli fuera de la heladera en casa. Podría ser una situación así, ya lo saben. Y y fíjense qué pasa, se pone amarillo. Sí, la esencia empieza aparecer y se empieza a poner amarillo. Que o sea, muchas veces vamos a la verdulería y está el brócoli ya todo no está más verde, está amarillento. Acá viene el ejemplito este del tomate. Bueno, acá tenemos como o sea, cuando salimos del campo, nosotros cosechamos la fruta, e la ponemos en estos contenedores, en estos cajones y la llevamos a eh, bueno, van a generalmente pasan por un galpón de acondicionamiento donde se lavan y se hace una selección, ¿no? descarta lo que lo que está golpeado. Digo, esto en grandes volúmenes, ¿no? Lo que está golpeado se se descarta. Bueno, y uno espera que estén todos sanos y bien los tomates que llegan al almacenamiento.
+
+
+00:46:12
+
+Georgina: ¿Por qué? Porque si uno deja uno golpeado, que se rompa, que libere ese juguito, que ese juguito empiece a eh, a propagar el inóculo de algún honguito y o bacteria que esté ahí cerca, ¿qué pasa? Hay un efecto de primero que ya las cifas de los hongos eh empiezan a dispersarse y a eh tienen la capacidad de romper las paredes de otros tomates vecinos que estaban sanos, ¿no? Y empezar a deteriorarlos. Y además un tomate dañado da una señal hormonal a esa hormona de eh de maduración que se llama etileno. El etileno es este. Este amigo de acá es una molécula muy sencillita, pequeña, que se mete muy fácilmente en sale de un tomate y se mete en el otro, difunde con mucha facilidad y que desencadena la maduración de las frutas y en este caso el tomate es un fruto, eh de muchas de las frutas, frutas que se llaman climatéricas. Le vamos a dar la clase que viene fruticultura, donde el mundo de las frutas es mucho mayor, es mucho más grande y que responden a este tipo de señales. Eh, una típica que a ustedes les van a decir, "Bueno, si tenés una palta que está verde, ponela con una banana dentro de envuelve la cendario con una banana." ¿Por qué?
+
+
+00:47:41
+
+Georgina: Porque la banana es la reina del etileno. De hecho, si ustedes buscan, muchas veces vienen entre entre las bananas unos sobrecitos que son inhibidores de tireno, eh, que es para que no se les dispare la maduración en el momento que no quieran, ¿no? Por eso también Las bananas vienen medias verdes a veces, ¿no? Porque juegan con eso. Aquel momento calculan cuánto tiempo hay las temperaturas para que llegue al mercado en en el punto de consumo, va para que llegue a nuestra casa. ¿Y qué es lo que pasa cuando viene la maduración? Cuando el litileno despierta a a las células de nuestras de nuestros frutos vecinos, bueno, se empiezan a ablandar, empiezan a a generar un cambio de textura y todo eso hace que las paredes se ablanden del fruto y que esos juguitos, esas posibilidades de dañarse y que empiecen a brotar este tipo de hongos es mayor, ¿no? Y bueno, y terminamos en este eh en este tipo de fruto ya hecho bolsa. Esto ya no es comercializable, esto tampoco, ¿no? Ya está muy invadido. Pero bueno, es como eh se puede ir generando un problema a raíz de una fruta dañada, una fruta golpeada, eh o algo de agua, una gota de agua que quede por ahí dando vueltas.
+
+
+00:48:54
+
+Georgina: Entonces, e una de las cosas en las cuales ya hay gente trabajando y y empresas trabajando es en poder detectar e de alguna forma, o sea, no con el ojo humano, sino con otras eh mediciones mediadas por por visión, no sé, por computadora, ustedes sabrán mejor por por qué tecnología que detecta ya fruta que nosotros no vemos a ojo limpio, pero que está dañada. nada que tiene un color diferente, que tiene algún indicio de eh algún patógeno o marca de golpe. ¿Sí? Entonces esas yaz quedan eliminadas de estos de estos almacenamientos y no generan este tipo de situaciones. Piensen también que hay muchas situaciones de exportación donde la fruta viaja por muchos por mucho tiempo, en barco por meses, caras a veces y eso e bueno, es un riesgo, ¿no? tener una fruta así que esté complicada dentro de un container puede hacer que cuando llegue al origen nos rechacen y bueno, hayamos perdido toda la mercadería. Bueno, hasta ahora alguna consulta mientras tomo un mate se durmieron.
+lse posgrados: Igual cuando la todo viaja viaja en heladeras, ¿no? O no.
+Georgina: están refrigerados. Sí, sí.
+
+
+00:50:29
+
+Georgina: E y dentro de esos, para que no haya litigio, se ponen como unos registros, unas unos aparatitos que registran la humedad y la temperatura como para controlar que no haya habido ningún ninguna fallas durante el viaje.
+lse posgrados: Claro, viaje.
+Georgina: Sí, entran. Pero bueno, si dentro de la fruta vino una podrida, por más que esté refrigerada, ya empieza a actuar todo esto, ¿no? Se desencadena todo esto. Esto vale también para las peras, para bueno, las bananas, como le dije.
+lse posgrados: Eso te iba a decir,
+Georgina: que la
+lse posgrados: vos habías dicho eso en otra clase, ¿no? que varios tienen este esta capacidad de hacer madurar todo.
+Georgina: Exacto. El etileno es el famoso etileno.
+Gabriel Quiroga: Y no, no hay sensores de chileno, así dice uno.
+Georgina: Eh, sí, pero después de la clase que viene vamos a ver cómo correlaciona muy bien con la temperatura. Entonces los con los picos de respiración, con la temperatura, entonces me parece a mí que es más barato conseguir un un sensor de temperatura eh y con eso estimarlo que que con uno deileno para estos casos.
+
+
+00:51:45
+
+Georgina: Y también hay unas máquinas que e si uno reemplaza el oxígeno por otro gas, cambia la composición del aire, digamos, también retrasa estos procesos. Vamos a lo vamos a ver un poquito más profundo en la clase de fruti, pero hay otras cosas que se pueden hacer, digamos, si uno quisieracere ser más estricto,
+lse posgrados: M.
+Georgina: eh, pero bueno, que para el tomate, que es un producto que no tiene tanto valor, no se hacen, no se hacen para productos que tengan más valor. Tomate es muy barato, no no da para eso. Bueno, entonces ahora vamos a ir a cómo se produce los diferentes tipos de manejo que hay. Y esto vale medio que para todo, incluso hasta para los animales vale esto. Eh, las denominaciones, digo, sistema o manejo del tipo convencional, sistema o manejo del tipo orgánico y sistema o tipo de manejo agroecológico. dentro del agroecológico puede haber otros que le digan regenerativo, agrofloresta. Eh, bueno, puede dar diferentes denominaciones, pero el más extendido dentro de eh Argentina es Uruguay eh y del de del Latinoamérica es la agroecología, que es un enfoque que acá en este listado está debajo de todo, pero que es un enfoque eh de producción distinto y que piensa en el sistema en sí, no solamente eh en nuestro objeto de producción, ¿sí?
+
+
+00:53:23
+
+Georgina: O sea, eh por ejemplo, si estaremos eh cultivando para horticultura, seguramente estemos trabajando también con algunas florales, estemos trabajando también con algún tipo de de animal de granja, ¿no? Integrado a la producción, tratando de que el agroecosistema funcione. Sí. E en el caso y ah, perdón, y algo muy importante, se minimiza o no se usa eh sustancias de síntesis química en la agroecología. El orgánico tampoco. usa sustancias de síntesis química eh o solo algunas permitidas. Generalmente está eh auditado y certificado. Eh, pero la diferencia con el agroecológico es que puede ser una sustitución, o sea, no se fija tanto en que el agroecosistema está enriquecido y en equilibrio, sino que eh dice, "Bueno, yo no aplico productos de síntesis química." Si no vas a tener el glifosato, o sea, la la herbicida, no vas a tener insecticida, eso no vas a tener en el orgánico y y punto. Sí, eso es lo que te asegura. Eh, y en el convencional es el tipo de sistemas donde reemplazamos esta eh interacción que hay entre nuestro cultivo y el resto de los organismos por productos de síntesis química.
+
+
+00:54:52
+
+Georgina: Sí. Eh, para defender nuestro cultivo, sí, y maximizar la producción. Son diferentes enfoques y distintas formas de producir. Lo que nosotros consumimos en nuestra casa mayormente viene de lo convencional. Sí, los sistemas productivos hoy están dominados por lo convencional. Eh, y bueno, lo otro, hay algo de mercado que uno puede conseguir en ciertos eh circuitos de comercialización, pero es más difícil, ¿sí? o y en el caso del orgánico, además de más difícil, más caro. Yo acá les puse una columna eh vinculadas a los a los que yo identifico como demandas y desafíos tecnológicos de cada uno de estos eh formas de sistemas de producción, ¿no? En el caso de convencional, bueno, reducción del agroquímico, monitorear, monitoreo ambiental, la eficiencia energética. En el caso del orgánico está vinculado con sistemas de trazabilidad porque, bueno, casualmente como está todo auditado y certificado requiere de ese tipo de eh sistema de trazabilidad. Eh, bueno, sensores de residuos de residuo cero, monitoreo de de biodiversidad si corresponde en el agroecológico. Bueno, ya va más como a tecnologías específicas apropiadas para producción. eh lo que son energías limpias, automatizaciones que sean más eh accesibles del punto de vista económica y de la escala y eh todo lo que sea manejo participativo de datos, porque bueno, es una forma de concebir el el eh es un lacología es un sustrato eh apto para eso, ¿no?
+
+
+00:56:42
+
+Georgina: para el manejo participativo de datos, porque es una forma en la que se produce también de esa forma, ¿sí? se se gestiona de esa forma, se comercializa de esa forma y bueno, es es propio del del de la agroecología todo eso. Bueno, cuando vamos a lo convencional, a la producción convencional, principalmente va al mercado interno y un poquitito es eh se exporta. Cuando vamos al orgánico, fíjense, casi todo el orgánico es de exportación, muy poco viene para el mercado interno. Y cuando vamos a lo ecológico, al revés, casi todo eh se comercializa en puntos cercanos a donde se produce. Sí. es como fíjense cómo son distintos eh perfiles de productor y de sistemas, ¿no? Ahora, cuando vamos a a la tipología de la producción hortícola argentina, eh encontramos como esta clasificación que yo se las voy a simplificar un poco, pero bueno, teníamos los cinturones hortícolas que son pequeñas producciones familiares donde están muy diversificadas. Es decir, que ese productor no produce solo lechuga, produce todo lo que puede haber en una ensalada o en una heladera prácticamente nuestra desde el punto de vista artícola. y están eh casualmente cerca de los grandes centros de donde se va a abastecer.
+
+
+00:58:20
+
+Georgina: Son pequeñas superficies y la producción es muy intensiva. Después lo que es producción especializada y cultivos extensivos, bueno, a esos tienen puntos en común. ¿Por qué? porque son producción a escalas mayores. Eh, y se da en zonas donde agroecológicamente hay aptitudes. En las producciones especializadas son zonas muy específicas, por ejemplo, el caso de ajo y de cebolla. Y cultivos extensivos son los que requieren mucha superficie de por sí, ¿no? Como la papa, la herja, los porotos, las batatas, que capaz podemos hacer campos enteros de ese solo de ese único cultivo. Y después tenemos producción para la industria, que eh también son productos son, perdón, producciones eh de superficies más grandes que están bastante tecnificadas y mecanizadas. Eh, y bueno, y ahí, por ejemplo, entra lo que es tomate para la industria, eh, las arbejas, algunos casos de algunos tipos de frutilla y el maíz. Bueno, yo ahora les quiero mostrar y me interesa especialmente porque voy a volver un segito a esto. para la producción de industria especializada y de cultivos extensivos en general son claro productores mucho más grandes donde ya hay cierto grado de tecnificación, donde también es eh tentador porque son productores más grandes con capacidad Yeah.
+
+
+00:59:59
+
+Georgina: de adoptar y de les interesa disminuir siempre la mano de obra y poder tecnificar procesos y labores. Pero los que nos están dando la ensalada que comemos todos los días son los cinturones hortículas, que son los productores que están ahí metiendo el lomo en los canteros y es una tarea muy pesada y a veces cuando a mí me toca recorrer y hablar con estos estas familias y bueno y a uno le cambia la perspectiva cuando los los escucha, cuando ve las instalaciones, cuando ve eh la vida que llevan eh y bueno, son eh generalmente no son familias que tienen eh grandes rentabilidades, ¿no?, No, comparados con los otros, eh, son más bien humildes y y bueno, y es bastante eh esclava la la vida de un productor agrícola de hortícola de de cinturón porque está pendiente de la calidad, porque si no le penaliza mucho el el precio de de lo que producen y son pequeñas cosas que hacen que la calidad no sea óptima. Por ejemplo, la otra vez me contaba un una familia que bueno que ellos no iban a los cumpleaños de la de los familiares porque en ciertas temporadas cuando ellos plantaban porque abastecían a supermercados, ellos plantaban la celga y tenían que eh subir y bajar las los nylones de los de los laterales de los invernáculos.
+
+
+01:01:41
+
+Georgina: Muchas de estas producciones de los cinturones siempre tienen algún invernáculo donde hacen algunas eh algunas cosas que no pueden estar afuera y y ¿qué pasa si uno no baja cuando hace frío o cuando hay viento los laterales y no levanta cuando hay mucha temperatura, baja la calidad porque se te achicharra la hoja de la cela, por ejemplo. Y bueno, y ellos les pasó que por haber ido a una vez a un cumpleaños, eh, dejaron alto, vino el viento y les arruinó la cosecha y a partir de ese momento decidieron que no iban más, ¿no?, y que se quedaban ahí pendientes de de bajar y subir, que es algo que podría estar completamente, estoy segura que que ustedes sabrán decirlo mejor que yo, que eso se podría automatizar, tener un sensor y bajarlo y subirlo sin que esté una persona ahí atada, ¿no? Y esos son tipo de problemas que uno ve en el en el campo, ¿no?, del productor que que realmente es lo que produce lo que comemos. Entonces, bueno, está bueno también pensar en otro en otra escala, en la escala pequeña, en pensar en esos en ese tipo de de perfil de productor.
+
+
+01:02:51
+
+Georgina: Entonces, bueno, yo vengo a tratar de traerles ejemplos de eso y que ustedes se lleven hoy una idea de ese productor. Ahora les voy a mostrar este videíto. Ustedes díganme si eh a ver si ustedes lo ven. Ustedes están viendo
+Tomas Moretti: No, no, ahora sí.
+Georgina: ahora.
+lse posgrados: Ahí está por arrancar.
+Georgina: Ahora, ahora la pregunta es si lo escuchan y lo y lo escuchan.
+lse posgrados: A ver. Sí se escucha. Sí,
+Georgina: Ay, genial.
+lse posgrados: sí.
+Georgina: Bueno, entonces voy a agrandar la pantalla, ¿no? Sí.
+lse posgrados: Vale.
+Georgina: A ver.
+Georgina's Presentation: Ah. Eh, mi nombre es Matías, pertenezco al emprendimiento Hola Sabor. Eh, es un emprendimiento familiar que arranca en el 2003 con la transición hacia la agroecología. Está conformada por mi hermano Miguel, el que sigue es Abel. el mayor, digamos, está mi papá y mi mamá, eh, Yolanda y Rufino. Y bueno, arrancó una transición con un técnico asesor eh, que duró hasta más o menos el 2009 y después este de ahí el 100% de producción agroecológica.
+
+
+01:06:05
+
+Georgina's Presentation: Bueno, elegimos el modo de producción de la agroecología porque primero era como cuidarnos a nosotros mismos de qué comemos. pensar que come el público y y esto de uso de aerotóxicos que tantos nos enferman a todos y principalmente a nosotros que somos los que aplicábamos, eh, cuidar el medio ambiente y el parque que es en función de lo de lo que es la producción agroecológica, la eh una de las importancias eh más grandes que tiene es la posibilidad de brindarle al productor eh más allá de beneficios de en lo que es la salud, de trabajar en un ambiente más sano, de no contaminarse, tener alimentos que no que no envenenen tampoco al consumidor. Eh, es también tener una autonomía productiva, no depender de insumos externos, de poder eh saber que, bueno, acá vienen trabajando muchísimo en la recuperación de semillas y cuidar semillas. ya saben las variedades que están utilizando, que tienen, ya le conocen el ciclo, le conocen cuáles son las necesidades que tienen, se van a arrusticando eh y a la zona donde vienen eh produciendo. A su vez eh el poder trabajar con la rotación, trabajar con eh eh con la asociación de especies hace que las plantas estén más sanas, que no se enfermen tanto y a su vez, bueno,
+
+
+01:08:44
+
+Georgina: Bueno, ponemos a la clase. Bueno, y se produce como se imaginaban. E qué les pareció? Alguien que haga algún comentario para traer a tierra es como la producción hortícola es eh no sé como como se imaginaba, ¿no? Es distinta en la herramienta que usaba el señor mayor, el papá de ellos, para conducir el agua y mover es la asada. Lo que le decía esa, ¿no? Como es una que clave la tierra y y hace movimiento con los brazos. Eh, nada, son tareas pesadas. Eh, fíjense cómo lavaban la cómo lavan las hortarizas en piletas, o sea, como que es todo bien, eh, digamos, como que no hay no hay tecnologías básicamente alrededor de esto y serían muy importante y muy útiles porque, bueno, son familias de productores que que trabajan todos los días rayo del sol para para cosechar nuestras hortalizas.
+lse posgrados: Jorge, yo te iba a preguntar si todos los eh agroecológicos son así o si hay algunos que tienen, no sé si depende de más tecnología o más dinero para invertir en algo que los ayude, que no sea tanto laburo. Yo cada vez que veo este video pienso lo mismo, ¿no?
+
+
+01:10:16
+
+lse posgrados: Esto de de que los veía ahí con las manos agachándose un laburo tan manual.
+Georgina: tan físico. Hm. Te diría que sí, que sí, porque digo, algunos capaz tienen alguna maquinaria más porque tienen más escala productiva y bueno, porque pueden eh el tema es un tema de escala, ¿viste? Como la ellos producen tien una superficie relativamente chica. En el caso de ellos están en el parque Peril Hola. Y es una quinta que obviamente uno la ve y es regre para para manejar una familia, pero a nivel de escala no le da para comprar una maquinaria grande. Entonces, lo que deberían hacer es como asociarse en grupos y tener maquinaria compartida, pero en general son este tipo de de productores, digo, ya sea negrocológicos o del cinturón, ¿no? Del cinturón verde. Eh, son así. Y y bueno, lo que sí cambia cuando son productores de mayor escala, entonces ahí sí acceden más que son del tipo empresarial y que ahí sí acceden más a tecnologías, pero ¿por qué no tenemos tecnologías apropiadas para la escala? Insisto en esto, no como que no es una cuestión de de que a ellos les guste, sino que de hecho estos chicos trabajan todo el tiempo.
+
+
+01:11:39
+
+Georgina: Yo tengo este video porque fue parte de un proyecto, obviamente ellos no hicieron este video de un proyecto eh financiado con Facultad de Agronomía de la UBA. Ellos venden en la feria del productor del consumidor de de la Facultad de Agronomía. están muy vinculados y los chicos estudian estos eh que salen ahí en el video son estudiantes universitarios. varios, o sea, como que tiene un nivel de formación. Eh, entonces, bueno, realmente como que no hay eh empresas que estén produciendo para ellos, que estén viendo cuáles son las problemáticas y tratando de entender y dar soluciones. Así que bueno, por eso también los vinculo y lo traigo siempre a la clase para que vean ejemplos reales de productores, ¿no? Que cómo es un productor real en el campo, eh qué es lo que está haciendo durante todo el día y es esto. Así. Bueno, eso es un poco la la
+lse posgrados: Y el trabajo convencional sería distinto a esto. Si ahí no sería tan como de manos ahí en la tierra.
+Georgina: reemplaza algunas cosas porque, bueno, un productor convencional eh no va a carpir para la maleza, eh le va a aplicar un una hericida, por ejemplo.
+
+
+01:12:58
+
+Georgina: Pero no sé si le aliviana tanto tanto la tarea porque casualmente ellos esta estos chicos, bueno, productores acológicos como piensan tanto en el sistema y que ese sistema está en equilibrio, que de por sí ya no tienen que no tienen tanta invasión de malezas, no tienen tantas plagas, expresión de plagas y enfermedades porque hacen un manejo integral. Entonces, eh digamos ese eso no no le suma tanta tarea. Entonces, el convencional puede tener algo menos. Lo que cuesta mucho es la transición. Cuando uno es convencional y dice, "Bueno, dejo hacer este manejo y entro en la agroecología." Claro, de un sistema muy perturbado y hasta llegar a a encontrar un equilibrio del agroecosistema. pasan unos cuantos años y ahí es donde se complica la subsistencia del productor porque no puede aplicar los químicos, pero a su vez todavía ese sistema está desequilibrado. Entonces, hay que eh muchas veces le dicen agricultura regenerativa a eso no hay que regenerar el sistema. Es la transición eh del sistema convencional al agroecológico el que más cuesta, que menos herramientas hay. Así que bueno, por ahí vienen a mano.
+
+
+01:14:09
+
+Georgina: ¿Alguna otra consulta? Bueno, continuamos. Bueno, entonces eh un poco resumiendo acá lo que lo que vimos, como habrán visto, había diversidad de producción e rotación de cultivos y eso tiene que ver con, o sea, en las filas, en los canteros donde hoy hay un cultivo, cuando eso se levanta se ponen otros. Generalmente se cruzan familias o órganos de cosecha. Por ejemplo, si si se usó para remolacha, bueno, probablemente después se pueda poner uno eh que sea de consumo de frutas, eh o sea, que uno va rotando los órganos y las familias.
+Georgina's Presentation: M.
+Georgina: Yeah. que que siembra para eh lograr que no se repitan eh las mismas plagas, enfermedades y malezas. E muy importante en estos sistemas es el riego. Sí, el riego es sobre todo lo que es bajo cubierta no existe que no se riegue. En horticultura casi todo está regado siempre porque el riego es el componente principal de nuestras verduras, ¿no? Y de las frutas también. Entonces es clave el control hídrico eficiente, no regar de más. Regarde más nos trae enfermedades, nos trae mucho humedad, nos trae podredumbres.
+
+
+01:15:40
+
+Georgina: Entonces es muy importante el manejo del riego y del agua, todo lo que sea con van a ver que hay muchos proyectos de riego, de control de riego dentro de Invernáculos. Eh, incluso ahora hay mucho también que se está usando tipo hidroponia, es decir, cultivos sin sustrato, eh, que se son eh cultivos que se montan en en invernaderos también en lugares cerrados eh y que quedan las plantitas sujetas a que las las agarra un sistema, las agarra e las raíces quedan todo el tiempo en el agua, en el agua con solución. ciones de nutrientes y eso hace eh bueno, que la planta crezca muy bien. Son plantas que son sanas, eh limpias, las lechugas son muy limpitas, salen de ahí bárbaras, increíbles. E y bueno, ahí esa agua tiene que tener control de temperaturas, de qué es lo que tiene todo el tiempo, del pH, ¿no? como distintos indicadores, todo eso está automatizado y hay mucha tecnología también en esos en esos casos. Eso es en invernáculo bajo cubierta y además hidroponia. Y después hay todo un tema que se menciona en el video también que muy pocas veces se habla que es del eh almac Bueno, de la cosecha de almacenamiento, no solo de los productos, sino también de las semillas y de los de los genotipos de cada uno de los de las plantas que estamos comiendo.
+
+
+01:17:16
+
+Georgina: Bueno, después, ¿qué son cuáles son los labores? las la labor que se hace eh y los insumos que se requieren, eh la siembra, el desmalezado, la cosecha y el acondicionamiento, eh y los insumos externos son la fertilización y la aplicación de aeroquímicos y bueno, aroquímicos que son los funguicidas, plaguicidas y herbicidas. En el caso de los convencionales, ¿no? Las fertilizaciones muchas veces se hacen con, por ejemplo, cerca de lugares donde se producen pollos con lo que se llama cama de pollo, que son eh digamos la caca del pollo e que se maneja de una forma que se composta y luego se aplica Yeah. Pero también puede ser de otros animales en el caso de de las producciones orgánicas. Bueno, esto ya lo hablamos bastante largo y tendido eh de los cinturones hortícolas. Y bueno, acá les les pongo algunos criterios de cuáles son las especies y y por qué. Eh, y bueno, funciona el cinturón horticolado. ¿Por qué? porque estamos cerca y porque evidentemente hay un desafío importante que tiene que ver con eh la alta presibilidad del producto y que el canal de comercialización esté cerca, ¿no?
+
+
+01:18:45
+
+Georgina: Y que ese ese canal además sea fluido para evitar pérdidas principalmente. Cuando hablamos de la producción especializada, ahora yo les voy a ir llevando por distintos tipos de producción que hablamos. La producción especializada se se desarrolla casualmente especializada, les va a sonar a condiciones particulares, ¿no? son lugares muy especiales donde se puede desarrollar una actividad de forma eh muy buena y que muchas veces se usa, por ejemplo, para eh ajo o o cebolla en lugares especiales y eso se buscan ahí las semillas, son lugares libres de virus, se dan muchas condiciones específicas e y que lo hace de alto valor, ¿no? Puede ser en melón, en Córdoba y Formosa la batata. Bueno, nada. distintas condiciones que hacen de esas zonas especiales eh y bueno y atractivas. Después de los cultivos mecanizados eh tenemos cultivos como la papa, la zanahoria, legumbres y y mandioca. Eh, bueno, y ahí tenemos, por ejemplo, la papa del sureste de Buenos Aires, más que nada haciendo referencia a Valcarce, la Batata en San Pedro, Corda y Formosa, los porotos en el norte y en el centro del país, Mandioca más hacia Misiones y Formosa y legumbres en Santa Fe y el norte de Buenos Aires.
+
+
+01:20:31
+
+Georgina: producción para la industria. Acá se producen en grandes superficies con un manejo del cultivo altamente mecanizado. Hay un vínculo entre el productor y la industria. Sí, en general eh son codependientes y se establece un contrato de compromiso donde y de hecho está como en los informes que uno puede leer del SENASA o de los o de los ministerios que estén Yeah. informando que ya se establece eh de antemano. Rendimiento, por ejemplo, puede ser contratos que que sea un un porcentaje del rendimiento en peso, porcentaje en materia seca, bueno, cada uno ir haciendo el acuerdo o según también los cultivos, ¿no? Y y bueno, eso que dice abajo es importante. El productor se asegura la venta, pero en general el precio que le pagan es bastante poco. Y este caso serían, por ejemplo, la arbeja, el maíz, el tomate, obviamente la frutilla o la batata. Bueno, y acá me parece que es una pantallita que les puede llegar a interesar, eh, porque tenemos los tipos de producciones, ejemplos, eh, cómo es el perfil del productor, los desafíos tecnológicos que encontré yo, eh, o sea, es una lista que podríamos seguir completando y las oportunidades que yo veo desde la perspectiva a ustedes, ¿no?
+
+
+01:22:01
+
+Georgina: pensando en sus en su especialización, en el trabajo que están haciendo, en las carreras que están estudiando ustedes. Entonces, eh un productor del cinturón hortícola, el cinturón verde, por ejemplo, el que está en Buenos Aires o en Córdoba o en Rosairio, es un perfil de productor del tipo familiar que hace trabajos manuales y cultivos bajo cubiertas. Y acá los desafíos tecnológicos tienen que ver con el control de riego, con los controles de temperatura, de humedad, detección de plagas y acá también les puedo agregar de de compostaje adecuado. Digo, hay muchas cosas que son transversales a distintas culturas, ¿no? Por ejemplo, el compostaje. Eh, pero mal hecho un compostaje, primero que te pueden agregar patógenos en el sistema porque viene de materia orgánica en descomposición. te puede eh aumentar el efecto invernadero porque empieza a generar metano, ¿no? Entonces eso eh nada es malo para el ambiente también. Bueno, es uno de los ejemplos, pero ahí también tenemos desafíos, ¿no? Aunque no estén listados acá y que sean propios de estos sistemas horticolores. Bueno, ¿cuáles son las oportunidades de las perspectivas de ustedes que entiendo yo, sensores de bajo costo, estaciones aerometeorológicas, aplicaciones móviles, bueno, y lo que sea, visión computarizada que se pueda aplicar a esto desde el punto de vista de la producción especializada, o sea, bajamos acá, por ejemplo, la cebolla, eh, la cebolla o el ajo, eh el tipo de del productor es un productor de mediana escala y que usa parcialmente una mecanización, ¿no?
+
+
+01:23:50
+
+Georgina: Ahí los desafíos tecnológicos tienen que ver con el ajuste de riego y fertilización y de del tipo de predicción fenológica. Eso está vinculado a e integrar información del clima,
+Georgina's Presentation: segundos.
+Georgina: suelo, etcétera, ¿no? Y bueno, ahí tenemos podemos pensar en sensores de humedad y conductividad, modelos proactivos, fertilriego, etcéteras. Cuando vamos a los cultivos extensivos o rícolas como el poroto, la batata, etcétera, ya son grandes superficies y la mecanización es total. Ahí no hay gente trabajando la tierra, ¿no? Y los desafíos tecnológicos están más basados en la logística, en la trazabilidad, en el monitoreo y el rendimiento a gran escala. Capaz que ahí pueden emparentarse con lo que vayan a ver en cultivos extensivos después. Y las oportunidades desde el punto de vista de la especialización de ustedes tiene que ver con los sensores remotos, imágenes satelitales, eh clasificación de los rendimientos, clasificación por imágenes o inteligencias artificiales. Y cuando hablamos de producción agroindustrial, por ejemplo, tomate industria, arbeja, bueno, el tipo de productor es un productor de que contrata con contratado por la industria, eh, y tienen que ver más con el control de calidad.
+
+
+01:25:06
+
+Georgina: ¿Por qué? Porque cuando se lleva a la industria el producto, ahí empiezan los litigios de me vendiste con mala calidad o si era buena, si era mala, ¿no? Eh, sincronización de los procesos, porque las plantas esas no pueden parar en general o les sirve que haya un continuo abastecimiento. Entonces, la sincronización de la cosecha de procesado. Y bueno, y acá tenemos la IoT en plantas, sensores de infrarrojo, trazabilidad de blockchain. Bueno, ustedes estarán, se les ocurrirán otras cosas más. Y bueno, y acá desde el punto de vista de eh resumido, pero ahora le toca a la parte de los productores familiares, ¿cuáles son las demandas tecnológicas? Bueno, primero que haya accesibilidad económica. Esto ya yo acá lo que hice fue como algunas encuestitas, algún sondeo entre productores para ver qué me decían, ¿no? Cuáles eran los puntos, los desafíos críticos. y los requerimientos claves para entender el el sistema desde el punto de vista de los productores familiares. Y bueno, los requerimientos claves, eh lo que yo encontré es accesibilidad económica, herramientas que sean de un costo que pueda asumir el productor basadas en energías limpias, ellos lo consideraban relevante, deficiencia energética y que promuevan o mejoren el bienestar de las personas, ¿no?
+
+
+01:26:45
+
+Georgina: Esto que también decía el productor, bueno, nosotros nos gustaba dejar de aplicar químicos porque éramos nosotros los que aplicábamos, ¿no? Eh, y estamos en contacto con ese químico. M. Bueno, los desafíos críticos para ellos son eh las malezas, o sea, las malezas son las plantas que crecen en el mismo lugar que nuestro cultivo y le compiten y por lo tanto hace que baje el rendimiento de nuestros cultivos. Entonces uno quiere que haya la menor cantidad de de esas malezas. Eh, la cosecha y el el lavado o acondicionamiento, ¿sí? Para optimizar, para no usar tanta agua. La sanidad vegetal, detección temprana, enfermedades y plagas, poder detectar a tiempo la presencia de plagas y enfermedades hace que el control sea mucho más eficiente. Y de hecho hay muchas empresas que mediante visión eh o o estudio de tipos de manchas de de las hojas pueden empezar a identificar de qué enfermedad se trata y después de la automatización, ¿no? Por ejemplo, esto de la gestión de los invernáculos, la apertura del cierre y el resto de automatizaciones de riego, cosas que capaz que son muy básicas. Bueno, todo esos son todavía desafíos para para los productores familiares.
+
+
+01:28:05
+
+Rodrigo Hernández: ¿Qué tipo de plagas pueden ser? por ejemplo.
+Georgina: Uy, pueden ser desde pulgones, o sea, plagas que están en en las hojas o en los frutos, en las yemas, o sea, que vos los ves hasta plagas que están en el suelo, eh, nematodes se llama del suelo. Y esas no las ves, pero empezas a ver señales en la planta de que no hay crecimiento, de de bueno, plantas que se empiezan a morir y ahí cuando descalzas la planta ves que en la raíces están comidas. Pero después puede haber orugas. Orugas son gusanitos que te comen, te morcan las hojas, babosas, hormigas. Hormigas son hacen unos líos bárbaros. Eh, bueno, eso es un tipo desde el punto de vista de las plagas, ¿no? Después en lo que es fruto, puede haber también plagas del tipo aves, aves plaga, que también para frutales son muy importantes. Las aves plagas hacen daños muy importantes. E
+Rodrigo Hernández: y estos sistemas que mencionas, que con visión detectan plagas, detectan una plaga en específica o es algo más genérico.
+Georgina: no creo que eh lo que más detectan son enfermedades, porque la enfermedad tiene eh genera manchas que inicialmente son puntitos eh o tipos de manchas que después van virando el color y entonces permite como distinguirlo del verde, por ejemplo, ¿no?
+
+
+01:29:37
+
+Georgina: Eh, y bueno, creo que que es más fácil en el caso ese distinguir enfermedades que que plagas. Pero bueno, creo que que justo el invitado después trabaja en ese tipo de creo eh eh van a poder preguntarle si no no recuerdo
+Rodrigo Hernández: Gracias.
+Georgina: mal.
+Rodrigo Hernández: M.
+Georgina: Vamos.
+Rodrigo Hernández: Yeah.
+Georgina: Pero bueno, tanto en fruticultura como en horticultura, hay indicadores de cambio de color que nos dan señales de deterioro, eh, y que son típicas, ¿no? Con hay patrones que nos permiten como tempranamente detectar. Eh, en general eso son son zonas donde se empiezan a donde empieza a a penetrar la el honguito, se empieza a deprimir la zona, como hundir un poquito, ¿no? Y bueno, uno después de ver muchas hojas eh empieza a ver dónde o mismo de de si ustedes son de comprar mucho tomate, eh también pueden empezar a ver como antes de que de que se vea que se empieza a pudrir por el hongo ya puede detectar en qué zona va a empezar a ver la pudrición. Sí. Sin que sin ver todavía esa mancha ya dice, "Bueno, acá posiblemente vaya a aparecer porque cambia el color. cambia e eso se deprime un poco,
+
+
+01:31:05
+
+Georgina: se hunde un poco la la zona. Si ustedes empiezan a afinar el ojo, lo van a ver en sus casas también. Bueno, entonces con toda la información que les di hoy, no sé cómo estamos de tiempo, estamos bien de tiempo, eh les propongo un ejercicio de 10 minutitos donde ustedes traigan la la experiencia que ustedes tienen, el conocimiento que que ustedes tienen para proponer una solución innovadora a alguna problemática que ustedes hayan identificado en clase o que ustedes tengan en mente eh vinculada a La horticultura, sí, si puede ser también horticultura de balcón, o sea, digo yo, ¿no? De de traspato, como quieran. Eh, pero bueno, algo real, digo, bajar eh lo que ustedes saben a una aplicación que resuelve un problema real. Sí. E y bueno, eso que se tomen 10 minutitos y 40 lo vemos, pero que puedan decir qué se les ocurrió y después calificar si eso es innovador o no. Eh, si es factible de realizar, puede ser una s solución, pero que ni en pedo nadie la vaya a poder adoptar. Eh, si la usabilidad y si eso es costoso o no, o sea, aunque sea en bajo medio alto, ¿sí?
+
+
+01:32:24
+
+Georgina: como esas esas esas aproximaciones nada más. Así que agarren una hojita, eh, piensen un 10 minutitos esto y nos encontramos para compartir. Sí. Y 40 nos encontramos. Yo igual estoy acá. Eh, todos escucharon. Pues ya vuelvo que y 40 vengo y no hay nadie.
+Carlos Villalobos: Sí, sí. Yeah.
+Tomas Moretti: Sí, sí, sí. Todo claro.
+Georgina: Okay. Bárbaro, bárbaro. Gracias.
+Claudio Omar Biale: Hola, ¿qué tal?
+lse posgrados: Ah. Yeah. Hola,
+Claudio Omar Biale: ¿Cómo me cómo están? ¿Todo bien?
+lse posgrados: todo bien,
+Georgina: Hele bien en voz.
+lse posgrados: bienvenido, Claudio. Estamos haciendo un pequeño juego, un ejercicio, una práctica que dio Georgi con la clase horticultura.
+Claudio Omar Biale: Ev.
+lse posgrados: Eh, sí, ¿sabes qué? Vamos a hacer un pequeño recreo, así que terminamos y y si querés eh ahora vemos cuando terminamos con el ejercicio y después del recreídito podés arrancar vos, ¿te parece?
+Claudio Omar Biale: Dale, profe. Perfecto.
+lse posgrados: Gracias.
+Claudio Omar Biale: Yo quedo acá organizándome un poquito.
+lse posgrados: Dale. Gracias.
+
+
+01:36:39
+
+Claudio Omar Biale: Gracias. Yeah.
+lse posgrados: Yeah.
+Georgina: Ah. Son 40. Bueno, a ver quién se anima a arrancar.
+Gonzalo Cuervo: Buenas. Yo puedo tirar una eh creo que igual existe.
+Georgina: Sí,
+Gonzalo Cuervo: E
+Georgina: bueno, estará puntuado bajo en en originalidad, pero valía.
+Gonzalo Cuervo: e, o sea, aprovechar lo que es todo lo que es computer vision para entrenar justamente lo que hablabas antes de las enfermedades de las hojas. O sea, yo lo digo más que nada para lo que es agricultura de balcón. e porque muchas veces,
+Georgina: Aha.
+Gonzalo Cuervo: o sea, uno no tiene idea de si una se rea cada dos días, cada tr días, qué le pasa, si tiene cochinito, si no. Entonces creo que hay un par de aplicaciones que lo hacen, eh, con una foto directamente te dice qué tiene, cómo resolverlo, todo y a su vez que plantear ahí mismo que no sé, que tire recordatorios de cuándo regar, cuándo no, cuándo jugar. Entonces directamente con una aplicación tenés para ver qué especie tenés, cuáles regás, qué días y bueno, como de esa manera automatizarlo para gente como nosotros que no estamos en el tema de de si una es todos los días y otra es una vez por mes.
+
+
+01:41:54
+
+Georgina: Está bueno,
+Gonzalo Cuervo: Ah.
+Georgina: está bueno para para pensar y vender a los en los vender en los viveros, así como se vende,
+Gonzalo Cuervo: Ya,
+Georgina: puedes vender una una suscripción a a una aplicación o algo así.
+Gonzalo Cuervo: claro.
+Georgina: Está bueno.
+Gonzalo Cuervo: Y ahí te puedes ir a la parte, o sea, que es más de tipo domótica, que bueno, vienen todos estos de humedad para planta, entonces puedes tener una y ahí mismo vas viendo los requerimientos de humedad y todo eso. Yeah.
+Georgina: Sí, no sé por qué no se ofrece ese tipo de cosas en en los viveros eh de la ciudad, digamos, como más pues está son cosas que están buenas, ¿no? para digo, para que funcione mejor las cosas en los balcones.
+Gonzalo Cuervo: Sí,
+Georgina: Está bueno.
+Gonzalo Cuervo: por si yo cuando algo no me cuando no me prenden una planta, o sea, con el Google Lens, al menos con ese se tira varias veces, si tiene alguna falta de riesgo, exceso de riesgo, esas cosas medias tonta, al menos te las ve, te sabe el tipo de planta y y te dice cómo solucionar.
+
+
+01:43:00
+
+Georgina: Bueno, está bueno, Gonzalo. Gracias. A ver, ¿qué más?
+Gonzalo Cuervo: Gracias a ustedes.
+Georgina: Si no, empiezo a decir por nombre y ya. Dale, alguien más que se anime por voluntad propia.
+Tomas Moretti: Eh, yo ya había pensado hacer como si fuera una aplicación eh que haga un poco de nexo entre productores pequeños con eh con reventas o o por ahí o o compradores, por ejemplo, no sé, verdurerías o o mayoristas, donde los productores pequeños puedan ofrecer sus productos y así va como si fuera un marketplace. básicamente y poder estar en competencia con los precios y también tener
+Georgina: Está bueno.
+Tomas Moretti: noción. También se me había ocurrido la que mencionó Gonzalo antes, pero bueno,
+Georgina: Es que Tomás,
+Tomas Moretti: lo mismo y fue tiré tres ideas y creo
+Georgina: ¿eso cómo se te ocurrió?
+Tomas Moretti: que fue la más original.
+Georgina: Bueno, porque en realidad eso es un problema que no conversé con ustedes, pero que existe. ¿Por qué? Porque si el mismo día todos cosechamos nuestra lechuga y la llevamos al mercado, nuestra lechuga no vale nada.
+Tomas Moretti: Claro, tal cual.
+
+
+01:44:24
+
+Tomas Moretti: A ver.
+Georgina: Y si la llevamos el día oportuno donde justo nadie llevó lechuga, la pagan más. Entonces, eh, nada, es increíble que todavía no exista algo así, digamos, ¿no? Que que pueda como de alguna forma escalonar esas cosechas en el tiempo y y generar precios que le sirvan a todos.
+Tomas Moretti: Claro, incluso me pasó ayer que fue laulería y y buscar cinco cosas y tenía una sola y digo, "No, no, no puede ser que fique sin sin no sin fruta, digamos, sin verdura, por una falta.
+Georgina: Mhm. Yeah.
+Tomas Moretti: Yeah. no sé, algún prover tiene algún asaltante o algo de eso, pero bueno,
+Georgina: Bueno, bueno,
+Tomas Moretti: no sé los temas de senasa o de seguridad para para parte alimenticia, pero bueno, eso será otro tema.
+Georgina: sí, capaz que es menos sofisticado de lo que te imaginas.
+Tomas Moretti: Claro.
+Georgina: Eh, sí, pero está buena idea y es eh muy pertinente con el tema. Está bueno. ¿Quién más? Anímense. Vamos.
+Rodrigo Hernández: Yo pensé algo relacionado a plagas que justo nada estoy haciendo unas preguntas. Eh, me puse a buscar y ya existen.
+
+
+01:45:59
+
+Rodrigo Hernández: Me llamó la atención este que encontré que son como como algo que vos comprás, lo ponés al lado de de la planta y se le pegan las mosquitas y con una app vos lo podés escanear y ver qué plaga es. Nada, me llamó la atención. Eh, yo pensaba algo más genérico, visión por computadora, poner algún tipo de cámara. ya debe existir algo así, pero creo que dependiendo la extensión eh de del campo que sea, el la inversión no sería tanto, sería poner cámaras y y bueno, entrenar los modelos, hacer el análisis, pero en hardware no sería tanto.
+Georgina: Eso está bueno. Si se entregar los modelos como si fuese nada, o sea, vos le decís eso al agricultor, dice, eh, modelos, qué tienen que ver las modelos y eh no están familiarizados con ese tipo de
+Rodrigo Hernández: Tak.
+Georgina: lenguaje. Y eso que para vos es re obvio, digo, para los que estamos de otros áreas del conocimiento es complicado. Y bueno, es casualmente el rol de estos cursos tienen que ver con acercar los mundos y que eso que para vos es algo de todos los días, veas que para nosotros es algo que aporta mucho valor.
+
+
+01:47:28
+
+Georgina: E esto de las cámaras en las trampas no funciona para todo porque tiene que ser un bichito que se mueva. Por ejemplo, alguien antes nombró la cochinilla. La cochinilla es un tipo de plaga que en suciona en el punto donde se clavó cuando era chiquitita y ahí se queda el resto de su vida, o sea, no tiene patitas, ya se queda ahí para siempre. Entonces funciona para aquellas que eh tengan movilidad o que tengan algo, un cebo atrayente, ¿no? que que haga, que vayan a ese punto para que después la cámara te pueda enfocar y ver qué de qué plaga se trata, pero bueno, eventualmente podría servir para algunas plagas eh eh en particular o para algunos casos, por ejemplo, el el en el caso del tomate o el pimiento hay una plaga se llama mosca blanca, eh bueno, que capaz que se puede detectar presencia de ella o con otros métodos bien sencillos y y que se pueda ganar tiempo, o sea, como bueno, habría que pensarlo y contextualizar usarlo, pero sí es una de las aplicaciones factibles.
+Rodrigo Hernández: Y y lo que mencionaste antes, si en vez de intentar detectar la plaga, se intenta de alguna forma clasificar el fruto en saludable o no saludable y en base a eso estimás que hay plagas.
+
+
+01:48:49
+
+Georgina: Eh, bueno, ahí ya tenés el daño hecho. El problema es ese, pero si vos digo en otro en otro momento sí es necesario clasificar entre fruto dañado por plaga o fruto dañado y no vieran eso que al principio de la clase cuando les mostré lo del almacenamiento de los tomates con un ejemplo bien grande que bueno, si el fruto está dañado, te contamina el resto de de los frutos por distintos mecanismos, ¿no? por un mecanismo hormonal de la maduración y además por los patógenos que se empiezan a propagar. Eh, entonces, bueno, en ese caso sí es importante que que alguna computadora, alguna algo pueda mirar al fruto y clasificarlo, ¿no? Eh, evidentemente los que están dañados a a ojo alzado ya eso se descartan, pero el tema es aquellos que tienen alguna señal que el ojo no percibe, pero que una un modelo sí lo puede percibir y eh descartarlo. Entonces, bueno, ahí si está bueno para esos casos, pero si eh ya inferir daño en fruto es lo que uno quisiera cuando está la planta, en la planta uno quisiera como estar mucho antes que eso. Sí, porque ya cuando hay daño en el fruto creciendo ya está medio al horno,
+
+
+01:50:09
+
+Rodrigo Hernández: Okay, gracias.
+Georgina: ¿no? V, Rodrigo, el resto aunque sea uno más y nos retiramos hasta a un recreíto.
+Facundo Quiroga: Buenas.
+Georgina: Vamos bien. Facundo, ¿sano,
+Facundo Quiroga: Con mi grupo, eh, no de Tucumán.
+Georgina: recién acabo de ver tu nombre y tu
+Facundo Quiroga: Ah, por el caudillo.
+Georgina: apellido, claro, la combinación ahí me sola
+Facundo Quiroga: Sí, sí. Eh, soy federal. es eh quería contar nada más que con mi grupo con un grupo para una materia que es visión por computadora What? habíamos hecho entrenado un modelo que de visión por computadora que contaba racimos a que en fotos de viñedos. Eh, le pasábamos fotos de un que sacábamos de un de una parcela y nos decía al final la cantidad de de resimos que había. Eh, y bueno, lo habíamos pensado como para que el productor pueda predecir la no predecir, sino eh, bueno,
+Georgina: estimar.
+Rodrigo Hernández: Ah.
+Facundo Quiroga: estimarse la la producción total eh y que
+Georgina: Bueno,
+Facundo Quiroga: el eh vea, digamos, eh los todas las manos de obra que va a necesitar y prepararlo, eh estimar, bueno, su cosecha y cuánto los costos y la ganancia y bueno, ese había sido el trabajo, pero después se me ocurre, digamos, con si tiene eh datos de varios años y de otros productores, quizás después pueda ser un modelo predictivo para eh detectar cuando la cosecha no cuando la plantación no venga bien en alguna
+
+
+01:52:13
+
+Facundo Quiroga: época.
+Georgina: Y bueno, eso lo vamos a ver la clase que viene, pero en en BID uno de los problemas que hay es eh las vallitas, o sea, cada una de las eh de las uvas pueden estar dañadas o pueden estar infestadas con eh botritis, que es un tipo de hongo podredumbe gris se llama también, que empieza a afectar el racismo y lo pudre después todo, ¿no? Y y bueno, y que además genera problemas en la en los procesos posteriores de de vinificación. Entonces, eh está bueno si uno pudiera además de estimar el rendimiento, después hacer el mismo ejercicio más adelante cuando la fruta ya va madurando, que es donde se manifiesta este problema. Entonces ahí uno ya puede hacer una separación de una clasificación de calidad. Está bueno.
+Facundo Quiroga: Ah, bueno, eso ya es otra aplicación que yo no la conocía, pero está bueno, digamos esto de de la diversidad en, o sea, voz agrónomas, nosotros estudiando ingeniería, pueden hacer una especialización, pueden surgir ideas que o sea mejores.
+Georgina: Sí, sí, sí, sí, sí. Sí, que complementen a lo que ya digo, el aprendizaje mayor ya lo hicieron.
+
+
+01:53:33
+
+Georgina: Capaz que se puede sumar un poquito más a lo que ya tienen hecho. Sí, totalmente. ¿Qué estás en Mendoza,
+Facundo Quiroga: Eh, no,
+Georgina: en Buenos Aires,
+Facundo Quiroga: en tu cuá.
+Georgina: ah,
+Facundo Quiroga: Sí,
+Georgina: en Tucumán es son viñedos.
+Facundo Quiroga: acá hay plantaciones de limón, no hay
+Georgina: Claro. Sí, por eso viñedos, ¿no? Los viñedos. Esa esa experiencia fue con empresas de Mendoza que nos contar.
+Facundo Quiroga: no es es simplemente un dataset. Yeah. imágenes que hemos sacado de internet para entrenar un modelo de de visión por
+Georgina: Ah, okay.
+Facundo Quiroga: computadora nada más, pero sí tenía un compañero que era de Mendoza y por él había nacido la idea de presentar eso.
+Georgina: Una idea. Bien, error. Bueno, ¿alguien más quiere contar? Bueno, hacemos un descansito muy breve, ¿te parece, Lola?
+lse posgrados: Sí,
+Georgina: Así descansan
+lse posgrados: hagamos sí 10 minutos y yo voy a agarrar mi teléfono. Pónganse el timer.
+Georgina: la alarmita.
+lse posgrados: Sí, así volvemos y ya viene Claudio. Sí.
+Georgina: Yo tenía un profe que ponía música cuando pasaban los 10 minutos ponía música y esa era la señal de vuelvan todos.
+
+
+01:54:53
+
+Georgina: Bueno, gente, yo me voy a quedar por acá conectada sin cámara y bueno, cualquier cosa avisam.
+lse posgrados: Listo. 10 minutos. Entonces,
+Georgina: Dale,
+lse posgrados: nos vemos.
+Georgina: nos vemos. No.
+Rodrigo Hernández: Oi. respond. Sí, yo Eh,
+lse posgrados: Bueno, vamos volviendo. Vamos a en el tiempo para arrancar. con Claudio.
+Rodrigo Hernández: ¿Qué? No,
+lse posgrados: Rodrigo, ¿te puedo pedir si Ah, ya se te silenciaste? Bueno, Claudio, si estás por ahí podemos ir empezando.
+Claudio Omar Biale: ¿Qué tal? Buenas noches a todos. ¿Se me escucha bien?
+lse posgrados: Sí, perfecto.
+Claudio Omar Biale: Buenísimo. Ahí ya pongo eguida la presentación.
+lse posgrados: Dale.
+Claudio Omar Biale: Entonces, denme un segundito. Me confirma si se ve.
+lse posgrados: Perfecto. Super bien.
+Claudio Omar Biale: Bien. Eh,
+lse posgrados: Presentate. Yo les conté quién eras vos.
+Claudio Omar Biale: sí,
+lse posgrados: un poquito por arriba, pero vos presentate bien.
+Claudio Omar Biale: dale. A ver.
+
+
+02:08:31
+
+Claudio Omar Biale: Okay. Bien. Ante todo, buenas noches a todos. Eh, mi nombre es Claudio Omar Biale, soy egresado de la Fiúa en la especialización de internet de las cosas. Eh, actualmente me encuentro realizando la maestría en internet de las cosas, les voy a ser sincero, dando vuelta todavía con el trabajo final, eh, sea con materias terminadas. Aparte soy docente. e en algunas materias de IoT, principalmente en arquitectura de protocolos con Leopoldo sin piel eh de la especialización y bueno, después soy docente en la Universidad Nacional de Emisiones en las carreras de informática de la Facultad de Ciencias Exactas Químicas y Naturales. E bien, la idea de la presentación de hoy es contarle una aplicación de IoT en horticultura aplicando un desarrollo que hemos realizado con un trabajo de investigación de que estamos realizando entre docentes de de la Universidad de Sal de Misiones y docentes de la de la Fiuba. Eh, ahí está mi tutor que es el doctor ingeniero Ariel Lutenberg. Y bien, primero quería hablar de de las cosas, qué es lo que hay que considerar para que pueda funcionar en este caso particular de horticultura.
+
+
+02:10:05
+
+Claudio Omar Biale: Eh, ¿qué problemas hemos encontrado mientras fuimos eh desarrollando aplicaciones para este tipo? E y ahí comentarles sobre huerta OT, que es la aplicación de monitoreo que tiene, como indicamos indica ahí en la presentación lo que es almacenamiento distribuido en el borde para poner en contexto. Sí. Eh, el trabajo inicial de todo este desarrollo fue para hacerlo en una localidad que se llama Colonia Lieve, que está ubicada en la en la en la provincia de de Corrientes, en Argentina. Sí, hay que considerar que Corrientes es la segunda provincia del país en en cuanto producción de hortalizas bajo cubierta. tiene más de dos 200 eh 2100 haáreas de de cultivos donde los cultivos principales son el tomate y el el pimiento. Lo interesante de de los cultivos de corriente que son producción de primicias y son los primeros que llegan de ese tipo a a los distintos centros de distribución. Sí. Y bien, primero hablaríamos de qué es agricultura inteligente, donde en ese caso converge el concepto de internet las cosas con la computación en la nube.
+
+
+02:11:39
+
+Claudio Omar Biale: Eh, ahí podemos agregar aprendizaje automático, eh vehículos no tripulados, eh, y lo que sería robótica. ¿Qué cambia con respecto de de lo que es la agricultura de precisión que algunos denominan agricultura 3.0 y la agricultura de inteligente 4.0? Sí. que en el caso de de la agricultura inteligente, las decisiones surgen de de en la ubicación de de del contexto, ¿sí? Y de los eventos. E en cuanto a consideraciones de de los mercados de invernaderos eh inteligentes, sí vemos que hay un una previsión, ¿sí?, de que ese mercado va a seguir en aumento, ¿sí? Va a llegar a los 2,20 eh millones de dólares en cuanto a a ese mercado para el 2028. Estos datos los saqué de de mi tesis de especialización, es decir, la tengo definido ahí. Entonces, eh vienen de de la misma. Bien, ahí vamos a empezar con la idea de que tenemos siete desafíos que pueden aparecer en en lo que es Yot en la en la agricultura. El primero de ellos es en el ámbito agrícola de las caídas del proveedor de internet.
+
+
+02:13:16
+
+Claudio Omar Biale: Sí, eso en parte se ha solucionado. Sí, eh porque ahora tenemos conexión satelital, pero en algunas zonas todavía si uno depende de un proveedor local, muchas veces tenemos pérdidas y caídas. Sí. Y el problema que hay ahí es que el sistema no puede detenerse cada vez que esto pasa. El sistema de monitoreo debería continuar. En segundo lugar, eh muchos nodos, sí, depende cuál sea el contexto de de producción en en agricultura, van a estar lejos de de una conexión eléctrica estable. Sí. Y la mayoría del gasto se da por lo general al momento de transmitir el dato, ¿sí? Cuando activamos el dispositivo de transmisión y enviamos un dato por algún protocolo de comunicación. Eh, ¿qué se suele hacer a veces en esos contextos? Sí, eh, medir continuamente y enviar por lotes. E tercer lugar, el concepto de interoperabilidad. Sí, cada fabricante de dispositivos trae sus formatos, su propia también tenemos en algunos casos en las soluciones su propia nube. Sí. Y a veces el costo de salida es alto.
+
+
+02:14:36
+
+Claudio Omar Biale: Sí, tenemos que ver bien si lo podemos sacar o no a ese dato. Después también tenemos dentro de lo que es interoperabilidad, la interoperabilidad eh multiprotocolo. Eh, ¿a qué me refiero eso? Puede ser que tengamos por ahí algún dispositivo que sea restringido y nos convenga usar COAP. Entonces, usamos porque es uno de los protocolos que podríamos usar para para ese tipo de de dispositivos y a diferencia de MQTT HTTP que son más pesados. Entonces ahí también entraría el concepto de interoperabilidad. Luego está el tema de seguridad. Sí. Eh, supongamos, por ejemplo, una bomba de riego que sufre un problema de de acceso, ¿sí? indebido y ahí deja de ser un problema informático porque si alguien llegase a entrar a ese dispositivo que maneja la bomba de riego, por ejemplo, y lo activa sin ser necesario, produce estragos dentro de de la producción agrícola. Eh, luego teníamos lo que es el concepto de calidad de de los datos. Sí. Y ahí es un tema de eh podemos tener sensores que pierdan, es decir, calibración, no tengan lo que denominamos deriva.
+
+
+02:15:59
+
+Claudio Omar Biale: Sí. Entonces mandan valores que pueden parecer razonables, pero no lo son. E hay y el tema de la calidad de datos con el siguiente tema que es el sexto, que son los costos. Sí, no solo se tiene que considerar el costo del sensor, sino la instalación, la conectividad, el mantenimiento que vamos a tener que tener sobre los dispositivos y eh la capacitación. Y ahí como séptimo agregado está justamente mantenimiento y es cómo mantenemos la flota de dispositivos. Eh, ¿y a qué me refiero con la flota de dispositivos? Eh, ten si trabajamos con 10 nodos, se pueden hacer un control, diríamos entre comillas a mano, pero ya con 100 no más se se devuelve eh más complejo. ¿Cómo uno enfrenta? Sí, cómo enfrenta eh alguno de estos problemas, porque les voy a ser sincero, no están enfrentados todos en en la solución que estamos realizando, que es Huertayot, si lo vamos a ver eh a continuación. E huerta OT está por su segunda versión. La versión uno eh funcionó, fue la que hicimos nuestro trabajo de de especialización.
+
+
+02:17:19
+
+Claudio Omar Biale: Sí. Eh ahí pueden ver cómo era el recorrido de la aplicación en en este caso. Si partíamos de nodos que estaban basados en SP32, estaban con un firman basado en Mong OS. publicaban datos por MQTT a un broker MQX que estaba en formato de cluster. Sí. Eh, ese broker MQX trabajaba en la en la nube. Sí. E el backén estaba desarrollado en en Fastfi, que es un framework de de JavaScript para hacer backend, aplicaciones R y los datos se guardaban en una base de datos documental COD. Ahí teníamos la evaluación de reglas en la nube. Si ahí tenemos un ejemplo, por ejemplo, podíamos validar si la humedad del suelo es mayor a 40% y la temperatura ambiente tiene es mayor igual a 20, entonces encendíamos la bomba. Todo eso era manejado, es decir, por el usuario eh mediante eh un frontend que estaba desarrollado ende la implementación se corría en Digital Ocean, que es un proveedor de en la nube, ¿sí? y estaba corriendo en un todo el, es decir, la base de datos, el fronten, el backend y el broker en digital en un cláuster de Dockers Swarm, que es algo más liviano que que hacer correr, por ejemplo, e con otros eh manejadores de de contenedores.
+
+
+02:19:08
+
+Claudio Omar Biale: Sí. E bien, ¿qué problemas encontramos? Sí. Uno era que nosotros consideramos que podríamos tener a veces dispositivos que no ocupábamos y podríamos usarlo, pero era muy de bajo costo, eh, mejor dicho, de bajo de baja capacidad. Entonces, nos convenía a veces trabajar con con algún otro protocolo que no sea MQTT. Al estar en la nube, sí teníamos funcionalidad en el borde. ¿Y qué ten relacionado con lo que veníamos hablando hace unos minutos? Sí, si se cortaba la conectividad, el control de reglas, que es lo que más nos interesaba a nosotros, se perdía. Sí. Aparte las reglas estaban asociadas a, perdón, a un único dispositivo. Sí. Entonces, no podríamos no podíamos definir reglas para varios sensores. ¿Qué me refiero con varios sensores? Tengo varios eh no dispositivos que miden en la humedad del suelo y bueno, de acuerdo a un promedio de esos dispositivos, quiero que se active o no eh la bomba de riego. Si esa situación no la teníamos y tampoco no podíamos considerar, por ejemplo, el promedio de una ventana de tiempo.
+
+
+02:20:21
+
+Claudio Omar Biale: El siguiente problema, que realmente no es un problema, pero es una tendencia para cuando uno trabaja con con series temporales, que es lo que uno termina trabajando muchas veces con con la parte de guardar datos de de mediciones de de un sensor, eh es trabajar con un almacenamiento en objetos. Con un almacenamiento en objetos me refiero a trabajar con un almacenamiento S3 o compatible, ¿sí? eh mini o R2 de Cloudfire, eh Tigri Data, etcétera. ¿Por qué pensamos con el almacenamiento de objetos? Porque es, si bien es lento, es algo que hay que tener en cuenta, tienes que trabajarlo, eh, es tiene menos costo de por e por el la cantidad de almacenada. Bien, de ahí surge el desarrollo de sensor wave, que es la base de en donde está trabajando actualmente la versión 2.0 de de Werte Io OT. Sí. E, ¿qué es sensor way? Es un almacenamiento de series temporales distribuido. Sí, está escrito en lenguaje Go. Eh, tiene principalmente tres partes eh donde tenemos el nodo de borde o los nodos de borde que reciben los datos de los sensores y en este caso ahí atacamos lo que es eh la interoperabilidad.
+
+
+02:21:50
+
+Claudio Omar Biale: Sí, soportamos tres tipos de protocolos. MQTT, COAP y HTTP. Sí. bajo una única interfaz eh de publicación suscripción. Sí, tenemos en cuenta, por ejemplo, MQTT DPC es publicación suscripción COAP. Uno puede usar mediante observe, algo parecido, pero es requerimiento respuesta más fácil igual que http. ¿Qué hacemos en el nodo de Word? Tenemos ese MW que permite escuchar esos tres protocolos. Sí, tenemos compresión de datos locales. ¿Con qué objetivo? Con el objetivo de que ese dispositivo que podría ser una RASPDP, una BL board, eh envíe el dato ya comprimido y por lotes a a la nube. Sí. ¿Qué cuándo lo envía? Cuando vence un tiempo de almacenamiento configurado por cada serie. Sí, lo podemos configurar por cada serie temporal. Eh, entonces el nodo va a subir esos bloques comprimidos a un almacenamiento compatible con eh S3. Una vez que se sube, se borra el disco local para no para para no consumir el disco local.
+
+
+02:23:01
+
+Claudio Omar Biale: Sí. Y eh además publica en S3 un catálogo con las series que tiene. Cada no del borde hace sí cuando se crea una serie, cuando se modifica una serie, cuando se crea una regla, eh publica esa información eh en S13. Sí, la esa sería nuestra segunda pieza. Sí. Y la tercer pieza es el despachador. Es un servicio sin estado, siendo mantiene información eh entre que que la funcionalidad que tiene es la de realizar, es decir, permitir consultas eh en la nube, porque losadores correrían en la nube. Sí. Y mediante un broker MQTT que está en la nube se puede comunicar con los nodos al borde y aparte el despachado puede hacer al almacenamiento eh en S3. E entonces cuando llega una consulta al despachador, ¿sí? ¿Qué hace? pide eh por el broker que está en la nube, sí, eh la información más reciente que todavía no fue transmitida a S3 y el histórico lo recupera de S3 y ahí devuelve la respuesta.
+
+
+02:24:33
+
+Claudio Omar Biale: ¿Sí? Eso es lo que pueden ver ahí en el en el diagrama. ¿Qué ventaja eh podríamos decir que tiene esta configuración? Eh, el borde va a seguir funcionando. ¿Por qué? Porque las reglas y van a estar en el borde, tiene un almacenamiento local. Sí. Si no hay conexión a internet y se vence el tiempo de de almacenamiento, va a intentar enviar a S3. Si no puede, sí espera el siguiente tiempo de ventana y lo vuelve a tratar de enviar. Pero lo bueno es que ese nodo alborde sigue respondiendo a las reglas y sigue guardando la información. ¿Sí? Eh, lo segundo es que ese despador, sí, si uno piensa en un sistema más grande, al no tener estado es fácil de escalar. Sí, podríamos tener varios despachadores que pueden eh hacer varias consultas, responder varias consultas a la vez y eh no tenemos que mantener un estado entre esos despacharadores. Bien, aquí viene el concepto de cómo adaptamos, es decir, cómo adaptamos la nueva versión de Werte IoT para que funcione eh sensor way.
+
+
+02:25:47
+
+Claudio Omar Biale: Bien, tenemos los nodos SP32 que van a seguir trabajando con sensores, van a poder tener actuadores y eh se comunican con una aplicación que implementa la biblioteca de sensor Wave, ¿sí? Eh, en el nodo local. A esa aplicación la denominamos huerta IoT. ¿Qué hace esta aplicación? Va a correr cerca del invernadero. Sí. Y como trabaja con el midlew de de de sensor way, sí, tiene un broker MQTT local que es una librería eh de que está escrita también en Go. Entonces, esa aplicación es la que va a recibir la información de estos eh nodos SP32. Eh, vamos a tener también un broker MQT en la nube, que es eh justamente corriendo Nano MQ en Flyo. Sí, que es para la federación. ¿Qué es la federación? es lo que permite que los despachadores se comuniquen con los eh nodos al borde. Y ahí luego tenemos Werta IoT backen, que ahí tenemos la API RES de la aplicación de huerta IOT con el despach la biblioteca despachadora de sensor Win.
+
+
+02:27:09
+
+Claudio Omar Biale: Sí. Y la que va a gir esta aplicación Wen va a recibir solicitudes de el frontend. El frontend también está desarrollado en es kit y corre en CLF workers. Sí. Y todo esto. Sí. eh backend y el borde almacenando información en3 que en este caso usamos la la versión de Clowfire que es R2. Sí. Entonces cuando vence el tiempo de almacenamiento lo sube ahí y Wot sigue guardando la información local. Bien, el en cuanto al nodo al borde que es Wot, ¿sí? Eh, arriba pueden ver el recorrido de cómo funciona. Sí. Eh, los nodos SP32 usan la parte del middlew para comunicación con MQTT, donde este el broker MQTT que está en bebido eh al borde, ¿sí? Está escuchando en ese tópico. Sí. ¿Y por qué escucha? en ese tópico porque eh del tópico en el que publica el nodo sí se deriva la serie y ahí tenemos en la parte inferior como sí de de ese tópico surge la serie que se va a almacenar.
+
+
+02:28:38
+
+Claudio Omar Biale: Y hay algo que no les comenté ahí, que sensor Way guarda, ¿sí? Por cada serie temporal los datos, ¿sí? ¿Qué guarda? fecha y unidad de medida, es decir, valor medido. Y ahí la serie en sensor way es fácil de hacerlo eh la derivación con tópico MQTT porque si bien es una forma plana eh tiene también separaciones semejantes a un tópico, ¿sí? Está separado por barras. Entonces, eh ahí, por ejemplo, si yo tengo huerta barra zona norte barra sp32-1, que sería el dispositivo barra sensor barra temperatura ambiente, ¿sí? La serie va a venir dada por el ID del nodo al borde, que es único para cada de nodo al borde, ¿sí? Barra la zona, eh barra el dispositivo, barra el tipo y barra eh la métrica. Y luego vamos guardando datos de eh diríamos eh tiempo y valor. Sí. Eh, ¿qué logramos con eso? Que el mensaje sea mínimo. Sí, podríamos mejorarlo si hacemos empaquetado, pero no está pensado en esta aplicación.
+
+
+02:29:46
+
+Claudio Omar Biale: Sí. Eh, ¿qué hace parte del borde? Porque eh el borde lo que tiene que después inferir también es qué tipo de datos almacenar y demás, que eso es propio de de descenso y ahí viene esta información, si el borde infiere el tipo y comprime localmente cada serie. Eh, nosotros hacemos compresión de dos niveles en en las series que lo que hacemos es cada cierta cantidad de datos se activa la compresión, toma esos esos puntos o datos, los comprime, eh, y ahí lo almacena comprimido en la base de datos local que es PEBLE, que es una base de datos clave de valor. Para eso, Peble tiene dos estados, uno cuando almacena los datos no comprimidos, que en otras bases de datos, en otras bases de datos lo que suelen hacerse es mantenerlos en memoria, pero a nivel agrícola uno no mide sí continuamente, sino que miden espacio de tiempo y si se llegase a caer el no al borde podríamos perder datos y no queremos eso. Entonces tenemos un bloque donde guardamos puntos eh eh sin comprimir cuando se llega y eso por cada serie definimos cuántos puntos necesitamos para comprimirlos.
+
+
+02:31:04
+
+Claudio Omar Biale: Los comprimimos y los borramos los que no están comprimidos y los guardamos comprimidos. Y los comprimidos es lo que cuando se vence el tiempo de almacenamiento se suben a S3 y se borran de del nodo al borde. Eh, el despachador como les dije, sí va a tener ese funcionamiento sin estado. Acá por ahora tenemos eh por cada backend tenemos un único despachador, pero lo podríamos el día de mañana separarlos y escalarlos. Señor Fronen, van a enviar solicitudes a una API RES que está protegida con JWT. Eh, la API del de Red delega al despachador de sensor way lo que serían las consultas y el despachador consulta eh en el borde por el el broker MQTT que está en la nube, ¿sí? para los datos más recientes y en S3 para lo histórico. Si un nodo del borde no responde, cuando se devuelve la respuesta al cliente, se le informa que ese nodo no respondió y no es que se falla toda la consulta, es decir, si no está no está no hay conexión del nodo al borde, igual se responde lo que tiene en el histórico.
+
+
+02:32:21
+
+Claudio Omar Biale: Eh, bien, ahí están ciertas cosas que consideramos. Sí, usa usamos las contraseñas, las guardamos eh con beccript para estar encadas y y lo guardamos en el amaenamiento compatible con S3, en este caso es CLF R2. Usamos jerarquías de eh de unificada de UNS, ¿sí? Que es una forma de guardar el jerárquico a nivel de de MQTT. Y soportamos cuatro tipos de consultas: por rango, por último valor, eh agregación y agregación temporal. E bien el desp. despliegue de de del disparchador con R y del broker MQTT se hizo enante contenedores Docker, ¿sí? Que después se transforman en máquinas virtuales en Flyo. Sí. Eh, el Fon lo hacemos en Cloud Firewer, ¿sí? Y como le dije, trabajamos con el techp, tire win, chart para los gráficos y le flash para los mapas. Y acá pueden ver eh las los dos despliegues, ¿sí? la de del backend y del brower MQT en la nube dentro de del panel de control de Fallo.
+
+
+02:33:40
+
+Claudio Omar Biale: Eh, acá podemos ver el almacenamiento en objetos donde si ustedes miran e ahí en la parte media, sí tenemos donde dice objects, está eh usuarios.json, Jason, que sería la información de usuarios de la aplicación. Eh, en el directorio nodos, sí está la información de cada nodo. ¿Qué es la información de cada nodo? Es un conjunto de datos Jason donde se guarda el ID del nodo, dónde está ubicado, ¿sí? Tab nodo. Eh, ahora vamos a ver dónde lo usamos a los tags del nodo y la información de qué serie está en cada nodo, qué reglas están en el nodo, etcétera. Y lo que ven como borde eh se viiales y un número y es el identificador único de un nodo al borde y dentro de ese eh directorio están todos los datos comprimidos que se van subiendo a la a la nube, ¿sí? El almacamiento de creés. Acá podemos ver, vamos a hacer un recorrido del del fronel donde tenemos el mapa de nodos. Ahí vemos que usamos eh le Sí, tenemos este caso un nodo que fue el nodo de prueba que tenemos aquí en donde yo estoy ubicado que es en colonia Lievi.
+
+
+02:34:56
+
+Claudio Omar Biale: Sí. Eh, vemos el nodo, que es el nodo al borde directamente y ahí donde ustedes ven que dice latitud, longitud, tipo, son los tags que se le pueden almacenar a cada nodo. Eso es propio de sensor wave. Eh, después cuando vamos al detalle del nodo, podemos ver cuándo fue la última lectura. Tenemos el acceso al dashboard o a las zonas. Y ahí uno dirá, ¿qué son las zonas? Son eh divisiones lógicas dentro de un nodo al borde. ¿Qué me permite eso? Por ejemplo, yo puedo tener tres, cuatro invernaderos en un con un único nodo al borde y entonces a cada invernadero le doy un nombre de zona para diferenciarlo. Eh, ahí en el panel donde vienen información son los tags eh o información adicional de de este nodo. Si por ejemplo, usamos eso para la latitud y longitud. ¿Con qué objetivo de poder mostrarlo en el mapa? Eh, bueno, después tipo para la información adicional y abajo un resumen de sensores.
+
+
+02:35:53
+
+Claudio Omar Biale: ¿Cuántos sensores de humedad, cuánto de humedad del suelo, de temperatura estamos corriendo. Eso no significa dispositivo. sino cuántos sensores hay. Eh, después si vamos a la vista de zonas, vamos a ver que tenemos ahí la zona, por ejemplo, zona norte y zona sur, que serían dos nombres que le dimos a los invernaderos. Y de esas zonas, por cada una, podemos entrar a ver cada uno de los dispositivos que hay. Sí, así como teníamos un dashboard, que acá no lo mostramos de del nodo general al borde, podemos tener un dashboard por cada zona. Sí. Y también podemos ir viendo después ahí donde aparece SP323, SP324, son los nombres que le dimos a los dispositivos SP32 que están corriendo en la en la en esta zona. Eh, cuando entramos a un dispositivo, ahí podemos ver, sí, un panel donde tenemos una caja por cada dato censado del dispositivo y nos muestra eh porcentaje, variaciones que hubo eh y demás en cada uno. Y podemos entrar a ver las mediciones o las agregaciones.
+
+
+02:37:02
+
+Claudio Omar Biale: Sí. Acuérdense que las agregaciones es como hacer una agrupación por tiempo, ¿sí? O una agrupación general. Sí, puede ser agregación general o temporal. Y acá vemos una medición. Sí, estos fueron con datos de pruebas que fuimos sacando y podemos cambiar el rango de tiempo, las víctimas de cuántas mediciones y se de todas o de algunas. En el caso acá de de trabajar con S3 a veces conviene trabajar con N mediciones porque traer muchos datos es muy suele ser lento. Es algo que todavía tenemos que mejorar, que es eh guardar temporalmente en los despachadores las últimas consultas. para que sea más rápido los datos. Sí. Y bueno, ¿qué tenemos eh como desafíos actuales de las siete opciones que vimos hoy y que y qué fue lo que fuimos resolviendo? Eh, y qué podemos mejorar aún todavía, que creo que eso es lo más interesante, es eh en cuanto a la a la conectividad, ¿sí? Eh, ya tenemos una parte de la solución, es decir, que nuestro nodo no se pierde de datos y sigue vivo, diríamos, sigue trabajando, sigue respondiendo.
+
+
+02:38:14
+
+Claudio Omar Biale: Si tendríamos de actuadores para trabajarlos, ¿sí? activarlos o no porque guarda eh esos datos mientras no hay conectividad en la en la a internet, ¿sí? Localmente. Y cuando corresponde y si hay conectividad lo subes a S3. ¿Sí? Entonces el corte de internet es más fácil acá no nos frena la medición. Sí. seguimos midiendo y seguimos actuando si hubieran actuadores. Lo que no tuvimos todavía, por suerte diríamos, sí, eh, ¿qué pasaría con un corte muy largo? Sí, nunca llegamos a ver si se nos llena el el almacenamiento. Sí. Eh, entonces algo que tendríamos que que considerar. Lo siguiente es también eh la lo que es la energía. Si al enviar datos comprimidos podemos enviar menos datos eh en el dispositivo al borde. Me voy a mover a otro lugar porque hay mucho ruido acá. Sí, perdonen. Eh, entonces ahí tenemos una parte de almacenamiento eh, perdón, de energía que eh podemos estar ahorrando.
+
+
+02:39:27
+
+Claudio Omar Biale: Lo que nos falta todavía es trabajar con nodos SP32 que entren en en modo de descanso. Sí, eso todavía no lo estamos manejando, por eso decimos ahí depende del firware actualmente. Un segundo. Y luego cuando hablamos de seguridad sabemos que trabajamos con JWT, tenemos contraseñas encriptadas, si eh tenemos que mejorar el control de acceso en el nodo al borde, ¿sí? Y eh y al broker, sí, ese tema todavía no lo mejoramos. En cuanto a interoperabilidad, sí, trabajamos con tres protocolos. Al trabajar con estos tres protocolos, podemos trabajar con distintos tipos de dispositivos. Si bien seguimos trabajando con SPT2, por ahí tenemos algunos dispositivos más chicos y podría eh si podríamos eh hacer que que trabajen por ejemplo con COAP. Sí. Lo que no tenemos contemplado es ir a a estándares abiertos de interpelidad como CNML o NGSD. Eso no lo tenemos pensado. Y en cuanto a calidad de los datos, sí tenemos tipo por serie y hay distintos tipos. Tenemos eh los sensores con etiquetas que nos permiten dar información adicional, ¿sí?
+
+
+02:40:54
+
+Claudio Omar Biale: como lo hacía por como eso lo hace, por ejemplo, hace datos como Infl DB eh que tienen el concepto de etiquetas y tenemos que mejorar si eh el nivel de calidad, si controlar la calidad, que es algo que no tocamos aún. En cuanto a los costos, tenemos la compresión de dos etapas eh que hacemos que el almacenamiento sea menor en el borde porque se reduce la cantidad. Es algo normal en la mayoría de las bases de datos temporales hacer ese ese tipo de de cosas y por más que no no usen sensor web, si ustedes usan time escalb eh influd como les dije quest db eh IoTDB tienen ese concepto de hacer eh compresión de datos para reducir el almacenamiento, es decir, no es algo nuevo. El concepto de alma de estos objetos es algo que cada vez está usando más, entonces es algo que abarata costos por el costo de almacenamiento que tiene. Y bueno, en cuanto al mantenamiento, sí, eh las series se crean solas, el catálogo se publica en S3, no faltaría manejar firmware, que eso todavía no tenemos eh de forma remota.
+
+
+02:41:59
+
+Claudio Omar Biale: Eh, que que aprendí con este paso de uno a otro. Sí, es diseñar para la desconexión. es algo importante en agricultura eh en la partea agrícola y simplifica todo el resto del desarrollo. El usar un nombre jerárquico eh único que gracias al al sensor wave si nos permitió asociar tópicos con series y simplificó mucho todo el concepto de la app y las pantallas porque era más simple trabajarlo. separar el reciente de que es lo que se almacena en el borde con el histórico, que es lo que se almacena en ese tregojo compatible. Si nos permitió hacer un concepto de, diríamos de abaratar costos, permitir escalado, porque al tener desacoplado los despachadores sí podemos escalar varios despachadores a la vez, entonces podemos trabajar cada parte por separado. Sí. ¿Qué otra cosa nos permite ese tres? que un me olvidé de nombrarlo. Eh, uno se olvida de lo que es replicación de datos y demás porque todos esos datos ya lo maneja eso lo maneja solo S3 directamente. Sí. Eh, y para finalizar, si yo la parte de seguridad la dejé para lo último, pero en IoT agrícola conviene hacerlo desde el comienzo.
+
+
+02:43:12
+
+Claudio Omar Biale: Sí, es algo que que
+lse posgrados: El audio. Ay, yo no te escucho. A ver.
+Gabriel Quiroga: No, yo tampoco lo escucho.
+lse posgrados: Ah, okay. Sí, pensé que era yo. Tal vez se quedó sin internet. Bueno, a ver, esperen. Ah, a ver. Parece que sí que tiene que ver con internet. Esperemos igual. Menos mal que estaba ya terminando. Esperemos a ver si vuelve. M.
+Claudio Omar Biale: ¿Qué?
+lse posgrados: Ay,
+Claudio Omar Biale: ¿Cómo están? Eh,
+lse posgrados: volviste.
+Claudio Omar Biale: me quedé sin batería en la compu. No sé si llegaron a ver el resumen final.
+lse posgrados: Ah,
+Claudio Omar Biale: Eh, era estaba dando los partes de las consultas ahí.
+lse posgrados: sí,
+Claudio Omar Biale: Eh,
+lse posgrados: justo era el final. Por suerte la toda,
+Claudio Omar Biale: sí, así que lo pide disculpas por eso. Eh,
+lse posgrados: ¿no? Todo bien,
+Claudio Omar Biale: esto me movía sin batería ahí.
+
+
+02:45:25
+
+lse posgrados: todo bien.
+Claudio Omar Biale: Pero bueno, esa sería la idea de del trabajo que estamos haciendo. Todavía no está terminado. Decir, pero bueno, eh la idea es trabajar la parte de de los desafíos que uno va encontrando, esos siete desafíos y y cómo lo fuimos adaptando y qué nos queda pendiente. Así que bueno, si hay alguna pregunta quedo atento.
+lse posgrados: No sé si alguien tiene una pregunta para hacerle.
+Rodrigo Hernández: Yo tengo una pregunta, pero de curiosidad técnica, no más.
+lse posgrados: Obvio. Sí, sí.
+Rodrigo Hernández: Eh,
+lse posgrados: Las que sean todas. M.
+Rodrigo Hernández: mencionaste, Claudio, que usaron Fastify eh para el back y después usaron Go también para el
+Claudio Omar Biale: Sí.
+Rodrigo Hernández: middlew. Me gustaría entender por qué usaron dos lenguajes distintos.
+Claudio Omar Biale: Eh, Fastfy lo usamos en la primer versión de de Huerta IOT.
+Rodrigo Hernández: Ok.
+Claudio Omar Biale: Sí, ahí lo teníamos con fastify. Eh, ahora en la segunda versión como el despachador, de si la biblioteca despachadora que que está dentro de sensor w está escrita en Go, ahí la pasamos, decidimos desarrollar el backend eh por una cuestión de simplicidad eh directamente en Go.
+
+
+02:46:42
+
+Claudio Omar Biale: Sí, para no tener dos aplicaciones, porque si no tendríamos que tener el backend que responde al frontend en, por ejemplo, fastify y sí o sí tener otro backend más atrás que siga trabajando con el despachador ese de Go, porque está escrito en Go. Esa biblioteca no tiene una biblioteca despachadora que trabaje con JavaScript o con TScript. Entonces, por eso creamos una nueva directamente en Go.
+Rodrigo Hernández: Claro. Muchas gracias.
+Claudio Omar Biale: Dale.
+lse posgrados: ¿Alguna otra pregunta o comentario o algo? Bueno, Claudio, te voy a pedir que me mandes la presentación.
+Claudio Omar Biale: Sí, profe. Yo le mando ahora conecto mi máquina de vuelta y le y le envío.
+lse posgrados: Sí, mañana,
+Claudio Omar Biale: Sí.
+lse posgrados: tranqui. No le voy a mandar ahora.
+Claudio Omar Biale: Así que sí,
+lse posgrados: Así cuando vos digas, digo, no es urgente.
+Claudio Omar Biale: sí, profe. Así que bueno, eh, ya. Entonces, ahí van a tener mi mi correo de contacto. Si alguien tiene alguna duda, si tiene alguna consulta adicional, eh quedo a disposición.
+lse posgrados: Buenísimo.
+Claudio Omar Biale: Sí.
+lse posgrados: Mil gracias, Claudio, como siempre,
+Claudio Omar Biale: No.
+lse posgrados: por participar como expositor ya fijo de esta de esta materia. Buenísima la clase como siempre.
+Claudio Omar Biale: Bueno, gracias profe, gracias chicos y bueno, a disposición muchos éxitos en el cursado y espero verlo recibido pronto a todos.
+lse posgrados: Gracias.
+Claudio Omar Biale: Gracias.
+lse posgrados: Gracias, Claudio. Vos también. Bueno, les voy a mandar en la semana las dos presentaciones, la de Agricultura Digital y la de Claudio. Y les voy a mandar en otro mail para que quede bien separado y claro, ejemplos de trabajos finales de esta materia que me pidieron hoy. Sí. Bueno, como siempre estoy a disposición, me escriben para lo que sea y bueno, nos vemos el martes que viene con Georgina de vuelta y vamos a ver e frutura. Así que gracias, nos vemos. Chao. Chao.
+Carlos Villalobos: A paracho.
+Facundo Quiroga: Chao,
+Tomas Moretti: Gracias.
+Facundo Quiroga: nos vemos.
+Tomas Moretti: Chao.
+Facundo Quiroga: Gracias.
+Rodrigo Hernández: Buenas noches,
+
+
+La transcripción finalizó después de 02:49:52
+
+Esta transcripción editable se generó por computadora y puede contener errores. Los usuarios también pueden cambiar el texto después de que se cree.

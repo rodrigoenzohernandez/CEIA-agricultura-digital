@@ -721,7 +721,7 @@ Las slides de oportunidades usan ilustraciones generadas con IA:
 
 - **No hay campus.** Lola manda por mail, después de cada clase, las presentaciones de docentes y expositores.
 - **Grabaciones:** están en un Drive cuyo link figura en el archivo de notas que comparte Lola. Pueden tardar unas horas en subir.
-- **Próxima clase:** martes a las 19 h (27/10, fruticultura), arranca con el multiple choice sobre esta clase.
+- **Próxima clase:** martes 27/10 a las 19 h, con el multiple choice sobre esta clase. El cronograma decía fruticultura, pero se dio [horticultura](../02-horticultura/resumen.md).
 
 ## Anexo: última slide (no se mostró en clase)
 
