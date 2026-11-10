@@ -1,0 +1,111 @@
+nov 3, 2026
+Agricultura Digital (3/8) - a255b26
+Invitado lola.llaneza@gmail.com gtiscornia@inia.org.uy ggarciainza@gmail.com Agricultura Digital - CEIA 25Co2026
+Archivos adjuntos Agricultura Digital (3/8) - a255b26
+Registros de la reunión Transcripción Grabación 
+
+
+Resumen
+Revisión de fruticultura y presentación de tecnología para control de plagas mediante visión artificial.
+
+Fisiología y fruticultura
+Repaso de conceptos de fotosíntesis, economía del agua y producción de frutales en Argentina.
+
+Control de plagas
+Presentación de maestría sobre separación automática de insectos utilizando inteligencia artificial y láser.
+
+
+Próximos pasos
+[lse posgrados] Enviar examen: Distribuir el examen de la clase anterior a los alumnos.
+[lse posgrados] Consultar situación alumno: Preguntar al estudiante asincrónico si sigue cursando la materia.
+[El grupo] Ajustar sistema de clasificación: Ajustar el sistema de clasificación de la drosófila Suzuki debido a los errores identificados en el nuevo prototipo desarrollado para Chile.
+[LUCIANO MATIAS CIMINARI SMITH] Enviar presentación: Enviar la nueva presentación con el video a la cátedra para que sea compartida con los alumnos.
+[lse posgrados] Enviar selección trabajos: Enviar la selección de trabajos anteriores realizada por Martin H a los alumnos.
+
+
+Detalles
+Distribución de examen y gestión de contenidos previos: La persona participante `lse posgrados` inicia la sesión compartiendo un enlace de examen basado en los trabajos solicitados al mentor Martín Horn, con el propósito de evaluar la variedad de perspectivas de la clase anterior.
+
+Revisión de resultados del examen sobre tasa respiratoria: `lse posgrados` comparte los resultados donde nueve personas completan la evaluación, y se analiza la pregunta sobre la alta tasa respiratoria en hortalizas con fruto u hoja; la persona participante `Lucas Didone` explica que respondió falso por considerar que variaba según especie y temperatura, tras lo cual `Georgina` aclara que la tasa respiratoria elevada genera la característica de perecedero.
+
+Actividad de terminología sobre fruticultura: `lse posgrados` y `Georgina` guían una actividad de terminología donde la mitad de la clase contesta conceptos clave como etileno, interacción genotipo por ambiente y radiación interceptada.
+
+Fundamentos fisiológicos y fotosíntesis en sistemas vegetales: `Georgina` explica que las plantas actúan como productores primarios en la base de la red trófica, utilizando energía lumínica, dióxido de carbono y una pequeña porción de agua para generar hidratos de carbono mediante la fotosíntesis, liberando oxígeno y produciendo azúcares que conforman el fruto.
+
+Economía del carbono y regulación estomática: `Georgina` detalla la diferencia entre radiación incidente e interceptada para maximizar la absorción, y describe cómo los estomas ubicados en el envés de la hoja actúan como válvulas reguladoras para el ingreso de dióxido de carbono y la pérdida de agua por transpiración.
+
+Economía del agua y crecimiento celular en plantas: `Georgina` expone que el agua ingresa desde el suelo por diferencia de potencial hídrico, y que ante la falta de agua, el cese del crecimiento celular por pérdida de presión de turgencia contra la pared vegetal ocurre mucho antes de que se detenga la fotosíntesis.
+
+Sensado ambiental y adaptación genotípica: `Georgina` señala que las plantas sésiles detectan señales lumínicas e hídricas para ajustar su fisiología y morfología, y ejemplifica con tesis de posgrado en colaboración con INTA sobre la interacción genotipo por ambiente para predecir el rendimiento de variedades de durazneros.
+
+Características y distribución de la fruticultura en Argentina: `Georgina` define la fruticultura como el cultivo de especies leñosas y semileñosas permanentes con baja frecuencia de disturbios, indicando que ocupa unas 500,000 hectáreas en el país, con mayor concentración en las provincias de Mendoza, San Juan, Tucumán, Entre Ríos y Río Negro.
+
+Producción vitivinícola y variedades destacadas: `Georgina` introduce la vid como el principal cultivo nacional impulsado por la industria vitivinícola con cerca de 900 bodegas, además de la producción de pasas y uvas de mesa; posteriormente, la persona participante `Gabriel Quiroga` identifica al Malbec como la variedad más relevante, adaptada a diversas regiones como Salta y Patagonia.
+
+Sistemas de conducción y riego en la viticultura: `Georgina` contrasta los sistemas de riego por acequias y conducción en parral en zonas áridas como La Rioja con el riego por goteo y sistemas en espaldera en zonas húmedas.
+
+Producción y exportación industrial de cítricos: `Georgina` explica que los cítricos se cultivan comercialmente hasta San Pedro en Buenos Aires, destacando a Tucumán como líder mundial en producción de limones que representan el 30% del total mundial, consolidando a Argentina como el segundo exportador mundial de limón en fresco, cuarto en esencia y primero en esencia y jugo de limón.
+
+Producción de olivos y variedades aceiteras y de mesa: `Georgina` detalla que el olivo abarca unas 85,000 hectáreas en Cuyo y el Noroeste Argentino, mencionando variedades como Arbequina para aceite y el cultivar nacional Arauco con frutos grandes de punta inclinada que impiden el descorazado mecánico.
+
+Cultivo de frutas de pepita y tecnología de poscosecha: `Georgina` y `Gabriel Quiroga` abordan la producción de manzanas y peras en el Valle de Río Negro y Mendoza, destacando variedades como Red Delicious, Gala, Fuji y Pink Lady, y enfatizando el rol clave del almacenamiento en cámaras de frío para la disponibilidad anual y exportación a destinos como Brasil y Rusia.
+
+Producción de frutas de carozo y aplicaciones industriales: `Georgina` describe la producción de duraznos y ciruelas en Buenos Aires, Mendoza, San Juan y La Rioja, mencionando su uso para consumo en fresco, enlatados, mermeladas y ciruelas pasas, además de los desafíos en la corta vida postcosecha.
+
+Ciclo fenológico anual de los árboles frutales: `Georgina` concluye explicando la fase otoñal del ciclo fenológico de los árboles frutales, donde las plantas reducen su tasa de crecimiento vegetativo, degradan los pigmentos de las hojas y recirculan nutrientes hacia órganos permanentes como ramas y raíces.
+
+El ciclo estacional de las plantas y la dormición invernal: La persona que expone, Georgina, explica que la caída de hojas en otoño es una respuesta al acortamiento del fotoperiodo y la disminución de la temperatura, señales confiables frente a variaciones térmicas imprevistas (01:01:07). Durante el invierno, las yemas acumulan horas de frío como estrategia de supervivencia para evitar brotes prematuros ante aumentos breves de temperatura, mientras que en primavera el incremento térmico rompe la dormición y activa la brotación floral y vegetativa (01:02:21).
+
+Fecundación y desarrollo de frutos: Georgina detalla que las flores originan los frutos, transformándose el ovario en la parte carnosa y los óvulos en semillas. La fecundación del óvulo genera un embrión que produce señales hormonales indispensables para el desarrollo del fruto; por ejemplo, en cultivos como el kiwi se requiere una alta densidad de polen dispersado manualmente para maximizar el tamaño y la cantidad de semillas, mientras que en frutos sin semilla se emplean variedades partenocárpicas u hormonas exógenas aplicadas por productores (01:03:42).
+
+Prácticas de manejo fenológico como la poda y el raleo: Georgina señala que la poda de frutales se realiza de forma anual o bianual en otoño durante el reposo de la planta, y el raleo de flores elimina capullos excedentes para asegurar frutos de mayor tamaño y mejor cotización comercial. Mediante el uso de escalas fenológicas de yemas en manzanos, se identifican estadios de desarrollo donde ocurren riesgos críticos de daños por heladas que pueden comprometer toda la producción anual (01:06:27).
+
+Mecanización de la poda y la cosecha en fruticultura: Georgina expone que la poda manual tradicional permite la selección de ramas y la arquitectura del árbol, pero se complementa con podadoras mecánicas acopladas a tractores en plantaciones intensivas y superintensivas (01:08:47). En cuanto a la cosecha, tradicionalmente manual, se han adoptado sistemas mecanizados como máquinas cabalgantes y vibradores (shakers) que sujetan el tronco y agitan el árbol a alta frecuencia para desprender la fruta hacia contenedores automáticos (01:10:24).
+
+Evolución y tecnificación de los sistemas de riego: Georgina indica que el riego es un factor crítico debido a que más del 90% del órgano cosechado es agua. Históricamente se utilizaba riego superficial por acequias con altos desperdicios por evaporación, pero la tecnología evolucionó hacia sistemas de riego por goteo con dosificación precisa, integración de fertilizantes mediante fertirriego y automatización a través de sensores de humedad del suelo conectados a estaciones meteorológicas (01:13:28).
+
+Frutas climatéricas y el manejo de la síntesis de etileno: Georgina explica que las frutas climatéricas (como bananas, paltas, manzanas y duraznos) responden a la síntesis de etileno desencadenando un pico respiratorio y una maduración exponencial, donde el gas emitido por una pieza activa a las vecinas (01:16:20). En contraste, las frutas no climatéricas (como cítricos, uvas y cerezas) presentan una tasa respiratoria basal y baja producción constante de etileno, lo que hace necesario separar ambos grupos en el almacenamiento comercial para evitar activaciones no deseadas de maduración (01:17:46).
+
+Operaciones en planta de empaque y almacenamiento controlado: Georgina describe que al llegar la fruta del campo a la planta de empaque, se lava, se acondiciona, se clasifica por tamaño y calidad mediante selección humana o visión robótica, y se protege con fungicidas y ceras contra la desecación (01:22:11). Para conservar productos como la manzana desde marzo hasta diciembre, se utilizan cámaras frigoríficas con atmósfera controlada (modificando proporciones de oxígeno, dióxido de carbono y nitrógeno), circulación de aire, absorbedores de etileno y el uso de la molécula 1-metilciclopropeno para bloquear los receptores de etileno y retrasar la maduración (01:23:49).
+
+Proyecto de automatización para plataformas de cosecha de manzanas: Gonzalo Cuervo comparte el desarrollo de un proyecto de visión por computadora implementado para automatizar plataformas móviles de cosecha en Mendoza, con el objetivo de prescindir del operario conductor que avanza a 3 kilómetros por hora y avanzar hacia la detección mediante redes neuronales de frutos maduros. Georgina menciona que, aunque existen alternativas como drones cosechadores, la mecanización de la cosecha es una fuerte necesidad en la industria debido a los altos costos y complicaciones logísticas de trasladar cuadrillas temporales de cosecheros (01:28:21) (01:30:49).
+
+Repaso de fisiología y anuncio del receso previo al módulo de plagas: Georgina sintetiza los conceptos fisiológicos abordados para su aplicación en clases posteriores y establece un receso hasta las 9 horas, momento en el cual Luciano Matias Ciminari Smith presentará una introducción sobre la detección temprana y mitigación de plagas y enfermedades en los cultivos (01:32:19).
+
+Tecnología automatizada para el procesamiento de insectos y plagas: Luciano Matias Ciminari Smith se conecta desde Carilo y expone los avances de un desarrollo tecnológico recientemente patentado y vendido a Chile, el cual implementa una cinta transportadora para procesar grandes cantidades de insectos a alta velocidad (01:57:41). Esta innovación está diseñada para plagas que carecen de métodos químicos o físicos tradicionales para separar machos y hembras, optimizando tiempos respecto a métodos anteriores en reactores de cría (01:59:31).
+
+**Introducción al proyecto de maestría sobre control de plagas**: LUCIANO MATIAS CIMINARI SMITH presentó el trabajo final de su maestría, enfocado en combinar la ingeniería industrial, la biología y la inteligencia artificial para resolver un problema de separación de insectos plaga. LUCIANO MATIAS CIMINARI SMITH explicó que en ciertas especies se logra separar los machos subiendo la temperatura, pero que para otras se requieren métodos específicos cuando no existen alternativas genéticas, químicas o físicas, mencionando que estos estudios se realizan en Bariloche y a nivel internacional (02:00:35).
+
+**Búsqueda inicial y selección del caso de estudio del INTA**: LUCIANO MATIAS CIMINARI SMITH relató que su primera opción era un proyecto de inteligencia artificial aplicado a una industria metalúrgica en Estados Unidos, pero fue descartado debido a demoras de hasta treinta días en las respuestas. Ante esto, LUCIANO MATIAS CIMINARI SMITH buscó un tema que combinara la ingeniería industrial con la biología y las matemáticas, encontrando una propuesta del Instituto Nacional de Tecnología Agropecuaria (INTA) dependiente del CONICET en Bariloche para separar machos y hembras mediante la técnica del insecto estéril (02:02:52).
+
+**Características de la plaga Drosophila suzukii**: LUCIANO MATIAS CIMINARI SMITH detalló que el insecto objeto de estudio es la *Drosophila suzukii* (o mosca de las alas manchadas, descrita por Matsumura en 1916), diferenciándola de la *Drosophila melanogaster* común de cocina. LUCIANO MATIAS CIMINARI SMITH indicó que los machos tienen dos puntos en las alas y peines sexuales, mientras que las hembras poseen un ovipositor en forma de sierra cerrado que les permite perforar frutas con cáscara blanda, a diferencia de sus parientes que solo usan fruta en descomposición (02:05:09).
+
+**Ciclo de vida y comportamiento alimentario de la plaga**: LUCIANO MATIAS CIMINARI SMITH explicó que la hembra de *Drosophila suzukii* puede poner hasta 380 o 400 huevos en total a razón de unos 40 huevos por día, generando un crecimiento exponencial en los cultivos. El ciclo completo dura entre 25 y 55 días (con 12 a 72 horas para el huevo, 5 a 7 días como larva dentro de la fruta donde los pesticidas no actúan, y 4 a 15 días en estado de pupa), afectando a cultivos polífagos como frambuesas, arándanos, frutillas, cerezas, uvas y ciruelas (02:08:23).
+
+**Expansión geográfica y daños económicos de la plaga**: LUCIANO MATIAS CIMINARI SMITH señaló que la plaga fue descubierta en Japón en 1916 (donde no es plaga por la presencia de avispas depredadoras), expandiéndose en 2008 a España, Italia y la costa oeste de Estados Unidos por el comercio internacional, y llegando a Brasil, Uruguay, Argentina (presente en unas 10 provincias como Buenos Aires, Río Negro, Chubut, Mendoza, San Juan, Tucumán, Salta y Santa Cruz) y Chile alrededor de 2015. LUCIANO MATIAS CIMINARI SMITH destacó que la plaga causa pérdidas económicas del 100% en contenedores de exportación y hasta un 65% a nivel mundial en ciertas frutas (02:11:36).
+
+**Limitaciones de los métodos tradicionales de control**: LUCIANO MATIAS CIMINARI SMITH evaluó los métodos existentes: los plaguicidas pierden efecto cuando la larva vive dentro de la fruta y la especie desarrolla resistencia rápidamente; las trampas y los métodos culturales (como limpieza y podas) no eliminan la plaga por completo; y el control biológico mediante la introducción de avispas que atacan las pupas está prohibido en Argentina por el tratado de Nogoyá, haciendo que el uso integral actual sea insuficiente (02:15:10).
+
+**Implementación de la Técnica del Insecto Estéril**: LUCIANO MATIAS CIMINARI SMITH describió la Técnica del Insecto Estéril (TIE), la cual consiste en criar insectos, obtener las pupas, aplicarles radiación gama en Bariloche para esterilizarlos, y liberar los machos estériles en los cultivos en una proporción de 10 a 1 respecto al macho fértil. LUCIANO MATIAS CIMINARI SMITH explicó que esto incrementa la probabilidad de que la hembra copule con un macho estéril, generando huevos inviables que reducen la población de la plaga casi a cero (02:17:19).
+
+**Desafío de la separación de sexos y propuesta de visión por computadora**: LUCIANO MATIAS CIMINARI SMITH planteó que la TIE requiere liberar únicamente machos estériles para evitar reducir la efectividad, pero a diferencia de otros insectos (como los mosquitos, donde se eleva la temperatura para eliminar hembras), *Drosophila suzukii* carece de un método bioingenieril simple para separar sexos. Para resolver esto, LUCIANO MATIAS CIMINARI SMITH propuso un sistema basado en visión por computadora e inteligencia artificial para la adquisición, detección, clasificación y eliminación de hembras (02:21:36).
+
+**Procesamiento de imágenes y arquitectura de red neuronal**: LUCIANO MATIAS CIMINARI SMITH detalló el proceso técnico: las moscas se anestesian con dióxido de carbono en una placa especial, y se les toma una foto fija utilizando una cámara y lente industrial junto con un aro de iluminación. Tras pruebas con recortes de 150 por 150 píxeles y tres canales de color, LUCIANO MATIAS CIMINARI SMITH probó diversas redes neuronales y seleccionó una arquitectura simple de seis capas (cuatro convolucionales con ReLU, una capa de max pooling y capas totalmente conectadas) por ser la más rápida y precisa (02:23:50).
+
+**Análisis de interpretabilidad de la red mediante mapas de calor**: LUCIANO MATIAS CIMINARI SMITH indicó que, ante la consulta del director de tesis sobre los criterios de clasificación de la red, aplicó la técnica Rise de oclusiones aleatorias para generar mapas de calor. LUCIANO MATIAS CIMINARI SMITH descubrió que la red neuronal identificaba a las hembras observando la cabeza y el ovipositor/abdomen, y a los machos mediante las manchas en las alas y la curvatura del abdomen (02:25:58).
+
+**Desarrollo del sistema de eliminación con láser y metaurísticas**: LUCIANO MATIAS CIMINARI SMITH explicó que, tras una lluvia de ideas, se diseñó un prototipo utilizando un láser de corte para eliminar las hembras con precisión. Como el orden secuencial de recorrido del láser era ineficiente, LUCIANO MATIAS CIMINARI SMITH (quien también imparte la materia investigación operativa superior) aplicó metaurísticas de recorrido, evaluando Gridara, Búsqueda Local (que redujo la distancia recorrida en un 58,6% con un procesamiento inferior a medio segundo) y Optimización por Colonia de Hormigas (descartada por demorar más de 5 segundos), seleccionando finalmente la búsqueda local (02:29:33).
+
+**Especificaciones del prototipo y métricas de eficiencia**: LUCIANO MATIAS CIMINARI SMITH resumió los componentes del primer prototipo (cámara industrial de origen chino, lente fija, aro de luz, láser de Mercado Libre y placa de anestesia de acrílico con dióxido de carbono) y los resultados obtenidos con 144 moscas, donde solo una fue mal clasificada, logrando una eficiencia superior al 98%. LUCIANO MATIAS CIMINARI SMITH ejemplificó que para un campo de 100 hectáreas con un ataque de 3 machos fértiles cada 100 metros cuadrados, se requieren 300.000 machos estériles semanales; la clasificación manual requeriría 100 horas de trabajo humano (2 semanas y media a 8 horas diarias), mientras que el software reduce el proceso a 4 horas (02:32:50).
+
+**Presentación de evidencias visuales y evolución del proyecto hacia Chile**: LUCIANO MATIAS CIMINARI SMITH mostró imágenes del laboratorio del INTA en Bariloche, el prototipo inicial con una cámara Nikon y lámpara LED, pruebas de impacto del láser, y explicó que el proyecto fue adquirido por instituciones en Chile. LUCIANO MATIAS CIMINARI SMITH detalló que actualmente en Chile se está escalando el sistema mediante impresión 3D, una cinta transportadora y servomotores para clasificar automáticamente las moscas en tiempo real dirigiéndolas a canales de supervivencia o eliminación, aunque aún requiere ajustes por errores de clasificación (02:36:21).
+
+**Comparación con otros métodos de control de plagas en Mendoza**: Gabriel Quiroga consultó sobre la fecha del proyecto y lo comparó con las avionetas que arrojan bolsas de moscas en Mendoza. LUCIANO MATIAS CIMINARI SMITH aclaró que en Mendoza opera el Iscamén para la mosca de la fruta y para los mosquitos rojos (cuyos sexos se separan mediante temperatura u otros métodos de bioingeniería), reiterando que el aporte diferencial de su trabajo radicó en resolver la ausencia de un método de separación previo para *Drosophila suzukii*, utilizando visión por computadora e inteligencia artificial (02:40:41).
+
+**Experiencia de investigación, costos y retribución económica**: Georgina consultó sobre posibles ofrecimientos para otras investigaciones. LUCIANO MATIAS CIMINARI SMITH respondió que, a pesar de recibir propuestas, evaluarlas implicaba un presupuesto difícil de aprobar para trabajar a distancia desde Bariloche. LUCIANO MATIAS CIMINARI SMITH indicó que realizó el trabajo por interés personal y culminación de su maestría, asumiendo los costos iniciales, aunque el CONICET financió la publicación de un artículo científico y se le prometió una retribución económica debido a la venta de la tecnología a Chile, además de figurar en la patente internacional (02:45:06) (02:49:07).
+
+**Experimentación adicional sobre el comportamiento de vuelo y cierre de la clase**: LUCIANO MATIAS CIMINARI SMITH comentó que en el laboratorio del INTA se realizan otros experimentos utilizando impresoras 3D, como registrar las revoluciones de vuelo de una mosca unida a un cono para estimar la velocidad y distancias máximas de traslado, o probar atrayentes mediante cámaras con olores. Finalmente, lse posgrados agradeció a LUCIANO MATIAS CIMINARI SMITH por su participación, solicitó la versión actualizada de la presentación con los videos para compartirla con el estudiantado, y cerró la sesión indicando los temas para la próxima clase del martes (02:47:10) (02:49:58).
+
+
+Revisa las notas de Gemini para asegurarte de que sean precisas. Obtén sugerencias y descubre cómo Gemini toma notas
+Cómo es la calidad de estas notas específicas? Responde una breve encuesta para darnos tu opinión; por ejemplo, cuán útiles te resultaron las notas.

@@ -14,7 +14,7 @@ Materia optativa de la Especialización en Inteligencia Artificial (UBA).
 |---|-------|---------|---------------|---------|-----------|
 | 1 | 21/10 (mié, excepcional) | Guadalupe Tiscornia | Introducción a los sistemas | [resumen](clases/01-introduccion-sistemas/resumen.md) · [red conceptual](clases/01-introduccion-sistemas/red-conceptual.md) | [Drive](https://drive.google.com/file/d/18BGqsrmyBp-I0znhr0XbOmUqmCRLFYeS/view) |
 | 2 | 27/10 | Georgina García Inza · invitado: Claudio Biale | Vegetal intensivo: horticultura · IoT en horticultura (Huerta IoT) | [resumen](clases/02-horticultura/resumen.md) · [red conceptual](clases/02-horticultura/red-conceptual.md) | [Drive](https://drive.google.com/file/d/1HchkqUlRgCPfbryj7eILFi-TvHL3Hiou/view) |
-| 3 | 03/11 | Georgina García Inza | Vegetal intensivo: fruticultura | | |
+| 3 | 03/11 | Georgina García Inza · invitado: Luciano Ciminari Smith | Vegetal intensivo: fruticultura · Separación de machos y hembras para la técnica del insecto estéril (SITIA) | [resumen](clases/03-fruticultura/resumen.md) · [red conceptual](clases/03-fruticultura/red-conceptual.md) | *(falta el link)* |
 | 4 | 10/11 | Santiago Ferrando | Vegetal extensivo (II): forestal | | |
 | 5 | 17/11 | Sebastián Mazzilli | Vegetal extensivo (I): anuales | | |
 | 6 | 24/11 | Rocío Martínez | Lechería | | |
